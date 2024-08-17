@@ -1,0 +1,2141 @@
+,Player,Division,Conference,Power5,School,Drafted?,position_pick_number,G,Rush,Rush Yds,Rush TD,Rush Yds/Att,Rush Yds/G,Rush TD/G
+0,A.J. Carter,FCS,Southland,N,McNeese,N,Undrafted,4,31,156,2,5.0,39.0,0.5
+1,A.J. Davis,FBS,ACC,Y,Pittsburgh,N,Undrafted,12,127,530,4,4.2,44.2,0.3
+2,A.J. Hines,FCS,NEC,N,Duquesne,N,Undrafted,41,881,4629,44,5.3,112.9,1.1
+3,A.J. Ouellette,FBS,MAC,N,Ohio,N,Undrafted,39,556,2999,25,5.4,76.9,0.6
+4,A.J. Turner,FBS,SEC,Y,South Carolina,N,Undrafted,13,98,531,3,5.4,40.8,0.2
+5,A.J. Walker,FCS,Southland,N,Lamar University,N,Undrafted,12,146,623,2,4.3,51.9,0.2
+6,AJ Deinhart,FCS,Pioneer,N,Butler,N,Undrafted,11,101,496,3,4.9,45.1,0.3
+7,AJ Dillon,FBS,ACC,Y,Boston College,Y,6.0,36,845,4382,38,5.2,121.7,1.1
+8,Aaron Dawson,FCS,Pioneer,N,Valparaiso,N,Undrafted,34,442,2500,25,5.7,73.5,0.7
+9,Aaron Duckworth,FBS,Sun Belt,N,Idaho,N,Undrafted,25,337,1697,9,5.0,67.9,0.4
+10,Aaron Dumas,FBS,Mountain West,N,New Mexico,N,Undrafted,11,136,658,2,4.8,59.8,0.2
+11,Aaron Dykes,FCS,CAA,N,Richmond,N,Undrafted,28,347,1506,13,4.3,53.8,0.5
+12,Aaron Forbes,FCS,CAA,N,Villanova,N,Undrafted,35,404,2195,17,5.4,62.7,0.5
+13,Aaron Green,FBS,Big 12,Y,TCU,N,Undrafted,26,373,2194,20,5.9,84.4,0.8
+14,Aaron Jones,FBS,CUSA,N,UTEP,Y,19.0,33,626,3905,32,6.2,118.3,1.0
+15,Aaron Kemper,FBS,FBS Independent,N,Army West Point,N,Undrafted,11,101,544,3,5.4,49.5,0.3
+16,Aaron Savage,FCS,MEAC,N,Norfolk St.,N,Undrafted,11,94,427,3,4.5,38.8,0.3
+17,Aaron Shampklin,FCS,Ivy League,N,Harvard,N,Undrafted,9,150,842,11,5.6,93.6,1.2
+18,Aaron Wimberly,FBS,Big 12,Y,Iowa St.,N,Undrafted,21,288,1209,9,4.2,57.6,0.4
+19,Abdul Adams,FBS,Big 12,Y,Oklahoma,N,Undrafted,12,59,542,1,9.2,45.2,0.1
+20,Abou Toure,FCS,OVC,N,UT Martin,N,Undrafted,23,286,1647,10,5.8,71.6,0.4
+21,Abram Smith,FBS,Big 12,Y,Baylor,N,Undrafted,14,257,1601,12,6.2,114.4,0.9
+22,Aca'Cedric Ware,FBS,Pac-12,Y,Southern California,N,Undrafted,12,125,825,6,6.6,68.8,0.5
+23,Adam Choice,FBS,ACC,Y,Clemson,N,Undrafted,15,77,548,7,7.1,36.5,0.5
+24,Adam Cofield,FCS,MVFC,N,North Dakota St.,N,Undrafted,31,249,1376,18,5.5,44.4,0.6
+25,Adam Eastwood,FCS,Big Sky,N,Montana,N,Undrafted,11,125,514,9,4.1,46.7,0.8
+26,Adam Muema,FBS,Mountain West,N,San Diego St.,N,Undrafted,13,256,1244,15,4.9,95.7,1.2
+27,Adeolu Adeleke,FCS,Big South,N,Kennesaw St.,N,Undrafted,16,70,530,3,7.6,33.1,0.2
+28,Adrian Feliz-Platt,FCS,CAA,N,Towson,N,Undrafted,11,102,480,1,4.7,43.6,0.1
+29,Adrian Killins,FBS,AAC,N,UCF,N,Undrafted,38,356,2134,21,6.0,56.2,0.6
+30,Aeris Williams,FBS,SEC,Y,Mississippi St.,N,Undrafted,38,458,2351,13,5.1,61.9,0.3
+31,Ahmaad Tanner,FCS,OVC,N,Austin Peay,N,Undrafted,28,370,1771,22,4.8,63.2,0.8
+32,Ahmad Antoine,FCS,SWAC,N,Prairie View,N,Undrafted,20,216,1134,9,5.2,56.7,0.4
+33,Ahmari Davis,FBS,Mountain West,N,New Mexico,N,Undrafted,9,140,832,7,5.9,92.4,0.8
+34,Aidan Borguet,FCS,Ivy League,N,Harvard,N,Undrafted,30,412,2430,25,5.9,81.0,0.8
+35,Aidan Robbins,FBS,Big 12,Y,BYU,N,Undrafted,19,310,1494,10,4.8,78.6,0.5
+36,Ailym Ford,FCS,SoCon,N,Chattanooga,N,Undrafted,38,760,3832,36,5.0,100.8,0.9
+37,Akaninyene Umoh,FCS,Big Sky,N,Cal Poly,N,Undrafted,12,77,454,7,5.9,37.8,0.6
+38,Akeel Lynch,FBS,Big Ten,Y,Penn St.,N,Undrafted,22,207,1036,5,5.0,47.1,0.2
+39,Akeem Hunt,FBS,Big Ten,Y,Purdue,N,Undrafted,24,296,1413,7,4.8,58.9,0.3
+40,Akeem Judd,FBS,SEC,Y,Ole Miss,N,Undrafted,12,164,826,6,5.0,68.8,0.5
+41,Akrum Wadley,FBS,Big Ten,Y,Iowa,N,Undrafted,35,503,2686,27,5.3,76.7,0.8
+42,Al Wooten II,FCS,SoCon,N,Mercer,N,Undrafted,24,282,1210,10,4.3,50.4,0.4
+43,Alan Barnwell,FCS,FCS Independent,N,Charlotte,N,Undrafted,11,133,636,5,4.8,57.8,0.5
+44,Alan Lamar,FCS,Ivy League,N,Yale,N,Undrafted,17,255,1242,14,4.9,73.1,0.8
+45,Alan Watson,FCS,Ivy League,N,Columbia,N,Undrafted,10,133,627,1,4.7,62.7,0.1
+46,Alex Barnes,FBS,Big 12,Y,Kansas St.,N,Undrafted,25,402,2174,19,5.4,87.0,0.8
+47,Alex Collins,FBS,SEC,Y,Arkansas,Y,13.0,38,665,3703,36,5.6,97.4,0.9
+48,Alex Fontenot,FBS,Pac-12,Y,Colorado,N,Undrafted,11,185,874,5,4.7,79.5,0.5
+49,Alex Gardner,FBS,CUSA,N,FIU,N,Undrafted,37,548,2481,21,4.5,67.1,0.6
+50,Alex JAMES,FCS,MEAC,N,South Carolina St.,N,Undrafted,18,132,791,3,6.0,43.9,0.2
+51,Alex Lakes,FCS,SoCon,N,Mercer,N,Undrafted,31,433,2248,28,5.2,72.5,0.9
+52,Alex Mathews,FCS,Patriot,N,Colgate,N,Undrafted,23,249,1073,10,4.3,46.7,0.4
+53,Alex Ramsey,FCS,SoCon,N,VMI,N,Undrafted,12,266,1326,22,5.0,110.5,1.8
+54,Alex Ross,FCS,Big South,N,Coastal Carolina,N,Undrafted,13,88,595,4,6.8,45.8,0.3
+55,Alex Valles,FCS,Patriot,N,Georgetown,N,Undrafted,11,104,462,3,4.4,42.0,0.3
+56,Alexander Mattison,FBS,Mountain West,N,Boise St.,Y,7.0,27,514,2501,29,4.9,92.6,1.1
+57,Alfonzo Graham,FCS,MEAC,N,Morgan St.,N,Undrafted,20,250,1656,13,6.6,82.8,0.6
+58,Alfred Blue,FBS,SEC,Y,LSU,Y,13.0,13,71,343,1,4.8,26.4,0.1
+59,Algernon Brown,FBS,FBS Independent,N,BYU,N,Undrafted,11,127,709,11,5.6,64.5,1.0
+60,Alijah Jackson,FCS,Big South,N,Robert Morris,N,Undrafted,42,666,2808,12,4.2,66.9,0.3
+61,Allen Smith,FCS,Ivy League,N,Brown,N,Undrafted,30,400,1522,22,3.8,50.7,0.7
+62,Alonzo Booth,FCS,OVC,N,Eastern Ky.,N,Undrafted,21,292,1381,21,4.7,65.8,1.0
+63,Alonzo Harris,FBS,Sun Belt,N,Louisiana,N,Undrafted,25,371,1749,26,4.7,70.0,1.0
+64,Alonzo Smith,FBS,MAC,N,Miami (OH),N,Undrafted,46,572,2613,19,4.6,56.8,0.4
+65,Alton McCaskill,FBS,AAC,N,Houston,N,Undrafted,14,189,961,16,5.1,68.6,1.1
+66,Alvin Kamara,FBS,SEC,Y,Tennessee,Y,5.0,24,210,1294,16,6.2,53.9,0.7
+67,Amar Johnson,FCS,MVFC,N,South Dakota St.,N,Undrafted,44,344,1974,14,5.7,44.9,0.3
+68,Amare Jones,FBS,AAC,N,Tulane,N,Undrafted,10,67,389,2,5.8,38.9,0.2
+69,Amari Daniels,FBS,SEC,Y,Texas A&M,N,Undrafted,12,105,532,6,5.1,44.3,0.5
+70,Amauri Pesek-Hickson,FCS,MVFC,N,UNI,N,Undrafted,8,96,441,5,4.6,55.1,0.6
+71,Ameer Abdullah,FBS,Big Ten,Y,Nebraska,Y,4.0,26,545,3301,28,6.1,127.0,1.1
+72,Ameer King,FCS,Southland,N,UIW,N,Undrafted,22,183,965,2,5.3,43.9,0.1
+73,Amin Woods,FCS,Pioneer,N,Marist,N,Undrafted,21,277,1138,9,4.1,54.2,0.4
+74,Andre Clarke,FCS,MEAC,N,N.C. Central,N,Undrafted,20,238,1078,16,4.5,53.9,0.8
+75,Andre Givens,FBS,MAC,N,Bowling Green,N,Undrafted,13,101,479,8,4.7,36.8,0.6
+76,Andre Stoddard,FCS,SoCon,N,Wofford,N,Undrafted,25,332,1738,26,5.2,69.5,1.0
+77,Andre Williams,FBS,ACC,Y,Boston College,Y,8.0,13,355,2177,18,6.1,167.5,1.4
+78,Andrew Casten,FCS,Ivy League,N,Harvard,N,Undrafted,8,76,457,8,6.0,57.1,1.0
+79,Andrew Clair,FBS,MAC,N,Bowling Green,N,Undrafted,22,242,1427,9,5.9,64.9,0.4
+80,Andrew Coke,FCS,Ivy League,N,Brown,N,Undrafted,19,192,808,7,4.2,42.5,0.4
+81,Andrew Goldsmith,FCS,OVC,N,Tennessee Tech,N,Undrafted,22,241,1073,6,4.5,48.8,0.3
+82,Andrew Pierce,FCS,CAA,N,Delaware,N,Undrafted,12,183,822,10,4.5,68.5,0.8
+83,Andrew Van Buren,FBS,Mountain West,N,Boise St.,N,Undrafted,7,111,382,8,3.4,54.6,1.1
+84,Angel Johnson,FCS,MVFC,N,South Dakota St.,N,Undrafted,13,43,381,5,8.9,29.3,0.4
+85,Antario Brown,FBS,MAC,N,NIU,N,Undrafted,32,403,2523,22,6.3,78.8,0.7
+86,Anthon Samuel,FBS,CUSA,N,FIU,N,Undrafted,11,132,582,5,4.4,52.9,0.5
+87,Anthone Taylor,FBS,MAC,N,Buffalo,N,Undrafted,31,550,2631,18,4.8,84.9,0.6
+88,Anthony Grant,FBS,Big Ten,Y,Nebraska,N,Undrafted,12,218,915,6,4.2,76.2,0.5
+89,Anthony Jones,FBS,CUSA,N,FIU,N,Undrafted,24,303,1429,13,4.7,59.5,0.5
+90,Anthony Jordan,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,30,351,1665,26,4.7,55.5,0.9
+91,Anthony Knight,FCS,Big Sky,N,Montana St.,N,Undrafted,10,116,496,12,4.3,49.6,1.2
+92,Anthony McFarland Jr.,FBS,Big Ten,Y,Maryland,Y,12.0,23,245,1648,12,6.7,71.7,0.5
+93,Anthony Philyaw,FCS,MEAC,N,Howard,N,Undrafted,32,536,2720,33,5.1,85.0,1.0
+94,Anthony Scaccia,FCS,Pioneer,N,Butler,N,Undrafted,11,118,499,4,4.2,45.4,0.4
+95,Anthony Wales,FBS,CUSA,N,Western Ky.,N,Undrafted,35,474,3230,41,6.8,92.3,1.2
+96,Anthony Watkins,FBS,AAC,N,Tulsa,N,Undrafted,25,283,1523,8,5.4,60.9,0.3
+97,Anthony Wilkerson,FBS,Pac-12,Y,Stanford,N,Undrafted,14,84,353,2,4.2,25.2,0.1
+98,Anthony Williams,FCS,ASUN,N,SFA,N,Undrafted,11,108,497,4,4.6,45.2,0.4
+99,Anthony Williams III,FCS,SWAC,N,Alcorn,N,Undrafted,13,125,723,12,5.8,55.6,0.9
+100,Anthony Woods,FCS,Big Sky,N,Idaho,N,Undrafted,24,360,2035,19,5.7,84.8,0.8
+101,Antoine Custer Jr.,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,47,547,3045,39,5.6,64.8,0.8
+102,Antoinne Jimmerson,FBS,CUSA,N,North Texas,N,Undrafted,24,227,1035,12,4.6,43.1,0.5
+103,Antonio Andrews,FBS,Sun Belt,N,Western Ky.,N,Undrafted,12,267,1730,16,6.5,144.2,1.3
+104,Antonio Wilcox,FCS,SoCon,N,Furman,N,Undrafted,24,250,1212,20,4.8,50.5,0.8
+105,Antonio Williams,FBS,ACC,Y,North Carolina,N,Undrafted,10,91,504,5,5.5,50.4,0.5
+106,Antwon Wells,FCS,Southland,N,Central Ark.,N,Undrafted,13,141,580,10,4.1,44.6,0.8
+107,Anwar Lewis,FCS,ASUN,N,Jacksonville St.,N,Undrafted,11,115,818,8,7.1,74.4,0.7
+108,Aquanius Freeman,FCS,MEAC,N,Howard,N,Undrafted,11,86,421,5,4.9,38.3,0.5
+109,Ari Broussard,FBS,CUSA,N,Rice,N,Undrafted,12,116,569,3,4.9,47.4,0.2
+110,Arkeel Newsome,FBS,AAC,N,UConn,N,Undrafted,25,330,1507,11,4.6,60.3,0.4
+111,Armand Shyne,FBS,Pac-12,Y,Utah,N,Undrafted,14,120,512,5,4.3,36.6,0.4
+112,Arnold Walker,FCS,SWAC,N,Alcorn,N,Undrafted,12,224,1191,16,5.3,99.2,1.3
+113,Art Thompkins,FBS,MAC,N,Toledo,N,Undrafted,26,202,1192,8,5.9,45.8,0.3
+114,Artavis Pierce,FBS,Pac-12,Y,Oregon St.,N,Undrafted,23,244,1396,10,5.7,60.7,0.4
+115,Ashton Jeanty,FBS,Mountain West,N,Boise St.,N,Undrafted,26,376,2168,21,5.8,83.4,0.8
+116,Asim Rose,FBS,SEC,Y,Kentucky,N,Undrafted,24,255,1492,8,5.9,62.2,0.3
+117,Atiq Lucas,FCS,Pioneer,N,Marist,N,Undrafted,22,371,1538,18,4.1,69.9,0.8
+118,Aubrey Scott,FCS,Southland,N,Northwestern St.,N,Undrafted,6,37,215,1,5.8,35.8,0.2
+119,Audric Estime,FBS,FBS Independent,N,Notre Dame,Y,11.0,25,366,2261,29,6.2,90.4,1.2
+120,Aundre Carter,FCS,Big Sky,N,Idaho,N,Undrafted,9,113,615,7,5.4,68.3,0.8
+121,Austin Douglas,FCS,SoCon,N,Mercer,N,Undrafted,8,58,403,5,6.9,50.4,0.6
+122,Austin Jones,FBS,Pac-12,Y,Southern California,N,Undrafted,33,346,1732,21,5.0,52.5,0.6
+123,Austin Medley,FCS,CAA,N,Villanova,N,Undrafted,11,54,310,1,5.7,28.2,0.1
+124,Austin Walter,FBS,CUSA,N,Rice,N,Undrafted,13,133,564,4,4.2,43.4,0.3
+125,Avery Morrow,FBS,Mountain West,N,Colorado St.,N,Undrafted,12,173,834,4,4.8,69.5,0.3
+126,Ayo Adeyi,FBS,AAC,N,North Texas,N,Undrafted,24,255,1824,10,7.2,76.0,0.4
+127,B. Femiano,FCS,NEC,N,Bryant,N,Undrafted,11,151,778,6,5.2,70.7,0.5
+128,B.J. Baylor,FBS,Pac-12,Y,Oregon St.,N,Undrafted,13,227,1337,13,5.9,102.8,1.0
+129,B.J. Bennett,FCS,SoCon,N,Elon,N,Undrafted,10,123,464,4,3.8,46.4,0.4
+130,B.J. Catalon,FBS,Big 12,Y,TCU,N,Undrafted,11,107,569,6,5.3,51.7,0.5
+131,B.J. Smith,FBS,Sun Belt,N,Troy,N,Undrafted,13,219,1186,13,5.4,91.2,1.0
+132,BJ Kelly,FCS,Southland,N,Houston Christian,N,Undrafted,28,368,1690,11,4.6,60.4,0.4
+133,Barika Kpeenu,FCS,MVFC,N,North Dakota St.,N,Undrafted,15,96,502,4,5.2,33.5,0.3
+134,Barrington Scott,FCS,SWAC,N,Alabama A&M,N,Undrafted,12,245,1063,7,4.3,88.6,0.6
+135,Beau Blankenship,FBS,MAC,N,Ohio,N,Undrafted,13,204,910,5,4.5,70.0,0.4
+136,Ben Luckett,FBS,Sun Belt,N,ULM,N,Undrafted,13,94,509,2,5.4,39.2,0.2
+137,Ben Malena,FBS,SEC,Y,Texas A&M,N,Undrafted,13,115,551,10,4.8,42.4,0.8
+138,Ben Robinson,FCS,Big South,N,Charleston So.,N,Undrafted,31,214,1247,9,5.8,40.2,0.3
+139,Benny Lemay,FBS,CUSA,N,Charlotte,N,Undrafted,34,562,3057,22,5.4,89.9,0.6
+140,Benny Snell Jr.,FBS,SEC,Y,Kentucky,Y,10.0,39,737,3873,48,5.3,99.3,1.2
+141,Bentavious Thompson,FBS,AAC,N,UCF,N,Undrafted,22,160,986,13,6.2,44.8,0.6
+142,Bhayshul Tuten,FBS,ACC,Y,Virginia Tech,N,Undrafted,24,381,2226,23,5.8,92.8,1.0
+143,Bijan Robinson,FBS,Big 12,Y,Texas,Y,1.0,31,539,3410,33,6.3,110.0,1.1
+144,Bilal Ally,FBS,FBS Independent,N,Massachusetts,N,Undrafted,12,166,853,7,5.1,71.1,0.6
+145,Bill Belton,FBS,Big Ten,Y,Penn St.,N,Undrafted,24,282,1329,11,4.7,55.4,0.5
+146,Billy Lucas,FBS,CUSA,N,Liberty,N,Undrafted,38,501,2386,19,4.8,62.8,0.5
+147,Billy McCrary III,FCS,Southland,N,Abilene Christian,N,Undrafted,10,88,724,8,8.2,72.4,0.8
+148,Bishop Bonnett,FCS,SWAC,N,Florida A&M,N,Undrafted,12,156,993,5,6.4,82.8,0.4
+149,Bishop Ford,FCS,MEAC,N,South Carolina St.,N,Undrafted,10,137,567,5,4.1,56.7,0.5
+150,Bishop Sankey,FBS,Pac-12,Y,Washington,Y,1.0,13,327,1870,20,5.7,143.8,1.5
+151,Bj Perkinson,FCS,Big Sky,N,Sacramento St.,N,Undrafted,21,181,1030,10,5.7,49.0,0.5
+152,Blake Corum,FBS,Big Ten,Y,Michigan,Y,3.0,39,648,3660,56,5.6,93.8,1.4
+153,Blake Morgan,FCS,SoCon,N,Wofford,N,Undrafted,25,247,1391,17,5.6,55.6,0.7
+154,Blake Roberts,FCS,Big South,N,Presbyterian,N,Undrafted,10,52,322,1,6.2,32.2,0.1
+155,Blake Veasley,FCS,Southland,N,Central Ark.,N,Undrafted,11,191,899,11,4.7,81.7,1.0
+156,Blake Watson,FBS,AAC,N,Memphis,N,Undrafted,35,565,3182,27,5.6,90.9,0.8
+157,Bo Bolen,FCS,Big Sky,N,Weber St.,N,Undrafted,23,236,1064,9,4.5,46.3,0.4
+158,Bo Scarbrough,FBS,SEC,Y,Alabama,Y,18.0,27,249,1408,19,5.7,52.1,0.7
+159,Bobby Cole,FBS,Mountain West,N,New Mexico,N,Undrafted,7,97,548,6,5.6,78.3,0.9
+160,Bolu Olorunfunmi,FBS,Pac-12,Y,UCLA,N,Undrafted,12,117,565,5,4.8,47.1,0.4
+161,Boston Scott,FBS,CUSA,N,Louisiana Tech,Y,16.0,13,182,1040,8,5.7,80.0,0.6
+162,Brad Roberts,FBS,Mountain West,N,Air Force,N,Undrafted,26,643,3080,30,4.8,118.5,1.2
+163,Brad Sznajder,FCS,Pioneer,N,Butler,N,Undrafted,23,379,1870,8,4.9,81.3,0.3
+164,Brad Woodard,FCS,SWAC,N,Texas Southern,N,Undrafted,33,334,1520,11,4.6,46.1,0.3
+165,Bradrick Shaw,FCS,MVFC,N,UNI,N,Undrafted,10,111,462,3,4.2,46.2,0.3
+166,Brady Mengarelli,FCS,MVFC,N,South Dakota St.,N,Undrafted,39,408,2345,16,5.7,60.1,0.4
+167,Brady Oliveira,FCS,FCS Independent,N,North Dakota,N,Undrafted,34,441,2470,21,5.6,72.6,0.6
+168,Braeden West,FBS,AAC,N,SMU,N,Undrafted,36,413,2193,14,5.3,60.9,0.4
+169,Braedon Sloan,FCS,ASUN,N,Eastern Ky.,N,Undrafted,23,290,1394,17,4.8,60.6,0.7
+170,Braedon Wissler,FCS,ASUN,N,Southern Utah,N,Undrafted,11,146,686,5,4.7,62.4,0.5
+171,Braelon Allen,FBS,Big Ten,Y,Wisconsin,Y,10.0,35,597,3494,35,5.9,99.8,1.0
+172,Branden Oliver,FBS,MAC,N,Buffalo,N,Undrafted,12,310,1535,15,5.0,127.9,1.2
+173,Brandin Byrd,FBS,CUSA,N,North Texas,N,Undrafted,13,202,1075,11,5.3,82.7,0.8
+174,Brandon Betancourt,FBS,FBS Independent,N,New Mexico St.,N,Undrafted,8,93,415,2,4.5,51.9,0.2
+175,Brandon Burks,FBS,Sun Belt,N,Troy,N,Undrafted,23,297,1589,10,5.4,69.1,0.4
+176,Brandon Eldmire,FCS,SWAC,N,Alabama A&M,N,Undrafted,22,214,1080,9,5.0,49.1,0.4
+177,Brandon Hall,FCS,Pioneer,N,Valparaiso,N,Undrafted,23,262,1196,12,4.6,52.0,0.5
+178,Brandon Hayes,FBS,AAC,N,Memphis,N,Undrafted,24,397,1809,10,4.6,75.4,0.4
+179,Brandon Howe,FCS,Big Sky,N,Cal Poly,N,Undrafted,12,183,867,10,4.7,72.2,0.8
+180,Brandon Kellerman,FCS,Big Sky,N,Sacramento St.,N,Undrafted,11,80,330,2,4.1,30.0,0.2
+181,Brandon Marshall,FCS,SoCon,N,Mercer,N,Undrafted,11,61,273,3,4.5,24.8,0.3
+182,Brandon Miller,FBS,Mountain West,N,Wyoming,N,Undrafted,11,83,385,3,4.6,35.0,0.3
+183,Brandon Radcliff,FBS,ACC,Y,Louisville,N,Undrafted,38,421,2274,25,5.4,59.8,0.7
+184,Brandon Rainey,FCS,SoCon,N,The Citadel,N,Undrafted,14,212,1024,5,4.8,73.1,0.4
+185,Brandon Reeves,FCS,Pioneer,N,Morehead St.,N,Undrafted,12,72,455,1,6.3,37.9,0.1
+186,Brandon Ross,FBS,Big Ten,Y,Maryland,N,Undrafted,24,316,1734,14,5.5,72.2,0.6
+187,Brandon Thomas,FBS,AAC,N,Memphis,N,Undrafted,9,116,669,8,5.8,74.3,0.9
+188,Brandon Wilds,FBS,SEC,Y,South Carolina,N,Undrafted,21,229,1137,7,5.0,54.1,0.3
+189,Branson Adams,FCS,SoCon,N,Western Caro.,N,Undrafted,11,89,539,3,6.1,49.0,0.3
+190,Braydon Bennett,FBS,Sun Belt,N,Coastal Carolina,N,Undrafted,13,74,636,7,8.6,48.9,0.5
+191,Breece Hall,FBS,Big 12,Y,Iowa St.,Y,1.0,36,718,3933,50,5.5,109.2,1.4
+192,Brelynd Cyphers,FCS,CAA,N,Elon,N,Undrafted,11,113,476,4,4.2,43.3,0.4
+193,Brendan Bigelow,FBS,Pac-12,Y,California,N,Undrafted,12,105,421,2,4.0,35.1,0.2
+194,Brendan Douglas,FBS,SEC,Y,Georgia,N,Undrafted,12,84,345,3,4.1,28.8,0.2
+195,Brenden Brady,FBS,CUSA,N,UTSA,N,Undrafted,12,156,699,9,4.5,58.2,0.8
+196,Brenden Knox,FBS,CUSA,N,Marshall,N,Undrafted,36,550,2852,24,5.2,79.2,0.7
+197,Brenden Lytton,FCS,NEC,N,Central Conn. St.,N,Undrafted,12,83,438,4,5.3,36.5,0.3
+198,Brennan Clay,FBS,Big 12,Y,Oklahoma,N,Undrafted,13,175,957,6,5.5,73.6,0.5
+199,Breon Allen,FBS,AAC,N,East Carolina,N,Undrafted,13,134,869,8,6.5,66.8,0.6
+200,Brian Battie,FBS,AAC,N,South Fla.,N,Undrafted,12,176,1186,8,6.7,98.8,0.7
+201,Brian Fields,FBS,MAC,N,Western Mich.,N,Undrafted,11,150,574,6,3.8,52.2,0.5
+202,Brian Hill,FBS,Mountain West,N,Wyoming,Y,16.0,38,775,4287,35,5.5,112.8,0.9
+203,Brian Kimbrow,FBS,SEC,Y,Vanderbilt,N,Undrafted,12,81,341,3,4.2,28.4,0.2
+204,Brian Mills,FCS,Ivy League,N,Princeton,N,Undrafted,9,58,330,2,5.7,36.7,0.2
+205,Brian Robinson Jr.,FBS,SEC,Y,Alabama,Y,6.0,27,362,1826,20,5.0,67.6,0.7
+206,Brian Schoenauer,FCS,Ivy League,N,Penn,N,Undrafted,10,124,652,6,5.3,65.2,0.6
+207,Brian Snead,FCS,OVC,N,Austin Peay,N,Undrafted,17,187,1015,9,5.4,59.7,0.5
+208,Brittain Brown,FBS,Pac-12,Y,UCLA,Y,21.0,30,314,1859,18,5.9,62.0,0.6
+209,Broam Hart,FBS,Mountain West,N,Air Force,N,Undrafted,12,113,469,6,4.2,39.1,0.5
+210,Brock Reichardt,FCS,Pioneer,N,Drake,N,Undrafted,8,121,504,5,4.2,63.0,0.6
+211,Brock Sturges,FBS,Sun Belt,N,Texas St.,N,Undrafted,12,111,532,5,4.8,44.3,0.4
+212,Bronson Hill,FBS,MAC,N,Eastern Mich.,N,Undrafted,11,196,1101,5,5.6,100.1,0.5
+213,Bronson Rechsteiner,FCS,Big South,N,Kennesaw St.,N,Undrafted,28,211,1354,9,6.4,48.4,0.3
+214,Bronson Yoder,FCS,CAA,N,William & Mary,N,Undrafted,25,394,2286,21,5.8,91.4,0.8
+215,Bruce Anderson,FCS,MVFC,N,North Dakota St.,N,Undrafted,43,448,2643,23,5.9,61.5,0.5
+216,Bryant Barr,FCS,Big South,N,Campbell,N,Undrafted,13,150,667,5,4.4,51.3,0.4
+217,Bryant Koback,FBS,MAC,N,Toledo,N,Undrafted,44,679,4026,45,5.9,91.5,1.0
+218,Bryce Love,FBS,Pac-12,Y,Stanford,Y,8.0,35,540,3640,28,6.7,104.0,0.8
+219,Bryce Williams,FBS,Big Ten,Y,Minnesota,N,Undrafted,13,117,502,4,4.3,38.6,0.3
+220,Brycen Alleyne,FCS,MEAC,N,Delaware St.,N,Undrafted,20,278,1221,8,4.4,61.0,0.4
+221,Bryson Carroll,FBS,Mountain West,N,New Mexico,N,Undrafted,10,105,536,2,5.1,53.6,0.2
+222,Bryson Denley,FBS,MAC,N,Bowling Green,N,Undrafted,12,111,544,4,4.9,45.3,0.3
+223,Bryson Irby,FCS,SoCon,N,ETSU,N,Undrafted,9,108,531,5,4.9,59.0,0.6
+224,Bubba Poole,FBS,Pac-12,Y,Utah,N,Undrafted,12,149,607,2,4.1,50.6,0.2
+225,Buck Logan,FCS,MVFC,N,Indiana St.,N,Undrafted,25,302,1406,8,4.7,56.2,0.3
+226,Bucky Irving,FBS,Pac-12,Y,Oregon,Y,6.0,39,475,2937,20,6.2,75.3,0.5
+227,Byron Marshall,FBS,Pac-12,Y,Oregon,N,Undrafted,12,168,1038,14,6.2,86.5,1.2
+228,C.J. Amill,FCS,Patriot,N,Lafayette,N,Undrafted,10,97,431,4,4.4,43.1,0.4
+229,C.J. Okpalobi,FCS,Southland,N,Nicholls,N,Undrafted,11,161,569,5,3.5,51.7,0.5
+230,C.J. Prosise,FBS,FBS Independent,N,Notre Dame,Y,4.0,11,156,1032,11,6.6,93.8,1.0
+231,C.J. Williams,FCS,Patriot,N,Bucknell,N,Undrafted,6,130,534,0,4.1,89.0,0.0
+232,C.J. Wilson,FCS,MVFC,N,South Dakota St.,N,Undrafted,9,69,491,3,7.1,54.6,0.3
+233,CJ Beasley,FBS,Sun Belt,N,Coastal Carolina,N,Undrafted,13,140,719,5,5.1,55.3,0.4
+234,CJ Donaldson,FBS,Big 12,Y,West Virginia,N,Undrafted,12,171,798,11,4.7,66.5,0.9
+235,CJ Evans,FCS,ASUN,N,Austin Peay,N,Undrafted,20,200,1006,10,5.0,50.3,0.5
+236,CJ Freeman,FCS,Big South,N,Campbell,N,Undrafted,3,29,148,1,5.1,49.3,0.3
+237,CJ Marable,FBS,Sun Belt,N,Coastal Carolina,N,Undrafted,36,491,2691,29,5.5,74.8,0.8
+238,CJ Russell,FCS,SWAC,N,Grambling,N,Undrafted,15,147,577,2,3.9,38.5,0.1
+239,CJ Verdell,FBS,Pac-12,Y,Oregon,N,Undrafted,27,399,2238,18,5.6,82.9,0.7
+240,CJ Williams,FCS,Patriot,N,Bucknell,N,Undrafted,10,212,899,8,4.2,89.9,0.8
+241,Cade Carney,FBS,ACC,Y,Wake Forest,N,Undrafted,34,502,2214,19,4.4,65.1,0.6
+242,Calan Crowder,FCS,MVFC,N,Missouri St.,N,Undrafted,12,153,766,4,5.0,63.8,0.3
+243,Caleb Brown,FCS,Pioneer,N,Mercer,N,Undrafted,12,68,334,8,4.9,27.8,0.7
+244,Caleb Huntley,FBS,MAC,N,Ball St.,N,Undrafted,27,538,2715,21,5.0,100.6,0.8
+245,Caleb Johnson,FCS,SWAC,N,Prairie View,N,Undrafted,33,510,2157,14,4.2,65.4,0.4
+246,Caleb Watkins,FCS,OVC,N,Eastern Ky.,N,Undrafted,11,70,294,4,4.2,26.7,0.4
+247,Calvin Camp,FBS,CUSA,N,Charlotte,N,Undrafted,12,113,635,4,5.6,52.9,0.3
+248,Calvin Hill,FBS,Sun Belt,N,Texas St.,N,Undrafted,24,229,1242,8,5.4,51.8,0.3
+249,Calvin Tyler Jr.,FBS,Mountain West,N,Utah St.,N,Undrafted,25,449,2006,14,4.5,80.2,0.6
+250,Cam Akers,FBS,ACC,Y,Florida St.,Y,4.0,36,586,2874,27,4.9,79.8,0.8
+251,Cam Edwards,FBS,FBS Independent,N,UConn,N,Undrafted,9,123,618,4,5.0,68.7,0.4
+252,Cam Jackson,FCS,SoCon,N,The Citadel,N,Undrafted,43,330,2454,15,7.4,57.1,0.3
+253,Cam McDaniel,FBS,FBS Independent,N,Notre Dame,N,Undrafted,13,152,709,3,4.7,54.5,0.2
+254,Cam Porter,FBS,Big Ten,Y,Northwestern,N,Undrafted,13,166,651,4,3.9,50.1,0.3
+255,Cam Skattebo,FBS,Pac-12,Y,Arizona St.,N,Undrafted,21,221,1303,15,5.9,62.0,0.7
+256,Cam Wiley,FBS,MAC,N,Akron,N,Undrafted,10,106,486,5,4.6,48.6,0.5
+257,Cam'Ron Harris,FBS,ACC,Y,Miami (FL),N,Undrafted,24,240,1219,15,5.1,50.8,0.6
+258,Cameron Artis-Payne,FBS,SEC,Y,Auburn,Y,15.0,27,394,2218,19,5.6,82.1,0.7
+259,Cameron Carroll,FBS,AAC,N,Tulane,N,Undrafted,24,233,1257,15,5.4,52.4,0.6
+260,Cameron Davis,FBS,Pac-12,Y,Washington,N,Undrafted,11,107,522,13,4.9,47.5,1.2
+261,Cameron Molina,FCS,Ivy League,N,Columbia,N,Undrafted,20,349,1265,7,3.6,63.2,0.4
+262,Cameron Montgomery,FBS,CUSA,N,Rice,N,Undrafted,13,93,561,0,6.0,43.2,0.0
+263,Cameron Myers,FCS,Southland,N,Central Ark.,N,Undrafted,9,66,263,1,4.0,29.2,0.1
+264,Cameron Nash,FCS,NEC,N,Central Conn. St.,N,Undrafted,33,473,2350,20,5.0,71.2,0.6
+265,Cameron Scarlett,FBS,Pac-12,Y,Stanford,N,Undrafted,12,201,840,7,4.2,70.0,0.6
+266,Cameron Skattebo,FCS,Big Sky,N,Sacramento St.,N,Undrafted,13,196,1373,7,7.0,105.6,0.5
+267,Cameron Stingily,FBS,MAC,N,NIU,N,Undrafted,26,396,2090,23,5.3,80.4,0.9
+268,Camerun Peoples,FBS,Sun Belt,N,App State,N,Undrafted,32,435,2643,31,6.1,82.6,1.0
+269,Cameryn Brent,FCS,MEAC,N,Norfolk St.,N,Undrafted,11,101,388,5,3.8,35.3,0.5
+270,Canaan Brooks,FCS,MVFC,N,South Dakota,N,Undrafted,12,114,505,4,4.4,42.1,0.3
+271,Cardon Johnson,FCS,CAA,N,James Madison,N,Undrafted,34,418,2398,23,5.7,70.5,0.7
+272,Carl Harris,FCS,Southland,N,Lamar University,N,Undrafted,12,113,668,6,5.9,55.7,0.5
+273,Carlinos Acie,FBS,AAC,N,Navy,N,Undrafted,12,66,580,2,8.8,48.3,0.2
+274,Carlo Williams,FCS,Southland,N,McNeese,N,Undrafted,4,38,187,4,4.9,46.8,1.0
+275,Carlos Blackman,FCS,Southland,N,Central Ark.,N,Undrafted,49,640,2870,31,4.5,58.6,0.6
+276,Carlos Davis,FBS,Sun Belt,N,South Alabama,N,Undrafted,11,164,674,3,4.1,61.3,0.3
+277,Carlos Hyde,FBS,Big Ten,Y,Ohio St.,Y,3.0,11,208,1521,15,7.3,138.3,1.4
+278,Carlos Washington Jr.,FCS,Southland,N,Southeastern La.,N,Undrafted,44,501,2445,25,4.9,55.6,0.6
+279,Carlton Koonce,FCS,Patriot,N,Fordham,N,Undrafted,14,307,1462,9,4.8,104.4,0.6
+280,Carrington Mosley,FCS,Big South,N,Liberty,N,Undrafted,11,144,663,5,4.6,60.3,0.5
+281,Carson Steele,FBS,Pac-12,Y,UCLA,N,Undrafted,37,648,3294,26,5.1,89.0,0.7
+282,Cary White,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,13,96,485,8,5.1,37.3,0.6
+283,Casey Filkins,FBS,Pac-12,Y,Stanford,N,Undrafted,7,122,478,4,3.9,68.3,0.6
+284,Casey Jahn,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,22,372,1859,11,5.0,84.5,0.5
+285,Cedric Skinner,FCS,SWAC,N,Grambling,N,Undrafted,8,69,317,0,4.6,39.6,0.0
+286,Celdon Manning,FCS,MVFC,N,Missouri St.,N,Undrafted,7,70,269,4,3.8,38.4,0.6
+287,Centarius Donald,FBS,Sun Belt,N,ULM,N,Undrafted,20,240,1039,10,4.3,52.0,0.5
+288,Chad Freshnock,FCS,Patriot,N,Bucknell,N,Undrafted,32,402,1598,18,4.0,49.9,0.6
+289,Chad Newell,FCS,Big Sky,N,Montana St.,N,Undrafted,33,399,2021,28,5.1,61.2,0.8
+290,Chance Harris,FCS,Pioneer,N,Morehead St.,N,Undrafted,7,101,404,2,4.0,57.7,0.3
+291,Chance Williams,FCS,SWAC,N,Grambling,N,Undrafted,11,147,872,6,5.9,79.3,0.5
+292,Charles Jones,FBS,Big 12,Y,Kansas St.,N,Undrafted,39,390,1832,20,4.7,47.0,0.5
+293,Charles McClelland,FBS,AAC,N,Cincinnati,N,Undrafted,13,146,849,7,5.8,65.3,0.5
+294,Charles Pierre Jr.,FCS,MVFC,N,South Dakota,N,Undrafted,8,77,472,5,6.1,59.0,0.6
+295,Charles Ross,FBS,CUSA,N,Rice,N,Undrafted,12,211,1280,15,6.1,106.7,1.2
+296,Charles Sims,FBS,Big 12,Y,West Virginia,Y,4.0,12,208,1095,11,5.3,91.2,0.9
+297,Charles Volker,FCS,Ivy League,N,Princeton,N,Undrafted,28,363,1849,32,5.1,66.0,1.1
+298,Charles Williams,FBS,Mountain West,N,UNLV,N,Undrafted,42,723,3776,33,5.2,89.9,0.8
+299,Charlie Booker III,FCS,Ivy League,N,Harvard,N,Undrafted,9,141,733,6,5.2,81.4,0.7
+300,Chase Brown,FBS,Big Ten,Y,Illinois,Y,10.0,30,602,3188,18,5.3,106.3,0.6
+301,Chase Edmonds,FCS,Patriot,N,Fordham,Y,13.0,44,938,5862,67,6.2,133.2,1.5
+302,Chase Jasmin,FBS,Mountain West,N,San Diego St.,N,Undrafted,13,138,592,5,4.3,45.5,0.4
+303,Chase Price,FBS,Mountain West,N,San Diego St.,N,Undrafted,27,331,1682,11,5.1,62.3,0.4
+304,Chaston Bennett,FCS,Big South,N,Kennesaw St.,N,Undrafted,22,127,1326,12,10.4,60.3,0.5
+305,Chaton Mobley,FBS,CUSA,N,Middle Tenn.,N,Undrafted,22,203,1026,8,5.1,46.6,0.4
+306,Chaz Ward,FCS,Southland,N,Lamar University,N,Undrafted,6,98,271,2,2.8,45.2,0.3
+307,Chez Mellusi,FBS,Big Ten,Y,Wisconsin,N,Undrafted,9,173,815,5,4.7,90.6,0.6
+308,Chris Carson,FBS,Big 12,Y,Oklahoma St.,Y,25.0,21,213,1076,13,5.1,51.2,0.6
+309,Chris Evans,FBS,Big Ten,Y,Michigan,Y,13.0,26,223,1299,10,5.8,50.0,0.4
+310,Chris Hairston,FBS,AAC,N,East Carolina,N,Undrafted,25,244,1282,10,5.3,51.3,0.4
+311,Chris High,FBS,AAC,N,Navy,N,Undrafted,22,229,1167,9,5.1,53.0,0.4
+312,Chris Jones,FCS,Southland,N,Northwestern St.,N,Undrafted,22,239,1210,9,5.1,55.0,0.4
+313,Chris Nutall,FBS,Sun Belt,N,Texas St.,N,Undrafted,11,83,477,6,5.7,43.4,0.5
+314,Chris Nwoke,FBS,Mountain West,N,Colorado St.,N,Undrafted,14,101,398,2,3.9,28.4,0.1
+315,Chris Schroer,FCS,Ivy League,N,Columbia,N,Undrafted,10,137,638,1,4.7,63.8,0.1
+316,Chris Setian,FCS,CAA,N,New Hampshire,N,Undrafted,14,90,458,8,5.1,32.7,0.6
+317,Chris Smith,FBS,Sun Belt,N,Louisiana,N,Undrafted,35,340,1819,12,5.4,52.0,0.3
+318,Chris Swain,FBS,AAC,N,Navy,N,Undrafted,37,422,2136,18,5.1,57.7,0.5
+319,Chris Tyree,FBS,ACC,Y,Notre Dame,N,Undrafted,12,73,496,4,6.8,41.3,0.3
+320,Chris Walker,FCS,Ivy League,N,Cornell,N,Undrafted,9,121,707,3,5.8,78.6,0.3
+321,Christian Beal-Smith,FBS,ACC,Y,Wake Forest,N,Undrafted,21,273,1336,12,4.9,63.6,0.6
+322,Christian Galvan,FCS,Pioneer,N,Drake,N,Undrafted,12,131,414,2,3.2,34.5,0.2
+323,Christian Gibson,FBS,FBS Independent,N,New Mexico St.,N,Undrafted,12,96,590,6,6.1,49.2,0.5
+324,Christian McCaffrey,FBS,Pac-12,Y,Stanford,Y,2.0,25,590,3622,21,6.1,144.9,0.8
+325,Christian Powell,FBS,Pac-12,Y,Colorado,N,Undrafted,12,147,562,3,3.8,46.8,0.2
+326,Christian Reyes,FCS,Big South,N,Charleston So.,N,Undrafted,24,424,2200,17,5.2,91.7,0.7
+327,Christian Turner,FBS,ACC,Y,Wake Forest,N,Undrafted,37,337,1462,13,4.3,39.5,0.4
+328,Christopher Brooks,FBS,FBS Independent,N,BYU,N,Undrafted,23,246,1424,10,5.8,61.9,0.4
+329,Christopher Brown Jr.,FBS,Pac-12,Y,California,N,Undrafted,13,208,914,8,4.4,70.3,0.6
+330,Christopher Dukes,FCS,MEAC,N,Hampton,N,Undrafted,11,133,691,2,5.2,62.8,0.2
+331,Christopher Rodriguez Jr.,FBS,SEC,Y,Kentucky,N,Undrafted,43,590,3601,32,6.1,83.7,0.7
+332,Chuba Hubbard,FBS,Big 12,Y,Oklahoma St.,Y,8.0,33,585,3459,33,5.9,104.8,1.0
+333,Clay Harris,FCS,SoCon,N,The Citadel,N,Undrafted,17,240,968,4,4.0,56.9,0.2
+334,Clifton Richardson,FCS,Big South,N,Liberty,N,Undrafted,11,94,399,6,4.2,36.3,0.5
+335,Clyde Edwards-Helaire,FBS,SEC,Y,LSU,Y,1.0,28,361,2072,23,5.7,74.0,0.8
+336,Cody Forbes,FCS,OVC,N,Tennessee Tech,N,Undrafted,12,85,302,1,3.6,25.2,0.1
+337,Cody Kirk,FCS,Big Sky,N,Montana St.,N,Undrafted,12,217,1088,18,5.0,90.7,1.5
+338,Cody Schrader,FBS,SEC,Y,Missouri,N,Undrafted,26,446,2372,23,5.3,91.2,0.9
+339,Cole Blake,FCS,NEC,N,Robert Morris,N,Undrafted,11,170,722,2,4.2,65.6,0.2
+340,Cole Fagan,FBS,Mountain West,N,Air Force,N,Undrafted,12,185,997,7,5.4,83.1,0.6
+341,Cole Mazza,FCS,Pioneer,N,Stetson,N,Undrafted,23,352,1622,18,4.6,70.5,0.8
+342,Cole Mueller,FCS,MVFC,N,Illinois St.,N,Undrafted,22,279,1405,11,5.0,63.9,0.5
+343,Coleman Bennett,FCS,Patriot,N,Bucknell,N,Undrafted,10,122,496,4,4.1,49.6,0.4
+344,Collin Eaddy,FCS,Ivy League,N,Princeton,N,Undrafted,28,363,1939,26,5.3,69.2,0.9
+345,Collin Guggenheim,FCS,Southland,N,Nicholls,N,Undrafted,31,428,2307,25,5.4,74.4,0.8
+346,Conley Wilkins,FCS,Pioneer,N,Drake,N,Undrafted,32,553,2584,31,4.7,80.8,1.0
+347,Connell Young,FCS,SoCon,N,Western Caro.,N,Undrafted,20,197,1005,3,5.1,50.2,0.2
+348,Connor Heyward,FBS,Big Ten,Y,Michigan St.,N,Undrafted,13,118,529,5,4.5,40.7,0.4
+349,Connor Kacsor,FCS,Pioneer,N,Dayton,N,Undrafted,25,573,3109,33,5.4,124.4,1.3
+350,Connor Slomka,FBS,FBS Independent,N,Army West Point,N,Undrafted,12,149,658,8,4.4,54.8,0.7
+351,Conor Hundley,FBS,MAC,N,Akron,N,Undrafted,36,406,1876,14,4.6,52.1,0.4
+352,Cooper Wallace,FCS,SoCon,N,The Citadel,N,Undrafted,23,159,832,5,5.2,36.2,0.2
+353,Corey Avery,FCS,Southland,N,Sam Houston,N,Undrafted,38,463,2496,29,5.4,65.7,0.8
+354,Corey Clement,FBS,Big Ten,Y,Wisconsin,N,Undrafted,38,528,2871,31,5.4,75.6,0.8
+355,Corey Dauphine,FBS,AAC,N,Tulane,N,Undrafted,25,196,1360,14,6.9,54.4,0.6
+356,Corey Grant,FBS,SEC,Y,Auburn,N,Undrafted,14,66,647,6,9.8,46.2,0.4
+357,Corey Holloway,FCS,SoCon,N,Western Caro.,N,Undrafted,12,82,444,7,5.4,37.0,0.6
+358,Corey Kiner,FBS,Big 12,Y,Cincinnati,N,Undrafted,12,192,1047,5,5.5,87.2,0.4
+359,Corey Taylor II,FBS,AAC,N,Tulsa,N,Undrafted,19,283,1362,15,4.8,71.7,0.8
+360,Corey Watkins,FCS,SoCon,N,Furman,N,Undrafted,11,52,463,2,8.9,42.1,0.2
+361,Cory Avery,FCS,Southland,N,Sam Houston,N,Undrafted,15,194,1483,15,7.6,98.9,1.0
+362,Cory Young,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,21,244,1254,14,5.1,59.7,0.7
+363,Courtney Brown,FCS,SWAC,N,Prairie View,N,Undrafted,12,179,1034,10,5.8,86.2,0.8
+364,Coy Williams,FCS,Pioneer,N,Davidson,N,Undrafted,30,378,2091,33,5.5,69.7,1.1
+365,Craig Bell,FCS,FCS Independent,N,Houston Christian,N,Undrafted,7,66,303,5,4.6,43.3,0.7
+366,Craig Williams,FBS,Big 12,Y,Baylor,N,Undrafted,11,101,557,4,5.5,50.6,0.4
+367,Cross Robinson,FCS,Pioneer,N,Drake,N,Undrafted,13,163,628,3,3.9,48.3,0.2
+368,Crusoe Gongbay,FBS,Mountain West,N,New Mexico,N,Undrafted,12,97,592,6,6.1,49.3,0.5
+369,Curtis Samuel,FBS,Big Ten,Y,Ohio St.,N,Undrafted,13,97,771,8,7.9,59.3,0.6
+370,Curtis Williams,FCS,Southland,N,Northwestern St.,N,Undrafted,11,76,444,0,5.8,40.4,0.0
+371,D'Andre Ferby,FBS,CUSA,N,Western Ky.,N,Undrafted,13,164,650,11,4.0,50.0,0.8
+372,D'Andre Swift,FBS,SEC,Y,Georgia,Y,2.0,43,440,2885,20,6.6,67.1,0.5
+373,D'Angelo Brewer,FBS,AAC,N,Tulsa,N,Undrafted,34,714,3789,22,5.3,111.4,0.6
+374,D'Angelo Durham,FCS,Southland,N,McNeese,N,Undrafted,9,107,509,5,4.8,56.6,0.6
+375,D'Angelo Palladino,FCS,Patriot,N,Fordham,N,Undrafted,8,73,481,4,6.6,60.1,0.5
+376,D'Angelo Roberts,FBS,Big Ten,Y,Indiana,N,Undrafted,12,107,493,6,4.6,41.1,0.5
+377,D'Ernest Johnson,FBS,AAC,N,South Fla.,N,Undrafted,25,304,1339,15,4.4,53.6,0.6
+378,D'Morrise Bledsoe,FCS,SoCon,N,Samford,N,Undrafted,13,89,415,3,4.7,31.9,0.2
+379,D'Onta Foreman,FBS,Big 12,Y,Texas,Y,7.0,21,418,2709,20,6.5,129.0,1.0
+380,D'Vonte Price,FBS,CUSA,N,FIU,N,Undrafted,27,304,1823,15,6.0,67.5,0.6
+381,D. Mitchell,FCS,Southland,N,UIW,N,Undrafted,9,133,590,4,4.4,65.6,0.4
+382,D.J. Abnar,FCS,Big South,N,Liberty,N,Undrafted,25,364,1700,21,4.7,68.0,0.8
+383,D.J. Davis,FCS,MVFC,N,Southern Ill.,N,Undrafted,21,367,2144,10,5.8,102.1,0.5
+384,D.J. Foster,FBS,Pac-12,Y,Arizona St.,N,Undrafted,27,287,1582,15,5.5,58.6,0.6
+385,D.J. Johnson,FBS,Mountain West,N,Air Force,N,Undrafted,12,150,622,2,4.1,51.8,0.2
+386,D.J. Knox,FBS,Big Ten,Y,Purdue,N,Undrafted,26,247,1444,10,5.8,55.5,0.4
+387,DJ Adams,FCS,Big Sky,N,Portland St.,N,Undrafted,12,256,1600,19,6.2,133.3,1.6
+388,DJ Giddens,FBS,Big 12,Y,Kansas St.,N,Undrafted,27,312,1744,16,5.6,64.6,0.6
+389,DJ McNeil,FCS,OVC,N,UT Martin,N,Undrafted,12,239,1092,7,4.6,91.0,0.6
+390,DK Billingsley,FBS,Sun Belt,N,Troy,N,Undrafted,26,297,1571,18,5.3,60.4,0.7
+391,Da'Joun Hewitt,FCS,ASUN,N,Eastern Ky.,N,Undrafted,11,165,607,7,3.7,55.2,0.6
+392,Da'Leon Ward,FCS,Southland,N,SFA,N,Undrafted,14,181,740,4,4.1,52.9,0.3
+393,Dae Dae Hunter,FBS,FBS Independent,N,Liberty,N,Undrafted,19,231,1505,11,6.5,79.2,0.6
+394,Dae'Quan Scott,FCS,CAA,N,James Madison,N,Undrafted,12,239,1040,8,4.4,86.7,0.7
+395,Dae-Hon Cheung,FCS,MEAC,N,Delaware St.,N,Undrafted,11,83,361,2,4.3,32.8,0.2
+396,Daetrich Harrington,FBS,Sun Belt,N,App State,N,Undrafted,6,106,595,7,5.6,99.2,1.2
+397,Daijun Edwards,FBS,SEC,Y,Georgia,N,Undrafted,27,305,1649,20,5.4,61.1,0.7
+398,Dallan Hayden,FBS,Big Ten,Y,Ohio St.,N,Undrafted,10,111,553,5,5.0,55.3,0.5
+399,Dallas Crawford,FBS,ACC,Y,Miami (FL),N,Undrafted,13,137,558,12,4.1,42.9,0.9
+400,Dallas Kessman,FCS,Pioneer,N,San Diego,N,Undrafted,10,92,434,4,4.7,43.4,0.4
+401,Dalton Crossan,FCS,CAA,N,New Hampshire,N,Undrafted,38,437,2551,27,5.8,67.1,0.7
+402,Dalton Hilliard,FCS,Southland,N,Nicholls,N,Undrafted,10,66,371,5,5.6,37.1,0.5
+403,Dalvin Cook,FBS,ACC,Y,Florida St.,Y,3.0,38,687,4464,46,6.5,117.5,1.2
+404,Dalyn Dawkins,FBS,Mountain West,N,Colorado St.,N,Undrafted,37,557,3185,14,5.7,86.1,0.4
+405,Damarcus James,FCS,OVC,N,Jacksonville St.,N,Undrafted,26,498,2628,43,5.3,101.1,1.7
+406,Damarea Crockett,FBS,SEC,Y,Missouri,N,Undrafted,23,300,1771,17,5.9,77.0,0.7
+407,Damarrell Alexander,FCS,FCS Independent,N,Charlotte,N,Undrafted,10,41,280,1,6.8,28.0,0.1
+408,Dameon Pierce,FBS,SEC,Y,Florida,Y,7.0,25,206,1077,17,5.2,43.1,0.7
+409,Damien Harris,FBS,SEC,Y,Alabama,Y,6.0,44,431,2913,22,6.8,66.2,0.5
+410,Damien Martinez,FBS,Pac-12,Y,Oregon St.,N,Undrafted,25,355,2167,16,6.1,86.7,0.6
+411,Damien Moore,FBS,Pac-12,Y,California,N,Undrafted,11,100,518,6,5.2,47.1,0.5
+412,Damien Williams,FBS,Big 12,Y,Oklahoma,N,Undrafted,9,114,553,7,4.9,61.4,0.8
+413,Damon Bankston,FCS,Big Sky,N,Weber St.,N,Undrafted,17,189,1097,13,5.8,64.5,0.8
+414,Damon Bullock,FBS,Big Ten,Y,Iowa,N,Undrafted,13,118,467,1,4.0,35.9,0.1
+415,Damonta Witherspoon,FCS,OVC,N,Murray St.,N,Undrafted,27,464,1991,14,4.3,73.7,0.5
+416,Dan Adeboboye,FCS,NEC,N,Bryant,N,Undrafted,24,332,1551,13,4.7,64.6,0.5
+417,Daniel Hishaw,FBS,Big 12,Y,Kansas,N,Undrafted,13,121,626,8,5.2,48.2,0.6
+418,Daniel Jenkins,FBS,Pac-12,Y,Arizona,N,Undrafted,13,65,411,1,6.3,31.6,0.1
+419,Daniel Lasco,FBS,Pac-12,Y,California,Y,18.0,12,210,1115,12,5.3,92.9,1.0
+420,Daniel McSurdy,FCS,Big Sky,N,Idaho St.,N,Undrafted,12,113,781,8,6.9,65.1,0.7
+421,Daniel Taylor,FCS,Southland,N,Northwestern St.,N,Undrafted,23,177,898,8,5.1,39.0,0.3
+422,Daniel Wright Jr.,FCS,Big Sky,N,Weber St.,N,Undrafted,6,44,303,3,6.9,50.5,0.5
+423,Danley Exilhomme,FCS,NEC,N,Central Conn. St.,N,Undrafted,13,120,635,8,5.3,48.8,0.6
+424,Dante Miller,FCS,Ivy League,N,Columbia,N,Undrafted,10,145,814,4,5.6,81.4,0.4
+425,Daquan Isom,FCS,MVFC,N,Southern Ill.,N,Undrafted,19,184,1039,6,5.6,54.7,0.3
+426,Dare Ogunbowale,FBS,Big Ten,Y,Wisconsin,N,Undrafted,13,194,819,7,4.2,63.0,0.5
+427,Dareyon Chance,FBS,MAC,N,Western Mich.,N,Undrafted,12,151,692,3,4.6,57.7,0.2
+428,Darian Green,FCS,Big Sky,N,Portland St.,N,Undrafted,23,254,1200,7,4.7,52.2,0.3
+429,Darien Robinson,FCS,SoCon,N,The Citadel,N,Undrafted,12,185,966,7,5.2,80.5,0.6
+430,Darik Dillard,FBS,CUSA,N,Rice,N,Undrafted,39,351,1746,19,5.0,44.8,0.5
+431,Darius Anderson,FBS,Big 12,Y,TCU,N,Undrafted,34,403,2189,17,5.4,64.4,0.5
+432,Darius Bradwell,FBS,AAC,N,Tulane,N,Undrafted,13,201,1134,11,5.6,87.2,0.8
+433,Darius Hale,FCS,ASUN,N,Central Ark.,N,Undrafted,32,432,2441,31,5.7,76.3,1.0
+434,Darius Jackson,FBS,MAC,N,Eastern Mich.,Y,16.0,12,208,1078,14,5.2,89.8,1.2
+435,Darius Lee,FCS,NEC,N,Central Conn. St.,N,Undrafted,12,134,642,2,4.8,53.5,0.2
+436,Darius Morehead,FCS,SoCon,N,Furman,N,Undrafted,13,95,588,5,6.2,45.2,0.4
+437,Darius Ramsey,FCS,SoCon,N,Western Caro.,N,Undrafted,22,287,1328,10,4.6,60.4,0.5
+438,Darius Staten,FBS,FBS Independent,N,Navy,N,Undrafted,12,42,412,3,9.8,34.3,0.2
+439,Darius Tice,FBS,AAC,N,South Fla.,N,Undrafted,12,178,943,11,5.3,78.6,0.9
+440,Darius Victor,FCS,CAA,N,Towson,N,Undrafted,37,555,2955,34,5.3,79.9,0.9
+441,Darnell Holland,FCS,Big South,N,Kennesaw St.,N,Undrafted,38,206,2088,22,10.1,54.9,0.6
+442,Darnell Woolfolk,FBS,FBS Independent,N,Army West Point,N,Undrafted,34,487,2368,37,4.9,69.6,1.1
+443,Darran Butts,FCS,CAA,N,Hampton,N,Undrafted,20,226,1192,7,5.3,59.6,0.4
+444,Darrel Williams,FBS,SEC,Y,LSU,N,Undrafted,13,145,820,9,5.7,63.1,0.7
+445,Darrell Bridges,FCS,SoCon,N,Chattanooga,N,Undrafted,33,579,2373,16,4.1,71.9,0.5
+446,Darrell Henderson,FBS,AAC,N,Memphis,Y,3.0,25,344,3063,31,8.9,122.5,1.2
+447,Darrell Robinson,FCS,SWAC,N,Texas Southern,N,Undrafted,10,88,533,6,6.1,53.3,0.6
+448,Darren Johnson,FCS,Southland,N,Southeastern La.,N,Undrafted,22,196,1090,7,5.6,49.5,0.3
+449,Darrin Hall,FBS,ACC,Y,Pittsburgh,N,Undrafted,26,281,1772,19,6.3,68.2,0.7
+450,Darrin Reaves,FBS,CUSA,N,UAB,N,Undrafted,12,201,928,12,4.6,77.3,1.0
+451,Darrius Coleman,FCS,SWAC,N,Southern U.,N,Undrafted,9,101,339,2,3.4,37.7,0.2
+452,Darryan Ragsdale,FCS,SWAC,N,Alcorn,N,Undrafted,13,155,1183,8,7.6,91.0,0.6
+453,Darryle Evans,FCS,Southland,N,Houston Christian,N,Undrafted,9,95,436,1,4.6,48.4,0.1
+454,Darryn Jordan,FCS,Pioneer,N,Marist,N,Undrafted,11,134,507,1,3.8,46.1,0.1
+455,Darrynton Evans,FBS,Sun Belt,N,App State,Y,9.0,27,434,2667,25,6.1,98.8,0.9
+456,Darwin Barlow,FBS,Big 12,Y,TCU,N,Undrafted,10,73,428,4,5.9,42.8,0.4
+457,Darwin Thompson,FBS,Mountain West,N,Utah St.,Y,20.0,13,153,1044,14,6.8,80.3,1.1
+458,Daryl McCleskey,FCS,OVC,N,Eastern Ky.,N,Undrafted,34,468,2447,16,5.2,72.0,0.5
+459,Daveonn Porter,FCS,SWAC,N,Texas Southern,N,Undrafted,19,261,1405,10,5.4,73.9,0.5
+460,David Afari,FCS,Big Sky,N,Northern Colo.,N,Undrafted,11,148,620,2,4.2,56.4,0.2
+461,David Bailey,FBS,Mountain West,N,Colorado St.,N,Undrafted,34,472,2099,23,4.4,61.7,0.7
+462,David Cobb,FBS,Big Ten,Y,Minnesota,Y,12.0,26,551,2828,20,5.1,108.8,0.8
+463,David Fluellen,FBS,MAC,N,Toledo,N,Undrafted,9,167,1121,10,6.7,124.6,1.1
+464,David Gist,FCS,OVC,N,Tennessee Tech,N,Undrafted,34,428,2070,14,4.8,60.9,0.4
+465,David Glasco II,FBS,CUSA,N,UTSA,N,Undrafted,12,150,570,5,3.8,47.5,0.4
+466,David Hamm,FCS,Southland,N,McNeese,N,Undrafted,22,251,1293,10,5.2,58.8,0.5
+467,David Hood,FBS,AAC,N,Temple,N,Undrafted,13,130,638,5,4.9,49.1,0.4
+468,David Johnson,FCS,MVFC,N,UNI,Y,7.0,25,509,2839,27,5.6,113.6,1.1
+469,David Jones,FCS,Big Sky,N,Portland St.,N,Undrafted,12,180,1127,9,6.3,93.9,0.8
+470,David Montgomery,FBS,Big 12,Y,Iowa St.,Y,4.0,37,624,2925,26,4.7,79.1,0.7
+471,David Oku,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,12,142,511,6,3.6,42.6,0.5
+472,David Rogers,FCS,Pioneer,N,Davidson,N,Undrafted,5,66,378,3,5.7,75.6,0.6
+473,David Sims,FBS,ACC,Y,Georgia Tech,N,Undrafted,13,161,884,11,5.5,68.0,0.8
+474,David Williams,FBS,SEC,Y,Arkansas,Y,17.0,12,117,656,8,5.6,54.7,0.7
+475,Davion Ervin-Poindexter,FBS,CUSA,N,Western Ky.,N,Undrafted,14,116,525,3,4.5,37.5,0.2
+476,Davon Booth,FBS,Mountain West,N,Utah St.,N,Undrafted,12,120,805,6,6.7,67.1,0.5
+477,Davon Jones,FBS,MAC,N,Bowling Green,N,Undrafted,9,118,518,3,4.4,57.6,0.3
+478,Dawonya Tucker,FCS,SWAC,N,Prairie View,N,Undrafted,33,433,2702,26,6.2,81.9,0.8
+479,Dayne Christiansen,FCS,Big Sky,N,Southern Utah,N,Undrafted,6,35,240,2,6.9,40.0,0.3
+480,Daz Palmer,FCS,SoCon,N,VMI,N,Undrafted,11,125,491,3,3.9,44.6,0.3
+481,Daz'Mond Patterson,FBS,MAC,N,Ohio,N,Undrafted,12,106,497,9,4.7,41.4,0.8
+482,De'Angelo Henderson,FCS,Big South,N,Coastal Carolina,Y,21.0,41,538,3479,42,6.5,84.9,1.0
+483,De'Anthony Thomas,FBS,Pac-12,Y,Oregon,Y,10.0,10,96,594,8,6.2,59.4,0.8
+484,De'Jon Coleman,FCS,Big Sky,N,Sacramento St.,N,Undrafted,12,94,440,7,4.7,36.7,0.6
+485,De'Lance Turner,FCS,SWAC,N,Alcorn,N,Undrafted,23,313,2117,15,6.8,92.0,0.7
+486,De'Mard Llorens,FCS,Southland,N,Northwestern St.,N,Undrafted,44,444,2381,25,5.4,54.1,0.6
+487,De'Montre Tuggle,FBS,MAC,N,Ohio,N,Undrafted,27,292,1851,24,6.3,68.6,0.9
+488,De'Sean McNair,FCS,CAA,N,Elon,N,Undrafted,23,295,1185,9,4.0,51.5,0.4
+489,De'Shawn Waller,FCS,SWAC,N,Alcorn,N,Undrafted,20,315,1732,16,5.5,86.6,0.8
+490,De'Veon Smith,FBS,Big Ten,Y,Michigan,N,Undrafted,37,469,2118,22,4.5,57.2,0.6
+491,De'Von Achane,FBS,SEC,Y,Texas A&M,Y,6.0,30,369,2376,21,6.4,79.2,0.7
+492,DeAndre Torrey,FBS,CUSA,N,North Texas,N,Undrafted,34,536,2848,34,5.3,83.8,1.0
+493,DeAndre Washington,FBS,Big 12,Y,Texas Tech,Y,8.0,37,528,3045,20,5.8,82.3,0.5
+494,DeMarcus Ware,FCS,SoCon,N,Samford,N,Undrafted,10,87,429,7,4.9,42.9,0.7
+495,DeWayne McBride,FBS,CUSA,N,UAB,Y,15.0,30,484,3523,36,7.3,117.4,1.2
+496,Dean Connors,FBS,AAC,N,Rice,N,Undrafted,13,121,771,7,6.4,59.3,0.5
+497,Debrandon Sanders,FBS,FBS Independent,N,Navy,N,Undrafted,12,42,340,1,8.1,28.3,0.1
+498,Dedrick Mills,FBS,Big Ten,Y,Nebraska,N,Undrafted,18,227,1141,13,5.0,63.4,0.7
+499,Dedrick Parson,FBS,Mountain West,N,Hawaii,N,Undrafted,48,647,2994,33,4.6,62.4,0.7
+500,Dee Hart,FBS,Mountain West,N,Colorado St.,N,Undrafted,13,194,1275,16,6.6,98.1,1.2
+501,DeeJay Dallas,FBS,ACC,Y,Miami (FL),Y,13.0,23,224,1310,14,5.8,57.0,0.6
+502,DeeWil Barlee,FCS,CAA,N,Villanova,N,Undrafted,45,442,2225,16,5.0,49.4,0.4
+503,Deion Hankins,FBS,CUSA,N,UTEP,N,Undrafted,31,418,2105,17,5.0,67.9,0.5
+504,Dejon Packer,FBS,Mountain West,N,San Jose St.,N,Undrafted,12,125,567,11,4.5,47.2,0.9
+505,Dejoun Lee,FCS,CAA,N,Delaware,N,Undrafted,40,529,2447,15,4.6,61.2,0.4
+506,Delvecchio Powell II,FCS,Pioneer,N,Presbyterian,N,Undrafted,29,316,1509,8,4.8,52.0,0.3
+507,Demarco Corbin,FCS,MVFC,N,Illinois St.,N,Undrafted,12,96,473,4,4.9,39.4,0.3
+508,Demarcus Rouse,FCS,Big South,N,Presbyterian,N,Undrafted,21,220,1073,10,4.9,51.1,0.5
+509,Demario Richard,FBS,Pac-12,Y,Arizona St.,N,Undrafted,35,562,2718,22,4.8,77.7,0.6
+510,Demetric Felton,FBS,Pac-12,Y,UCLA,Y,14.0,6,132,668,5,5.1,111.3,0.8
+511,Demetrius Russell,FCS,Patriot,N,Colgate,N,Undrafted,35,469,2004,17,4.3,57.3,0.5
+512,Demetrius Warren,FCS,Big Sky,N,Sacramento St.,N,Undrafted,11,108,506,2,4.7,46.0,0.2
+513,Demichael Jackson,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,21,307,1711,9,5.6,81.5,0.4
+514,Demond Claiborne,FBS,ACC,Y,Wake Forest,N,Undrafted,10,137,586,5,4.3,58.6,0.5
+515,Deneric Prince,FBS,AAC,N,Tulsa,N,Undrafted,26,314,1723,14,5.5,66.3,0.5
+516,Dennis Merritt,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,20,272,1235,19,4.5,61.8,1.0
+517,Denzel Knight,FCS,NEC,N,Wagner,N,Undrafted,22,226,1176,13,5.2,53.5,0.6
+518,Denzel Williams,FCS,SoCon,N,Samford,N,Undrafted,22,309,1436,24,4.6,65.3,1.1
+519,Deon Jackson,FBS,ACC,Y,Duke,N,Undrafted,36,494,2170,18,4.4,60.3,0.5
+520,Deon McIntosh,FBS,Pac-12,Y,Washington St.,N,Undrafted,11,111,532,3,4.8,48.4,0.3
+521,Deon Watts,FCS,SoCon,N,VMI,N,Undrafted,12,113,502,5,4.4,41.8,0.4
+522,Deondre Johnson,FCS,SoCon,N,Mercer,N,Undrafted,15,136,846,7,6.2,56.4,0.5
+523,Deonta McMahon,FCS,Southland,N,McNeese,N,Undrafted,27,337,2155,21,6.4,79.8,0.8
+524,Deontae Howard,FCS,NEC,N,Robert Morris,N,Undrafted,11,147,592,4,4.0,53.8,0.4
+525,Deontez Thompson,FCS,CAA,N,Richmond,N,Undrafted,13,188,1001,9,5.3,77.0,0.7
+526,Derrick Craine,FCS,SoCon,N,Chattanooga,N,Undrafted,36,498,2800,29,5.6,77.8,0.8
+527,Derrick Gore,FBS,Sun Belt,N,ULM,N,Undrafted,24,295,1247,12,4.2,52.0,0.5
+528,Derrick Henry,FBS,SEC,Y,Alabama,Y,2.0,41,603,3591,42,6.0,87.6,1.0
+529,Derrick Milton,FCS,Southland,N,McNeese,N,Undrafted,9,79,434,2,5.5,48.2,0.2
+530,Derrick Ziglar,FCS,SoCon,N,VMI,N,Undrafted,22,257,1244,15,4.8,56.5,0.7
+531,Derrius Guice,FBS,SEC,Y,LSU,Y,7.0,24,420,2638,26,6.3,109.9,1.1
+532,Desean Brown,FCS,Patriot,N,Lafayette,N,Undrafted,9,154,580,5,3.8,64.4,0.6
+533,Deshaun Fenwick,FBS,Pac-12,Y,Oregon St.,N,Undrafted,23,210,1068,12,5.1,46.4,0.5
+534,Deshaun Wethington,FCS,CAA,N,Towson,N,Undrafted,10,75,438,1,5.8,43.8,0.1
+535,Deshawn Jones,FCS,Pioneer,N,Campbell,N,Undrafted,28,335,2237,19,6.7,79.9,0.7
+536,Deshawn McClease,FBS,ACC,Y,Virginia Tech,N,Undrafted,25,285,1373,10,4.8,54.9,0.4
+537,Deshawn Salter,FCS,Ivy League,N,Yale,N,Undrafted,17,213,1105,14,5.2,65.0,0.8
+538,Deshawn Smith,FCS,MEAC,N,Florida A&M,N,Undrafted,11,96,640,4,6.7,58.2,0.4
+539,Desmond Reid,FCS,SoCon,N,Western Caro.,N,Undrafted,18,252,1723,17,6.8,95.7,0.9
+540,Desmond Rice,FCS,Big South,N,Liberty,N,Undrafted,23,349,1597,25,4.6,69.4,1.1
+541,Desmond Roland,FBS,Big 12,Y,Oklahoma St.,N,Undrafted,24,379,1581,23,4.2,65.9,1.0
+542,Destin Coates,FBS,Sun Belt,N,Georgia St.,N,Undrafted,20,248,1315,14,5.3,65.8,0.7
+543,Detrez Newsome,FCS,SoCon,N,Western Caro.,N,Undrafted,43,620,3728,37,6.0,86.7,0.9
+544,Deuce Vaughn,FBS,Big 12,Y,Kansas St.,Y,13.0,37,651,3604,34,5.5,97.4,0.9
+545,Devante Mays,FBS,Mountain West,N,Utah St.,Y,22.0,13,165,966,9,5.9,74.3,0.7
+546,Devin Abrams,FCS,SoCon,N,Furman,N,Undrafted,32,260,1257,9,4.8,39.3,0.3
+547,Devin Bowers,FCS,MEAC,N,Florida A&M,N,Undrafted,27,326,1482,12,4.5,54.9,0.4
+548,Devin Chafin,FBS,Big 12,Y,Baylor,N,Undrafted,10,121,578,9,4.8,57.8,0.9
+549,Devin Church,FCS,OVC,N,Eastern Ill.,N,Undrafted,23,364,1809,16,5.0,78.7,0.7
+550,Devin Matthews,FCS,CAA,N,Towson,N,Undrafted,21,238,1134,15,4.8,54.0,0.7
+551,Devin Mockobee,FBS,Big Ten,Y,Purdue,N,Undrafted,25,367,1779,15,4.8,71.2,0.6
+552,Devin Neal,FBS,Big 12,Y,Kansas,N,Undrafted,37,541,3077,33,5.7,83.2,0.9
+553,Devin Singletary,FBS,CUSA,N,Fla. Atlantic,Y,5.0,38,714,4289,66,6.0,112.9,1.7
+554,Devin Wynn,FCS,SoCon,N,Furman,N,Undrafted,38,503,2907,31,5.8,76.5,0.8
+555,Devine Ozigbo,FBS,Big Ten,Y,Nebraska,N,Undrafted,22,284,1575,15,5.5,71.6,0.7
+556,Devine Redding,FBS,Big Ten,Y,Indiana,N,Undrafted,26,479,2134,16,4.5,82.1,0.6
+557,Devon Benn,FCS,SWAC,N,Southern U.,N,Undrafted,49,558,2672,21,4.8,54.5,0.4
+558,Devon Johnson,FBS,CUSA,N,Marshall,N,Undrafted,21,300,2360,22,7.9,112.4,1.0
+559,Devon Spalding,FBS,MAC,N,Central Mich.,N,Undrafted,11,138,758,6,5.5,68.9,0.5
+560,Devon Starling,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,39,560,2714,13,4.8,69.6,0.3
+561,Devonta Freeman,FBS,ACC,Y,Florida St.,Y,7.0,14,173,1016,14,5.9,72.6,1.0
+562,Devontae Booker,FBS,Pac-12,Y,Utah,Y,7.0,23,560,2773,21,5.0,120.6,0.9
+563,Devontae Houston,FBS,FBS Independent,N,UConn,N,Undrafted,10,84,578,3,6.9,57.8,0.3
+564,Devonte Lee,FBS,Mountain West,N,Nevada,N,Undrafted,9,82,427,2,5.2,47.4,0.2
+565,Devonte Williams,FCS,Southland,N,Southeastern La.,N,Undrafted,12,136,599,8,4.4,49.9,0.7
+566,Devwah Whaley,FBS,SEC,Y,Arkansas,N,Undrafted,25,237,1161,10,4.9,46.4,0.4
+567,Dexter Williams,FBS,FBS Independent,N,Notre Dame,Y,17.0,9,158,995,12,6.3,110.6,1.3
+568,Dezmon Jackson,FBS,Big 12,Y,Oklahoma St.,N,Undrafted,11,100,547,4,5.5,49.7,0.4
+569,Diandre Atwater,FCS,Ivy League,N,Princeton,N,Undrafted,9,97,457,2,4.7,50.8,0.2
+570,Dillon Johnson,FBS,Pac-12,Y,Washington,N,Undrafted,25,322,1683,19,5.2,67.3,0.8
+571,Dimitri Taylor,FCS,MVFC,N,Indiana St.,N,Undrafted,11,107,451,1,4.2,41.0,0.1
+572,Diocemy Saint Juste,FBS,Mountain West,N,Hawaii,N,Undrafted,24,447,2516,10,5.6,104.8,0.4
+573,Diquan Walker,FCS,Patriot,N,Holy Cross,N,Undrafted,11,78,411,3,5.3,37.4,0.3
+574,Dom Williams,FCS,MVFC,N,UNI,N,Undrafted,29,320,1686,15,5.3,58.1,0.5
+575,Domenic Cozier,FCS,Patriot,N,Holy Cross,N,Undrafted,22,311,1790,15,5.8,81.4,0.7
+576,Dominic Franklin,FCS,SWAC,N,Texas Southern,N,Undrafted,11,115,538,4,4.7,48.9,0.4
+577,Dominic Gonnella,FCS,MVFC,N,North Dakota St.,N,Undrafted,18,156,875,4,5.6,48.6,0.2
+578,Dominic Richardson,FBS,Big 12,Y,Baylor,N,Undrafted,20,274,1062,9,3.9,53.1,0.4
+579,Dominic Roberto,FCS,SoCon,N,Furman,N,Undrafted,36,475,2586,28,5.4,71.8,0.8
+580,Dominick Bragalone,FCS,Patriot,N,Lehigh,N,Undrafted,44,849,4324,46,5.1,98.3,1.0
+581,Dominick Pierre,FCS,Ivy League,N,Dartmouth,N,Undrafted,10,214,1064,13,5.0,106.4,1.3
+582,Dominique Brown,FBS,AAC,N,Louisville,N,Undrafted,13,163,825,8,5.1,63.5,0.6
+583,Dominique Drake,FCS,MEAC,N,N.C. A&T,N,Undrafted,11,112,390,5,3.5,35.5,0.5
+584,Dominique Johnson,FBS,SEC,Y,Arkansas,N,Undrafted,13,97,575,7,5.9,44.2,0.5
+585,Dominique Thomas,FCS,Southland,N,Central Ark.,N,Undrafted,8,118,601,5,5.1,75.1,0.6
+586,Dominique Williams,FCS,NEC,N,Wagner,N,Undrafted,11,258,1127,6,4.4,102.5,0.5
+587,Don Jackson,FBS,Mountain West,N,Nevada,N,Undrafted,26,446,2038,15,4.6,78.4,0.6
+588,Donald Chaney Jr.,FBS,ACC,Y,Miami (FL),N,Undrafted,11,94,478,2,5.1,43.5,0.2
+589,Donald Liotine,FCS,CAA,N,Stony Brook,N,Undrafted,35,529,2567,21,4.9,73.3,0.6
+590,Donavan Williams,FCS,Southland,N,Sam Houston,N,Undrafted,16,123,658,9,5.3,41.1,0.6
+591,Donavyn Lester,FBS,Mountain West,N,UNLV,N,Undrafted,31,267,1523,22,5.7,49.1,0.7
+592,Dondre Brown,FCS,MEAC,N,South Carolina St.,N,Undrafted,9,65,284,2,4.4,31.6,0.2
+593,Dondre Lewis-Freeman,FCS,MEAC,N,South Carolina St.,N,Undrafted,11,110,409,4,3.7,37.2,0.4
+594,Donerio Davenport,FBS,Sun Belt,N,Texas St.,N,Undrafted,13,90,458,2,5.1,35.2,0.2
+595,Donnavan Spencer,FCS,MVFC,N,Southern Ill.,N,Undrafted,42,431,2211,20,5.1,52.6,0.5
+596,Donnel Pumphrey,FBS,Mountain West,N,San Diego St.,Y,12.0,54,1059,6405,62,6.0,118.6,1.1
+597,Donnell Alexander,FBS,MAC,N,Akron,N,Undrafted,22,178,927,5,5.2,42.1,0.2
+598,Donovan Eaglin,FCS,SWAC,N,Alabama A&M,N,Undrafted,21,312,1636,13,5.2,77.9,0.6
+599,Donovan Edwards,FBS,Big Ten,Y,Michigan,N,Undrafted,26,259,1488,12,5.7,57.2,0.5
+600,Donovan Johnson,FCS,SoCon,N,Wofford,N,Undrafted,10,192,854,4,4.4,85.4,0.4
+601,Donovan Williams,FCS,Southland,N,Sam Houston,N,Undrafted,12,205,925,14,4.5,77.1,1.2
+602,Donovonn Young,FBS,Big Ten,Y,Illinois,N,Undrafted,11,93,376,3,4.0,34.2,0.3
+603,Dontae McMillan,FCS,Big Sky,N,Weber St.,N,Undrafted,30,283,1651,15,5.8,55.0,0.5
+604,Dontae Smith,FBS,ACC,Y,Georgia Tech,N,Undrafted,11,100,504,4,5.0,45.8,0.4
+605,Dontae Strickland,FBS,ACC,Y,Syracuse,N,Undrafted,25,283,1165,10,4.1,46.6,0.4
+606,Dontel James,FBS,Mountain West,N,Fresno St.,N,Undrafted,11,208,697,5,3.4,63.4,0.5
+607,Dontrell Hilliard,FBS,AAC,N,Tulane,N,Undrafted,36,460,2496,27,5.4,69.3,0.8
+608,Dontrell Taylor,FCS,Southland,N,Nicholls,N,Undrafted,26,326,1871,17,5.7,72.0,0.7
+609,Dorian Boyland,FCS,Pioneer,N,Drake,N,Undrafted,23,336,1380,12,4.1,60.0,0.5
+610,Dorian Brown,FBS,MAC,N,Ohio,N,Undrafted,25,269,1582,15,5.9,63.3,0.6
+611,Doroland Dorceus,FBS,AAC,N,Memphis,N,Undrafted,26,287,1471,17,5.1,56.6,0.7
+612,Dorrel McClain,FCS,MEAC,N,N.C. Central,N,Undrafted,21,266,1442,15,5.4,68.7,0.7
+613,Dra Rushton,FCS,MVFC,N,Youngstown St.,N,Undrafted,12,163,664,9,4.1,55.3,0.8
+614,Drake Anderson,FBS,Big Ten,Y,Northwestern,N,Undrafted,12,154,634,3,4.1,52.8,0.2
+615,Draycen Hall,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,16,181,787,3,4.3,49.2,0.2
+616,Dre Brown,FBS,Big Ten,Y,Illinois,N,Undrafted,13,113,584,5,5.2,44.9,0.4
+617,Dre'lyn Washington,FBS,Sun Belt,N,Louisiana,N,Undrafted,10,92,515,2,5.6,51.5,0.2
+618,Dreamius Smith,FBS,Big 12,Y,West Virginia,N,Undrafted,12,103,494,5,4.8,41.2,0.4
+619,Dreshawn Minnieweather,FCS,Southland,N,Houston Christian,N,Undrafted,18,188,1251,12,6.7,69.5,0.7
+620,Drew Hernandez,FCS,Big Sky,N,Cal Poly,N,Undrafted,10,60,453,0,7.6,45.3,0.0
+621,Drew Jean-Guillaume,FCS,NEC,N,Central Conn. St.,N,Undrafted,22,223,1306,13,5.9,59.4,0.6
+622,Drew Lauer,FCS,Pioneer,N,Drake,N,Undrafted,22,376,1638,15,4.4,74.5,0.7
+623,Dri Archer,FBS,MAC,N,Kent St.,N,Undrafted,10,68,527,6,7.8,52.7,0.6
+624,Dré Nelson,FCS,Ivy League,N,Princeton,N,Undrafted,9,44,287,3,6.5,31.9,0.3
+625,Duane Brady,FCS,OVC,N,Murray St.,N,Undrafted,10,87,471,6,5.4,47.1,0.6
+626,Duke Catalon,FBS,AAC,N,Houston,N,Undrafted,21,294,1165,12,4.0,55.5,0.6
+627,Duke Johnson,FBS,ACC,Y,Miami (FL),Y,6.0,21,387,2572,16,6.6,122.5,0.8
+628,Duvante Lane,FCS,Pioneer,N,Butler,N,Undrafted,22,280,1309,16,4.7,59.5,0.7
+629,Duy Tran-Sampson,FCS,Big Sky,N,Cal Poly,N,Undrafted,11,235,1037,8,4.4,94.3,0.7
+630,Dwayne Garrett,FCS,MEAC,N,Hampton,N,Undrafted,11,87,478,2,5.5,43.5,0.2
+631,Dwayne Washington,FBS,Pac-12,Y,Washington,Y,17.0,13,132,697,9,5.3,53.6,0.7
+632,Dy'Shawn Mobley,FCS,OVC,N,Eastern Ky.,N,Undrafted,13,258,1491,20,5.8,114.7,1.5
+633,Dylan Carson,FBS,Mountain West,N,Air Force,N,Undrafted,9,68,493,2,7.2,54.8,0.2
+634,Dylan Laube,FCS,CAA,N,New Hampshire,Y,18.0,31,485,2459,28,5.1,79.3,0.9
+635,Dylan Long,FCS,Southland,N,McNeese,N,Undrafted,13,79,335,10,4.2,25.8,0.8
+636,Dylan McDuffie,FBS,MAC,N,Buffalo,N,Undrafted,12,206,1049,11,5.1,87.4,0.9
+637,Dylan Sampson,FBS,SEC,Y,Tennessee,N,Undrafted,12,106,604,7,5.7,50.3,0.6
+638,Dylan Sparks,FCS,Pioneer,N,Davidson,N,Undrafted,30,457,2288,18,5.0,76.3,0.6
+639,Ean Beek,FCS,Southland,N,Houston Christian,N,Undrafted,12,132,660,4,5.0,55.0,0.3
+640,Earl Harrison,FCS,OVC,N,Tennessee St.,N,Undrafted,8,73,475,2,6.5,59.4,0.2
+641,Eden James,FCS,MEAC,N,Howard,N,Undrafted,21,186,1033,4,5.6,49.2,0.2
+642,Edward Saydee,FBS,AAC,N,Temple,N,Undrafted,12,149,639,6,4.3,53.2,0.5
+643,Elad Covaliu,FCS,Patriot,N,Holy Cross,N,Undrafted,9,61,290,1,4.8,32.2,0.1
+644,Elelyon Noa,FBS,Mountain West,N,Utah St.,N,Undrafted,14,138,597,4,4.3,42.6,0.3
+645,Eli Sanders,FBS,Big 12,Y,Iowa St.,N,Undrafted,9,102,477,4,4.7,53.0,0.4
+646,Eli Turner,FCS,Pioneer,N,Davidson,N,Undrafted,11,72,509,2,7.1,46.3,0.2
+647,Eli Turner Jr.,FCS,Pioneer,N,Davidson,N,Undrafted,19,111,662,4,6.0,34.8,0.2
+648,Elijah Barnwell,FCS,CAA,N,Maine,N,Undrafted,20,250,1144,11,4.6,57.2,0.6
+649,Elijah Burris,FCS,CAA,N,Hampton,N,Undrafted,19,236,1443,12,6.1,75.9,0.6
+650,Elijah Collins,FBS,Big Ten,Y,Michigan St.,N,Undrafted,13,222,988,5,4.5,76.0,0.4
+651,Elijah Davis,FBS,CUSA,N,Old Dominion,N,Undrafted,13,105,562,6,5.4,43.2,0.5
+652,Elijah Dotson,FCS,Big Sky,N,Northern Colo.,N,Undrafted,45,631,3304,27,5.2,73.4,0.6
+653,Elijah Elliott,FCS,Big Sky,N,Montana St.,N,Undrafted,14,118,726,1,6.2,51.9,0.1
+654,Elijah Green,FBS,ACC,Y,North Carolina,N,Undrafted,14,131,558,8,4.3,39.9,0.6
+655,Elijah Holyfield,FBS,SEC,Y,Georgia,N,Undrafted,14,159,1018,7,6.4,72.7,0.5
+656,Elijah Hood,FBS,ACC,Y,North Carolina,Y,24.0,25,364,2321,25,6.4,92.8,1.0
+657,Elijah Howard,FCS,NEC,N,Central Conn. St.,N,Undrafted,11,170,990,5,5.8,90.0,0.5
+658,Elijah Ibitokun-Hanks,FCS,SoCon,N,Chattanooga,N,Undrafted,41,624,3394,28,5.4,82.8,0.7
+659,Elijah Mack,FCS,Southland,N,McNeese,N,Undrafted,9,127,558,4,4.4,62.0,0.4
+660,Elijah McGuire,FBS,Sun Belt,N,Louisiana,Y,20.0,51,711,4312,42,6.1,84.5,0.8
+661,Elijah Mitchell,FBS,Sun Belt,N,Louisiana,Y,10.0,38,484,3002,37,6.2,79.0,1.0
+662,Elijah Tau-Tolliver,FCS,Big Sky,N,Sacramento St.,N,Undrafted,13,64,387,7,6.0,29.8,0.5
+663,Elijah Young,FBS,CUSA,N,Western Ky.,N,Undrafted,13,104,474,3,4.6,36.5,0.2
+664,Elijhaa Penny,FBS,Sun Belt,N,Idaho,N,Undrafted,23,385,1753,22,4.6,76.2,1.0
+665,Elisha Cummings,FCS,Big Sky,N,Idaho,N,Undrafted,21,156,802,5,5.1,38.2,0.2
+666,Elliot Croskey,FCS,CAA,N,UAlbany,N,Undrafted,11,141,523,4,3.7,47.5,0.4
+667,Ellis Merriweather,FBS,FBS Independent,N,Massachusetts,N,Undrafted,22,368,1713,8,4.7,77.9,0.4
+668,Emani Bailey,FBS,Big 12,Y,TCU,N,Undrafted,23,318,1824,16,5.7,79.3,0.7
+669,Emari Demercado,FBS,Big 12,Y,TCU,N,Undrafted,15,121,681,6,5.6,45.4,0.4
+670,Emeka Nwanze,FCS,SoCon,N,The Citadel,N,Undrafted,3,43,158,0,3.7,52.7,0.0
+671,Emilio Martinez,FCS,Pioneer,N,San Diego,N,Undrafted,50,642,3173,28,4.9,63.5,0.6
+672,Emmanuel Reed,FCS,CAA,N,Maine,N,Undrafted,24,309,1307,14,4.2,54.5,0.6
+673,Eno Benjamin,FBS,Pac-12,Y,Arizona St.,Y,15.0,25,553,2725,26,4.9,109.0,1.0
+674,Eric Carter,FCS,MEAC,N,Hampton,N,Undrafted,11,102,505,5,5.0,45.9,0.5
+675,Eric Carter Jr.,FCS,MEAC,N,Hampton,N,Undrafted,12,94,541,3,5.8,45.1,0.2
+676,Eric Gray,FBS,Big 12,Y,Oklahoma,Y,11.0,34,471,2677,19,5.7,78.7,0.6
+677,Eric Harrell,FCS,MEAC,N,Morgan St.,N,Undrafted,11,107,625,5,5.8,56.8,0.5
+678,Eric Wilkes,FCS,Big Sky,N,Weber St.,N,Undrafted,11,153,662,5,4.3,60.2,0.5
+679,Eric Zokouri,FCS,Big South,N,Monmouth,N,Undrafted,5,73,497,6,6.8,99.4,1.2
+680,Erick Evans,FCS,OVC,N,Tennessee St.,N,Undrafted,20,207,1010,10,4.9,50.5,0.5
+681,Essray Taliaferro,FBS,CUSA,N,Marshall,N,Undrafted,14,221,1140,10,5.2,81.4,0.7
+682,Ethan Thomas,FCS,OVC,N,Eastern Ky.,N,Undrafted,9,82,498,4,6.1,55.3,0.4
+683,Eugene Bethea,FCS,Southland,N,Southeastern La.,N,Undrafted,9,113,596,5,5.3,66.2,0.6
+684,Evan Gray,FCS,CAA,N,New Hampshire,N,Undrafted,24,289,1296,12,4.5,54.0,0.5
+685,Evan Hull,FBS,Big Ten,Y,Northwestern,Y,12.0,24,417,1922,12,4.6,80.1,0.5
+686,Evan McField,FCS,SoCon,N,The Citadel,N,Undrafted,13,72,416,3,5.8,32.0,0.2
+687,Ezekiel Elliott,FBS,Big Ten,Y,Ohio St.,Y,1.0,28,562,3699,41,6.6,132.1,1.5
+688,Ezekiel Graham,FCS,Big Sky,N,Sacramento St.,N,Undrafted,9,94,373,2,4.0,41.4,0.2
+689,Ezra Gray,FCS,SWAC,N,Alabama St.,N,Undrafted,25,343,1494,7,4.4,59.8,0.3
+690,Fabian Truss,FCS,SoCon,N,Samford,N,Undrafted,12,167,877,8,5.3,73.1,0.7
+691,Fabrice Mukendi,FCS,OVC,N,Bryant,N,Undrafted,19,193,1044,14,5.4,54.9,0.7
+692,Faysal Aden,FCS,CAA,N,UAlbany,N,Undrafted,15,112,470,2,4.2,31.3,0.1
+693,Fitzgerald Toussaint,FBS,Big Ten,Y,Michigan,N,Undrafted,12,185,648,13,3.5,54.0,1.1
+694,Floyd Chalk,FCS,SWAC,N,Grambling,N,Undrafted,11,125,697,9,5.6,63.4,0.8
+695,Frank Gore,FBS,Sun Belt,N,Southern Miss.,N,Undrafted,47,759,4022,26,5.3,85.6,0.6
+696,Frank Peasant,FBS,CUSA,N,Middle Tenn.,N,Undrafted,13,182,777,9,4.3,59.8,0.7
+697,Frankie Hickson,FBS,FBS Independent,N,Liberty,N,Undrafted,24,281,1491,16,5.3,62.1,0.7
+698,Frantz Caudio,FCS,Pioneer,N,Jacksonville,N,Undrafted,11,64,441,7,6.9,40.1,0.6
+699,Fred Coppet,FBS,MAC,N,Bowling Green,N,Undrafted,39,490,2619,19,5.3,67.2,0.5
+700,Fred Davis,FCS,SoCon,N,Mercer,N,Undrafted,19,237,1120,16,4.7,58.9,0.8
+701,Freddie Brock,FCS,CAA,N,Maine,N,Undrafted,15,161,885,8,5.5,59.0,0.5
+702,Gabe Guild,FCS,Patriot,N,Holy Cross,N,Undrafted,30,325,1550,12,4.8,51.7,0.4
+703,Gabe Manzanares,FCS,Big Sky,N,UC Davis,N,Undrafted,20,408,2116,15,5.2,105.8,0.8
+704,Gaej Walker,FBS,CUSA,N,Western Ky.,N,Undrafted,25,384,1853,11,4.8,74.1,0.4
+705,Gaige Garcia,FCS,Patriot,N,Lehigh,N,Undrafted,11,129,618,4,4.8,56.2,0.4
+706,Garnett Nicholas,FCS,Pioneer,N,Jacksonville,N,Undrafted,23,280,1478,11,5.3,64.3,0.5
+707,Garrett Atzenweiler,FCS,Southland,N,Northwestern St.,N,Undrafted,23,283,1270,15,4.5,55.2,0.7
+708,Garrett Clay,FCS,Pioneer,N,Marist,N,Undrafted,11,101,411,4,4.1,37.4,0.4
+709,Garrett Owens,FCS,NEC,N,Duquesne,N,Undrafted,15,218,1018,10,4.7,67.9,0.7
+710,Gary Brightwell,FBS,Pac-12,Y,Arizona,Y,11.0,16,179,915,4,5.1,57.2,0.2
+711,Gary Quarles,FCS,SWAC,N,Southern U.,N,Undrafted,25,373,1661,17,4.5,66.4,0.7
+712,Gary Scott Jr.,FCS,Pioneer,N,Drake,N,Undrafted,11,159,686,3,4.3,62.4,0.3
+713,Gaven Ziebarth,FCS,MVFC,N,North Dakota,N,Undrafted,10,107,700,9,6.5,70.0,0.9
+714,Gavin Garcia,FBS,MAC,N,Kent St.,N,Undrafted,11,138,544,2,3.9,49.5,0.2
+715,Gavin Williams,FBS,MAC,N,NIU,N,Undrafted,13,95,488,3,5.1,37.5,0.2
+716,Gene Sledge Jr,FCS,Big Sky,N,Northern Colo.,N,Undrafted,9,134,482,4,3.6,53.6,0.4
+717,Geno Hess,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,52,863,5054,63,5.9,97.2,1.2
+718,Geoffrey Whiteside,FBS,FBS Independent,N,Navy,N,Undrafted,10,49,363,3,7.4,36.3,0.3
+719,George Atkinson III,FBS,FBS Independent,N,Notre Dame,N,Undrafted,12,93,555,3,6.0,46.2,0.2
+720,George Golden,FCS,SWAC,N,Alabama St.,N,Undrafted,11,82,406,1,5.0,36.9,0.1
+721,George Holani,FBS,Mountain West,N,Boise St.,N,Undrafted,44,666,3488,25,5.2,79.3,0.6
+722,George Morris III,FBS,ACC,Y,Syracuse,N,Undrafted,10,79,334,1,4.2,33.4,0.1
+723,George Robinson,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,5,52,188,2,3.6,37.6,0.4
+724,Gerald Green,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,19,160,927,8,5.8,48.8,0.4
+725,Gerald Hearns,FCS,MEAC,N,Florida A&M,N,Undrafted,12,131,500,0,3.8,41.7,0.0
+726,Gerald Holmes,FBS,Big Ten,Y,Michigan St.,N,Undrafted,13,110,540,8,4.9,41.5,0.6
+727,Gerard Johnson,FCS,MEAC,N,Norfolk St.,N,Undrafted,20,207,837,3,4.0,41.8,0.2
+728,Gerard Wicks,FBS,Pac-12,Y,Washington St.,N,Undrafted,13,107,610,3,5.7,46.9,0.2
+729,Germi Morrison,FBS,FBS Independent,N,New Mexico St.,N,Undrafted,9,109,471,4,4.3,52.3,0.4
+730,Gerold Bright,FBS,Mountain West,N,Utah St.,N,Undrafted,26,323,1809,19,5.6,69.6,0.7
+731,Gerrid Doaks,FBS,AAC,N,Cincinnati,Y,17.0,30,331,1712,14,5.2,57.1,0.5
+732,Gino Appleberry,FCS,SoCon,N,Chattanooga,N,Undrafted,28,322,1373,13,4.3,49.0,0.5
+733,Glasco Martin,FBS,Big 12,Y,Baylor,N,Undrafted,10,120,509,7,4.2,50.9,0.7
+734,Glenmour Leonard-Osbourne,FCS,Pioneer,N,Marist,N,Undrafted,10,69,405,3,5.9,40.5,0.3
+735,Grant Drakeford,FCS,SoCon,N,The Citadel,N,Undrafted,11,63,602,2,9.6,54.7,0.2
+736,Greg Bell,FBS,Mountain West,N,San Diego St.,N,Undrafted,21,358,1728,15,4.8,82.3,0.7
+737,Greg Howell,FBS,CUSA,N,Fla. Atlantic,N,Undrafted,36,412,2166,21,5.3,60.2,0.6
+738,Greg McCrae,FBS,AAC,N,UCF,N,Undrafted,33,380,2469,27,6.5,74.8,0.8
+739,Gunnar Brekke,FCS,Big Sky,N,Montana St.,N,Undrafted,24,163,898,5,5.5,37.4,0.2
+740,Gus Edwards,FBS,Big Ten,Y,Rutgers,N,Undrafted,24,230,1051,11,4.6,43.8,0.5
+741,Gus Johnson,FCS,Southland,N,SFA,N,Undrafted,24,432,2744,34,6.4,114.3,1.4
+742,Hank McCloud,FCS,SoCon,N,Furman,N,Undrafted,25,338,1633,10,4.8,65.3,0.4
+743,Harlan Dixon,FCS,Southland,N,Southeastern La.,N,Undrafted,11,94,403,5,4.3,36.6,0.5
+744,Harold Coles,FCS,Ivy League,N,Cornell,N,Undrafted,28,351,2057,16,5.9,73.5,0.6
+745,Harold Cooper,FCS,CAA,N,Rhode Island,N,Undrafted,42,508,2165,10,4.3,51.5,0.2
+746,Harrison Bey-Buie,FCS,OVC,N,Eastern Ill.,N,Undrafted,11,132,479,4,3.6,43.5,0.4
+747,Harrison Waylee,FBS,Mountain West,N,Wyoming,N,Undrafted,32,537,2876,15,5.4,89.9,0.5
+748,Hassan Hall,FBS,ACC,Y,Georgia Tech,N,Undrafted,25,224,1022,6,4.6,40.9,0.2
+749,Hassan Haskins,FBS,Big Ten,Y,Michigan,Y,11.0,33,452,2324,30,5.1,70.4,0.9
+750,Henry Josey,FBS,SEC,Y,Missouri,N,Undrafted,14,174,1166,16,6.7,83.3,1.1
+751,Henry Parrish Jr.,FBS,ACC,Y,Miami (FL),N,Undrafted,34,335,1794,13,5.4,52.8,0.4
+752,Herb Walker Jr.,FCS,MEAC,N,Morgan St.,N,Undrafted,35,489,2443,18,5.0,69.8,0.5
+753,Herbert Edwards,FCS,SWAC,N,Southern U.,N,Undrafted,10,174,977,5,5.6,97.7,0.5
+754,Horactio Banks,FBS,MAC,N,Ball St.,N,Undrafted,9,95,595,7,6.3,66.1,0.8
+755,Hosey Williams,FBS,AAC,N,Cincinnati,N,Undrafted,25,253,1432,8,5.7,57.3,0.3
+756,Hunter Cobb,FCS,Pioneer,N,Marist,N,Undrafted,21,220,1156,17,5.3,55.0,0.8
+757,Hunter Rice,FCS,SoCon,N,VMI,N,Undrafted,11,170,867,14,5.1,78.8,1.3
+758,Hunter Smith,FBS,Sun Belt,N,ULM,N,Undrafted,12,94,507,3,5.4,42.2,0.2
+759,I'Tavius Mathers,FBS,CUSA,N,Middle Tenn.,N,Undrafted,25,327,2124,20,6.5,85.0,0.8
+760,Iaan Cousin,FCS,Big South,N,Kennesaw St.,N,Undrafted,13,47,479,4,10.2,36.8,0.3
+761,Ian Eriksen,FBS,MAC,N,Eastern Mich.,N,Undrafted,23,363,1576,17,4.3,68.5,0.7
+762,Ian Wheeler,FCS,MEAC,N,Howard,N,Undrafted,19,117,823,10,7.0,43.3,0.5
+763,Idreis Augustus,FCS,MEAC,N,N.C. Central,N,Undrafted,8,75,323,3,4.3,40.4,0.4
+764,Ikaika Ragsdale,FBS,CUSA,N,North Texas,N,Undrafted,25,242,1289,12,5.3,51.6,0.5
+765,Imani Cross,FBS,Big Ten,Y,Nebraska,N,Undrafted,13,85,447,10,5.3,34.4,0.8
+766,Irv Mulligan,FCS,SWAC,N,Jackson St.,N,Undrafted,8,122,674,5,5.5,84.2,0.6
+767,Irvin Mulligan,FCS,SoCon,N,Wofford,N,Undrafted,15,175,1196,10,6.8,79.7,0.7
+768,Irvin Riley,FCS,Pioneer,N,Jacksonville,N,Undrafted,11,119,625,6,5.3,56.8,0.5
+769,Isaac Bennett,FBS,ACC,Y,Pittsburgh,N,Undrafted,13,171,797,7,4.7,61.3,0.5
+770,Isaac Foster,FCS,ASUN,N,Kennesaw St.,N,Undrafted,24,136,1155,9,8.5,48.1,0.4
+771,Isaac Guerendo,FBS,ACC,Y,Louisville,Y,9.0,14,132,810,11,6.1,57.9,0.8
+772,Isaac Wallace,FCS,MVFC,N,South Dakota St.,N,Undrafted,26,184,1035,9,5.6,39.8,0.3
+773,Isaac Washington,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,11,119,636,5,5.3,57.8,0.5
+774,Isaiah Bowser,FBS,AAC,N,UCF,N,Undrafted,33,561,2368,31,4.2,71.8,0.9
+775,Isaiah Crowell,FCS,SWAC,N,Alabama St.,N,Undrafted,12,170,1121,15,6.6,93.4,1.2
+776,Isaiah Davis,FCS,MVFC,N,South Dakota St.,Y,14.0,46,676,4548,50,6.7,98.9,1.1
+777,Isaiah Ifanse,FCS,Big Sky,N,Montana St.,N,Undrafted,38,602,3461,23,5.7,91.1,0.6
+778,Isaiah Johnson,FCS,OVC,N,Eastern Ill.,N,Undrafted,22,245,1391,12,5.7,63.2,0.5
+779,Isaiah Malcome,FCS,Ivy League,N,Penn,N,Undrafted,10,123,710,6,5.8,71.0,0.6
+780,Isaiah Saunders,FCS,Big Sky,N,Idaho,N,Undrafted,36,488,2168,17,4.4,60.2,0.5
+781,Isaiah Smith,FCS,MVFC,N,North Dakota,N,Undrafted,23,156,1041,6,6.7,45.3,0.3
+782,Isaiah Spiller,FBS,SEC,Y,Texas A&M,Y,9.0,35,541,2993,25,5.5,85.5,0.7
+783,Isaiah Totten,FCS,MEAC,N,N.C. Central,N,Undrafted,34,422,2118,15,5.0,62.3,0.4
+784,Isaiah White,FCS,CAA,N,Stony Brook,N,Undrafted,11,130,709,5,5.5,64.5,0.5
+785,Isaiah Williams,FCS,Pioneer,N,San Diego,N,Undrafted,10,228,1081,8,4.7,108.1,0.8
+786,Isaih Pacheco,FBS,Big Ten,Y,Rutgers,N,Undrafted,12,167,647,5,3.9,53.9,0.4
+787,Ish Witter,FBS,SEC,Y,Missouri,N,Undrafted,37,476,2317,13,4.9,62.6,0.4
+788,Ishod Byarm,FCS,Big South,N,Bryant,N,Undrafted,11,119,542,5,4.6,49.3,0.5
+789,Isiah Pacheco,FBS,Big Ten,Y,Rutgers,Y,22.0,32,396,1795,13,4.5,56.1,0.4
+790,Isiaha Smith,FCS,SoCon,N,The Citadel,N,Undrafted,23,227,1154,12,5.1,50.2,0.5
+791,Isidore Jackson,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,12,148,828,8,5.6,69.0,0.7
+792,Ismail Mahdi,FBS,Sun Belt,N,Texas St.,N,Undrafted,21,335,1899,12,5.7,90.4,0.6
+793,Israel Abanikanda,FBS,ACC,Y,Pittsburgh,Y,9.0,24,362,2082,27,5.8,86.8,1.1
+794,Israel Tucker,FBS,CUSA,N,Louisiana Tech,N,Undrafted,10,149,648,4,4.3,64.8,0.4
+795,Issiah Aguero,FCS,Pioneer,N,Morehead St.,N,Undrafted,30,378,1794,17,4.7,59.8,0.6
+796,Ito Smith,FBS,CUSA,N,Southern Miss.,Y,11.0,52,820,4536,42,5.5,87.2,0.8
+797,Izzy Matthews,FBS,Mountain West,N,Colorado St.,N,Undrafted,47,548,2654,30,4.8,56.5,0.6
+798,J'Mari Taylor,FCS,MEAC,N,N.C. Central,N,Undrafted,12,87,421,7,4.8,35.1,0.6
+799,J.C. Baker,FCS,MVFC,N,Western Ill.,N,Undrafted,24,462,2414,11,5.2,100.6,0.5
+800,J.C. Coleman,FBS,ACC,Y,Virginia Tech,N,Undrafted,13,107,533,3,5.0,41.0,0.2
+801,J.D. King,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,19,301,1429,13,4.7,75.2,0.7
+802,J.J. Davis,FCS,MEAC,N,Morgan St.,N,Undrafted,21,239,1465,12,6.1,69.8,0.6
+803,J.J. Green,FBS,SEC,Y,Georgia,N,Undrafted,13,68,384,3,5.6,29.5,0.2
+804,J.J. Taylor,FBS,Pac-12,Y,Arizona,N,Undrafted,36,549,3002,16,5.5,83.4,0.4
+805,J.K. Dobbins,FBS,Big Ten,Y,Ohio St.,Y,5.0,42,725,4459,38,6.2,106.2,0.9
+806,JD Moore,FCS,Big South,N,Charleston So.,N,Undrafted,10,86,527,6,6.1,52.7,0.6
+807,JJ Jude,FCS,OVC,N,Eastern Ky.,N,Undrafted,11,160,637,6,4.0,57.9,0.5
+808,Ja'Den McKenzie,FCS,CAA,N,Rhode Island,N,Undrafted,11,130,855,13,6.6,77.7,1.2
+809,Ja'Quan Keys,FCS,MVFC,N,Indiana St.,N,Undrafted,7,158,948,13,6.0,135.4,1.9
+810,Ja'Quez Cross,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,13,128,716,7,5.6,55.1,0.5
+811,Ja'Quinden Jackson,FBS,Pac-12,Y,Utah,N,Undrafted,24,239,1328,13,5.6,55.3,0.5
+812,Ja'Terian Douglas,FBS,CUSA,N,Tulsa,N,Undrafted,12,113,379,2,3.4,31.6,0.2
+813,Ja'Won Howell,FCS,SWAC,N,Alabama St.,N,Undrafted,11,98,412,2,4.2,37.5,0.2
+814,JaMario Clements,FCS,NEC,N,Duquesne,N,Undrafted,10,104,457,3,4.4,45.7,0.3
+815,JaTarvious Whitlow,FBS,SEC,Y,Auburn,N,Undrafted,11,156,763,10,4.9,69.4,0.9
+816,Jaamal Berry,FCS,OVC,N,Murray St.,N,Undrafted,12,128,668,5,5.2,55.7,0.4
+817,Jabari Small,FBS,SEC,Y,Tennessee,N,Undrafted,35,393,2005,24,5.1,57.3,0.7
+818,Jabari Turner,FCS,SoCon,N,VMI,N,Undrafted,12,108,424,7,3.9,35.3,0.6
+819,Jabari Wilson,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,9,137,661,9,4.8,73.4,1.0
+820,Jabriel Johnson,FCS,MEAC,N,Morgan St.,N,Undrafted,11,125,464,2,3.7,42.2,0.2
+821,Jacardia Wright,FCS,MVFC,N,Missouri St.,N,Undrafted,20,303,1407,15,4.6,70.4,0.8
+822,Jacob Kibodi,FBS,Sun Belt,N,Louisiana,N,Undrafted,12,129,729,7,5.7,60.8,0.6
+823,Jacob Saylors,FCS,SoCon,N,ETSU,N,Undrafted,51,608,3861,33,6.4,75.7,0.6
+824,Jacobi Green,FCS,CAA,N,Richmond,N,Undrafted,37,497,2795,27,5.6,75.5,0.7
+825,Jacorey Howard,FCS,SWAC,N,Texas Southern,N,Undrafted,21,170,835,12,4.9,39.8,0.6
+826,Jacory Croskey-Merritt,FBS,Mountain West,N,New Mexico,N,Undrafted,23,309,1612,22,5.2,70.1,1.0
+827,Jacory Merritt,FCS,SWAC,N,Alabama St.,N,Undrafted,16,163,634,6,3.9,39.6,0.4
+828,Jacques Patrick,FBS,ACC,Y,Florida St.,N,Undrafted,11,134,748,7,5.6,68.0,0.6
+829,Jacquez Allen,FCS,SoCon,N,Wofford,N,Undrafted,11,52,528,4,10.2,48.0,0.4
+830,Jacquez Stuart,FBS,MAC,N,Toledo,N,Undrafted,26,244,1344,10,5.5,51.7,0.4
+831,Jaden Shirden,FCS,CAA,N,Monmouth,N,Undrafted,33,504,3697,26,7.3,112.0,0.8
+832,Jaden Stewart,FCS,SWAC,N,Prairie View,N,Undrafted,21,255,1342,14,5.3,63.9,0.7
+833,Jaden Sutton,FCS,Patriot,N,Lafayette,N,Undrafted,9,90,398,3,4.4,44.2,0.3
+834,Jaedon Henry,FCS,Patriot,N,Colgate,N,Undrafted,21,195,837,4,4.3,39.9,0.2
+835,Jaelen Greene,FCS,OVC,N,Jacksonville St.,N,Undrafted,13,134,723,4,5.4,55.6,0.3
+836,Jaelin Benefield,FCS,OVC,N,Eastern Ill.,N,Undrafted,6,59,258,1,4.4,43.0,0.2
+837,Jager Gardner,FBS,AAC,N,Temple,N,Undrafted,11,141,585,5,4.1,53.2,0.5
+838,Jah-Maine Martin,FCS,Big South,N,N.C. A&T,N,Undrafted,34,419,2624,34,6.3,77.2,1.0
+839,Jahad Thomas,FBS,AAC,N,Temple,N,Undrafted,26,483,2215,30,4.6,85.2,1.2
+840,Jahmyr Gibbs,FBS,SEC,Y,Alabama,Y,2.0,31,383,2132,15,5.6,68.8,0.5
+841,Jahwan Edwards,FBS,MAC,N,Ball St.,N,Undrafted,23,474,2362,26,5.0,102.7,1.1
+842,Jaimiee Bowe,FCS,OVC,N,UT Martin,N,Undrafted,12,181,747,7,4.1,62.2,0.6
+843,Jaison Patterson,FBS,MAC,N,Bowling Green,N,Undrafted,13,135,583,1,4.3,44.8,0.1
+844,Jajuan Stinson,FCS,SoCon,N,ETSU,N,Undrafted,21,245,1179,10,4.8,56.1,0.5
+845,Jake Chisholm,FCS,Pioneer,N,Dayton,N,Undrafted,31,622,3226,35,5.2,104.1,1.1
+846,Jake Funk,FBS,Big Ten,Y,Maryland,Y,16.0,4,60,516,3,8.6,129.0,0.8
+847,Jake Hutson,FCS,Pioneer,N,Valparaiso,N,Undrafted,4,76,323,4,4.2,80.8,1.0
+848,Jake McKenzie,FCS,Big South,N,Kennesaw St.,N,Undrafted,26,273,1219,4,4.5,46.9,0.2
+849,Jake Miller,FCS,Big Sky,N,North Dakota,N,Undrafted,9,98,424,5,4.3,47.1,0.6
+850,Jake Stenson,FCS,SoCon,N,The Citadel,N,Undrafted,9,68,597,4,8.8,66.3,0.4
+851,Jakobi Buchanan,FBS,FBS Independent,N,Army West Point,N,Undrafted,24,247,978,18,4.0,40.8,0.8
+852,Jakori Ford,FCS,Big Sky,N,Idaho St.,N,Undrafted,19,177,911,9,5.1,47.9,0.5
+853,Jaleel McLaughlin,FCS,MVFC,N,Youngstown St.,N,Undrafted,28,536,3429,30,6.4,122.5,1.1
+854,Jalen Berger,FBS,Big Ten,Y,Michigan St.,N,Undrafted,12,148,683,6,4.6,56.9,0.5
+855,Jalen Bussey,FCS,MVFC,N,North Dakota St.,N,Undrafted,7,45,396,3,8.8,56.6,0.4
+856,Jalen Hampton,FCS,CAA,N,Elon,N,Undrafted,22,419,1933,16,4.6,87.9,0.7
+857,Jalen Hurd,FBS,SEC,Y,Tennessee,N,Undrafted,26,467,2187,17,4.7,84.1,0.7
+858,Jalen Jackson,FCS,CAA,N,Villanova,N,Undrafted,26,265,1792,19,6.8,68.9,0.7
+859,Jalen Leary,FCS,Pioneer,N,Stetson,N,Undrafted,30,387,2042,22,5.3,68.1,0.7
+860,Jalen Madison,FCS,NEC,N,Sacred Heart,N,Undrafted,11,139,645,4,4.6,58.6,0.4
+861,Jalen Mitchell,FBS,ACC,Y,Louisville,N,Undrafted,19,207,1069,7,5.2,56.3,0.4
+862,Jalen Overstreet,FCS,Southland,N,Sam Houston,N,Undrafted,30,262,1550,14,5.9,51.7,0.5
+863,Jalen Randolph,FCS,CAA,N,Delaware,N,Undrafted,34,301,1559,21,5.2,45.9,0.6
+864,Jalen Rhodes,FBS,CUSA,N,UTSA,N,Undrafted,23,289,1486,14,5.1,64.6,0.6
+865,Jalen Richard,FBS,CUSA,N,Southern Miss.,N,Undrafted,13,185,1098,14,5.9,84.5,1.1
+866,Jalen Rouse,FCS,OVC,N,Tennessee St.,N,Undrafted,11,129,613,2,4.8,55.7,0.2
+867,Jalen Simmons,FCS,MEAC,N,South Carolina St.,N,Undrafted,22,352,1803,11,5.1,82.0,0.5
+868,Jalen White,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,22,322,1803,19,5.6,82.0,0.9
+869,Jalin Moore,FBS,Sun Belt,N,App State,N,Undrafted,36,519,3170,27,6.1,88.1,0.8
+870,Jam Griffin,FBS,Pac-12,Y,Oregon St.,N,Undrafted,12,86,488,4,5.7,40.7,0.3
+871,Jamaal Jackson,FCS,MEAC,N,Delaware St.,N,Undrafted,11,120,493,1,4.1,44.8,0.1
+872,Jamaal Williams,FBS,FBS Independent,N,BYU,Y,13.0,22,451,2608,19,5.8,118.5,0.9
+873,Jamal Adjamah,FCS,Pioneer,N,Jacksonville,N,Undrafted,11,60,409,2,6.8,37.2,0.2
+874,Jamal Haynes,FBS,ACC,Y,Georgia Tech,N,Undrafted,13,174,1059,7,6.1,81.5,0.5
+875,Jamal Jones,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,11,132,578,3,4.4,52.5,0.3
+876,Jamal Morrow,FBS,Pac-12,Y,Washington St.,N,Undrafted,26,176,1097,9,6.2,42.2,0.3
+877,Jamal Towns,FCS,MVFC,N,Illinois St.,N,Undrafted,12,112,627,2,5.6,52.2,0.2
+878,Jamal Wilson,FBS,MAC,N,Massachusetts,N,Undrafted,10,100,368,1,3.7,36.8,0.1
+879,Jamar Curtis,FCS,Patriot,N,Lafayette,N,Undrafted,22,350,1925,16,5.5,87.5,0.7
+880,Jamari Broussard,FCS,SoCon,N,Wofford,N,Undrafted,5,26,158,1,6.1,31.6,0.2
+881,Jamari Smith,FCS,MEAC,N,N.C. A&T,N,Undrafted,12,77,422,2,5.5,35.2,0.2
+882,Jamaruz Thompkins,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,10,72,396,6,5.5,39.6,0.6
+883,Jamauri Bogan,FBS,MAC,N,Western Mich.,N,Undrafted,46,622,3327,43,5.3,72.3,0.9
+884,James Baker,FBS,FBS Independent,N,Idaho,N,Undrafted,11,143,593,6,4.1,53.9,0.5
+885,James Butler,FBS,Mountain West,N,Nevada,N,Undrafted,38,607,3313,27,5.5,87.2,0.7
+886,James Charles,FBS,CUSA,N,Fla. Atlantic,N,Undrafted,9,92,429,4,4.7,47.7,0.4
+887,James Conner,FBS,ACC,Y,Pittsburgh,Y,8.0,38,660,3656,50,5.5,96.2,1.3
+888,James Cook,FBS,SEC,Y,Georgia,Y,3.0,15,113,728,7,6.4,48.5,0.5
+889,James Felila,FCS,Big Sky,N,Southern Utah,N,Undrafted,9,174,694,8,4.0,77.1,0.9
+890,James Flanders,FBS,AAC,N,Tulsa,N,Undrafted,13,258,1629,18,6.3,125.3,1.4
+891,James Gilbert,FBS,Big 12,Y,Kansas St.,N,Undrafted,46,696,3336,33,4.8,72.5,0.7
+892,James Holland,FCS,Patriot,N,Colgate,N,Undrafted,12,158,732,16,4.6,61.0,1.3
+893,James Holland Jr.,FCS,Patriot,N,Colgate,N,Undrafted,21,332,1941,18,5.8,92.4,0.9
+894,James Johannesson,FCS,FCS Independent,N,North Dakota,N,Undrafted,23,217,1176,11,5.4,51.1,0.5
+895,James Kenner,FCS,CAA,N,Stony Brook,N,Undrafted,11,191,829,5,4.3,75.4,0.5
+896,James Louis,FCS,Pioneer,N,Morehead St.,N,Undrafted,11,131,780,6,6.0,70.9,0.5
+897,James Madison,FCS,Big Sky,N,Idaho St.,N,Undrafted,21,379,1907,16,5.0,90.8,0.8
+898,James Owens,FCS,MEAC,N,Florida A&M,N,Undrafted,12,96,379,2,3.9,31.6,0.2
+899,James Robinson,FCS,MVFC,N,Illinois St.,N,Undrafted,37,734,4122,42,5.6,111.4,1.1
+900,James Sims,FBS,Big 12,Y,Kansas,N,Undrafted,12,230,1110,7,4.8,92.5,0.6
+901,James Story,FCS,Pioneer,N,Davidson,N,Undrafted,23,202,1257,19,6.2,54.7,0.8
+902,James White,FBS,Big Ten,Y,Wisconsin,Y,11.0,13,221,1444,13,6.5,111.1,1.0
+903,James Wilder Jr.,FBS,ACC,Y,Florida St.,N,Undrafted,13,81,563,8,7.0,43.3,0.6
+904,James Williams,FBS,Pac-12,Y,Washington St.,N,Undrafted,26,224,1144,18,5.1,44.0,0.7
+905,Jamie Smith,FCS,SWAC,N,Ark.-Pine Bluff,N,Undrafted,10,86,380,1,4.4,38.0,0.1
+906,Jamycal Hasty,FBS,Big 12,Y,Baylor,N,Undrafted,26,228,1250,10,5.5,48.1,0.4
+907,Jamyest Williams,FBS,Sun Belt,N,Georgia St.,N,Undrafted,13,128,859,9,6.7,66.1,0.7
+908,Jaquarion Turner,FCS,Southland,N,SFA,N,Undrafted,10,131,537,3,4.1,53.7,0.3
+909,Jaquez Moore,FBS,ACC,Y,Duke,N,Undrafted,24,195,1182,11,6.1,49.2,0.5
+910,Jaqwis Dancy,FBS,CUSA,N,Louisiana Tech,N,Undrafted,11,124,689,9,5.6,62.6,0.8
+911,Jared Baker,FBS,Pac-12,Y,Arizona,N,Undrafted,12,131,798,9,6.1,66.5,0.8
+912,Jared Cooper,FCS,Patriot,N,Bucknell,N,Undrafted,10,161,525,2,3.3,52.5,0.2
+913,Jared Joyner,FCS,Pioneer,N,Campbell,N,Undrafted,10,143,741,8,5.2,74.1,0.8
+914,Jared Mohamed,FCS,Big Sky,N,Cal Poly,N,Undrafted,21,370,1635,7,4.4,77.9,0.3
+915,Jared Sanders,FCS,OVC,N,Eastern Ky.,N,Undrafted,12,110,368,2,3.3,30.7,0.2
+916,Jared West,FCS,Southland,N,Northwestern St.,N,Undrafted,23,302,1185,13,3.9,51.5,0.6
+917,Jared Wilson,FCS,SWAC,N,Mississippi Val.,N,Undrafted,11,125,423,3,3.4,38.5,0.3
+918,Jareem Westcott,FCS,Pioneer,N,Stetson,N,Undrafted,18,216,1257,18,5.8,69.8,1.0
+919,Jarek Broussard,FBS,Pac-12,Y,Colorado,N,Undrafted,17,298,1556,7,5.2,91.5,0.4
+920,Jaren Mangham,FBS,AAC,N,South Fla.,N,Undrafted,12,160,671,15,4.2,55.9,1.2
+921,Jaret Patterson,FBS,MAC,N,Buffalo,N,Undrafted,33,636,3884,52,6.1,117.7,1.6
+922,Jarett Hunter,FCS,MEAC,N,Howard,N,Undrafted,34,399,1872,17,4.7,55.1,0.5
+923,Jarius Jeter,FCS,Pioneer,N,Presbyterian,N,Undrafted,5,43,152,3,3.5,30.4,0.6
+924,Jarquez Hunter,FBS,SEC,Y,Auburn,N,Undrafted,37,352,2170,17,6.2,58.6,0.5
+925,Jarred Craft,FBS,CUSA,N,Louisiana Tech,N,Undrafted,25,310,1606,12,5.2,64.2,0.5
+926,Jarrell Cooper,FCS,CAA,N,William & Mary,N,Undrafted,11,109,425,2,3.9,38.6,0.2
+927,Jarrell Wiley,FCS,Southland,N,UIW,N,Undrafted,21,146,819,6,5.6,39.0,0.3
+928,Jarrett Morgan,FCS,Pioneer,N,Valparaiso,N,Undrafted,19,249,1039,7,4.2,54.7,0.4
+929,Jarrod Lawson,FBS,Mountain West,N,San Jose St.,N,Undrafted,11,164,788,4,4.8,71.6,0.4
+930,Jarveon Howard,FCS,SWAC,N,Alcorn,N,Undrafted,22,408,2052,19,5.0,93.3,0.9
+931,Jarveon Williams,FBS,CUSA,N,UTSA,N,Undrafted,24,380,1942,16,5.1,80.9,0.7
+932,Jarvion Franklin,FBS,MAC,N,Western Mich.,N,Undrafted,52,942,4867,52,5.2,93.6,1.0
+933,Jase McClellan,FBS,SEC,Y,Alabama,Y,16.0,26,292,1545,15,5.3,59.4,0.6
+934,Jasen Oden Jr.,FBS,Mountain West,N,Colorado St.,N,Undrafted,12,154,746,6,4.8,62.2,0.5
+935,Jashaun Corbin,FBS,ACC,Y,Florida St.,N,Undrafted,21,224,1288,12,5.8,61.3,0.6
+936,Jason Douglas,FCS,NEC,N,Duquesne,N,Undrafted,11,93,353,1,3.8,32.1,0.1
+937,Jason Huntley,FBS,FBS Independent,N,New Mexico St.,Y,14.0,24,263,1595,16,6.1,66.5,0.7
+938,Jason Randall,FCS,MVFC,N,Missouri St.,N,Undrafted,20,217,885,7,4.1,44.2,0.4
+939,Jasper Sanders,FCS,MVFC,N,South Dakota,N,Undrafted,10,128,697,5,5.4,69.7,0.5
+940,Jatarvious Whitlow,FBS,SEC,Y,Auburn,N,Undrafted,13,150,787,6,5.2,60.5,0.5
+941,Jauan Latney,FCS,CAA,N,James Madison,N,Undrafted,11,122,692,7,5.7,62.9,0.6
+942,Javian Hawkins,FBS,ACC,Y,Louisville,N,Undrafted,21,397,2347,16,5.9,111.8,0.8
+943,Javon Leake,FBS,Big Ten,Y,Maryland,N,Undrafted,12,102,736,8,7.2,61.3,0.7
+944,Javon White,FCS,CAA,N,Villanova,N,Undrafted,12,115,515,7,4.5,42.9,0.6
+945,Javon Williams Jr.,FCS,MVFC,N,Southern Ill.,N,Undrafted,45,505,2549,42,5.0,56.6,0.9
+946,Javonte Williams,FBS,ACC,Y,North Carolina,Y,3.0,24,323,2073,24,6.4,86.4,1.0
+947,Javorius Allen,FBS,Pac-12,Y,Southern California,Y,10.0,27,411,2274,25,5.5,84.2,0.9
+948,Jawaun Northington,FCS,MVFC,N,Murray St.,N,Undrafted,9,86,380,2,4.4,42.2,0.2
+949,Jawhar Jordan,FBS,ACC,Y,Louisville,Y,17.0,26,323,1943,17,6.0,74.7,0.7
+950,Jawon Chisholm,FBS,MAC,N,Akron,N,Undrafted,23,303,1489,16,4.9,64.7,0.7
+951,Jawon Davis,FBS,CUSA,N,Rice,N,Undrafted,10,95,476,3,5.0,47.6,0.3
+952,Jawon Hamilton,FBS,MAC,N,Eastern Mich.,N,Undrafted,35,358,2084,14,5.8,59.5,0.4
+953,Jay Ajayi,FBS,Mountain West,N,Boise St.,Y,13.0,27,596,3248,46,5.4,120.3,1.7
+954,Jay Ducker,FBS,AAC,N,Memphis,N,Undrafted,13,110,544,7,4.9,41.8,0.5
+955,Jay Green,FCS,Big Sky,N,Southern Utah,N,Undrafted,28,344,1645,22,4.8,58.8,0.8
+956,Jay Jones,FBS,Sun Belt,N,South Alabama,N,Undrafted,12,143,737,5,5.2,61.4,0.4
+957,Jay Stanton,FCS,SoCon,N,Samford,N,Undrafted,53,647,3471,35,5.4,65.5,0.7
+958,Jay Warren,FBS,CUSA,N,Fla. Atlantic,N,Undrafted,10,121,571,2,4.7,57.1,0.2
+959,Jay'Veon Sunday,FCS,ASUN,N,Abilene Christian,N,Undrafted,11,126,677,3,5.4,61.5,0.3
+960,Jayden Brown,FCS,OVC,N,Gardner-Webb,N,Undrafted,22,191,1125,11,5.9,51.1,0.5
+961,Jaydn Ott,FBS,Pac-12,Y,California,N,Undrafted,24,416,2212,20,5.3,92.2,0.8
+962,Jaylan Knighton,FBS,AAC,N,SMU,N,Undrafted,20,281,1306,15,4.6,65.3,0.8
+963,Jaylan Thomas,FCS,SoCon,N,Samford,N,Undrafted,38,445,2280,17,5.1,60.0,0.4
+964,Jaylen Coleman,FBS,ACC,Y,Duke,N,Undrafted,9,102,480,4,4.7,53.3,0.4
+965,Jaylen Smith,FCS,CAA,N,Rhode Island,N,Undrafted,11,89,469,1,5.3,42.6,0.1
+966,Jaylen Thomas,FBS,MAC,N,Kent St.,N,Undrafted,11,133,460,2,3.5,41.8,0.2
+967,Jaylen Walton,FBS,SEC,Y,Ole Miss,N,Undrafted,38,361,1839,16,5.1,48.4,0.4
+968,Jaylen Warren,FBS,Big 12,Y,Oklahoma St.,N,Undrafted,26,368,1785,16,4.9,68.7,0.6
+969,Jaylen Wright,FBS,SEC,Y,Tennessee,Y,5.0,25,283,1888,14,6.7,75.5,0.6
+970,Jayln Cagle,FCS,Big South,N,Gardner-Webb,N,Undrafted,33,442,1885,13,4.3,57.1,0.4
+971,Jaylon Bester,FBS,MAC,N,Miami (OH),N,Undrafted,11,171,741,14,4.3,67.4,1.3
+972,Jaylon Glover,FBS,Pac-12,Y,Utah,N,Undrafted,13,137,562,2,4.1,43.2,0.2
+973,Jaylon Jackson,FBS,MAC,N,Eastern Mich.,N,Undrafted,19,185,796,2,4.3,41.9,0.1
+974,Jaylon Spears,FCS,Southland,N,Nicholls,N,Undrafted,11,115,753,6,6.5,68.5,0.5
+975,Jeff Proctor,FCS,MVFC,N,Illinois St.,N,Undrafted,11,112,476,2,4.2,43.3,0.2
+976,Jeff Scott,FBS,SEC,Y,Ole Miss,N,Undrafted,8,67,493,2,7.4,61.6,0.2
+977,Jeffery Wilson,FBS,CUSA,N,North Texas,N,Undrafted,22,357,2151,30,6.0,97.8,1.4
+978,Jeffrey Keil,FCS,Pioneer,N,Davidson,N,Undrafted,12,153,725,8,4.7,60.4,0.7
+979,Jeffrey Wilson,FBS,CUSA,N,North Texas,N,Undrafted,10,155,830,1,5.4,83.0,0.1
+980,Jela Duncan,FBS,ACC,Y,Duke,N,Undrafted,13,113,562,3,5.0,43.2,0.2
+981,Jer Garman,FCS,Big Sky,N,North Dakota,N,Undrafted,12,171,857,7,5.0,71.4,0.6
+982,Jereke Armstrong,FCS,Pioneer,N,San Diego,N,Undrafted,23,225,1106,12,4.9,48.1,0.5
+983,Jeremiah Wilson,FCS,MVFC,N,Missouri St.,N,Undrafted,6,57,278,4,4.9,46.3,0.7
+984,Jeremy Calhoun,FCS,Big Sky,N,Montana,N,Undrafted,21,235,1239,16,5.3,59.0,0.8
+985,Jeremy Cox,FBS,CUSA,N,Old Dominion,N,Undrafted,21,276,1353,17,4.9,64.4,0.8
+986,Jeremy Hill,FBS,SEC,Y,LSU,Y,2.0,12,203,1401,16,6.9,116.8,1.3
+987,Jeremy Langford,FBS,Big Ten,Y,Michigan St.,Y,9.0,27,568,2944,40,5.2,109.0,1.5
+988,Jeremy Larkin,FBS,Big Ten,Y,Northwestern,N,Undrafted,13,84,503,5,6.0,38.7,0.4
+989,Jeremy McNichols,FBS,Mountain West,N,Boise St.,Y,17.0,25,554,3046,43,5.5,121.8,1.7
+990,Jeremy Smith,FBS,Big 12,Y,Oklahoma St.,N,Undrafted,13,122,485,9,4.0,37.3,0.7
+991,Jermaine Brown Jr.,FBS,AAC,N,UAB,N,Undrafted,38,447,2382,27,5.3,62.7,0.7
+992,Jermar Jefferson,FBS,Pac-12,Y,Oregon St.,Y,19.0,27,514,2923,27,5.7,108.3,1.0
+993,Jermiah Dobbins,FCS,WAC,N,Abilene Christian,N,Undrafted,17,187,953,12,5.1,56.1,0.7
+994,Jerodd Sims,FCS,SWAC,N,Southern U.,N,Undrafted,15,115,645,7,5.6,43.0,0.5
+995,Jerome Ford,FBS,AAC,N,Cincinnati,Y,14.0,23,287,1802,27,6.3,78.3,1.2
+996,Jerome Smith,FBS,ACC,Y,Syracuse,N,Undrafted,13,200,914,12,4.6,70.3,0.9
+997,Jerrel Brown,FBS,Sun Belt,N,Idaho,N,Undrafted,11,117,569,4,4.9,51.7,0.4
+998,Jerrell Wimbley,FCS,ASUN,N,SFA,N,Undrafted,20,247,1311,11,5.3,65.6,0.6
+999,Jerrion Ealy,FBS,SEC,Y,Ole Miss,N,Undrafted,33,384,2235,20,5.8,67.7,0.6
+1000,Jerron Seymour,FBS,SEC,Y,Vanderbilt,N,Undrafted,12,164,716,14,4.4,59.7,1.2
+1001,Jerry Howard,FCS,CAA,N,Towson,N,Undrafted,24,294,1459,8,5.0,60.8,0.3
+1002,Jesse Valenzuela,FCS,Southland,N,Houston Christian,N,Undrafted,8,101,542,5,5.4,67.8,0.6
+1003,Jessie Britt,FCS,Southland,N,Southeastern La.,N,Undrafted,11,92,563,6,6.1,51.2,0.5
+1004,Jetarii Donald,FCS,Pioneer,N,Mercer,N,Undrafted,12,149,874,7,5.9,72.8,0.6
+1005,Jevon Jackson,FCS,ASUN,N,Austin Peay,N,Undrafted,23,347,1945,14,5.6,84.6,0.6
+1006,Jevyon Ducker,FBS,MAC,N,NIU,N,Undrafted,12,218,1184,3,5.4,98.7,0.2
+1007,Jhurell Pressley,FBS,Mountain West,N,New Mexico,N,Undrafted,25,261,1990,23,7.6,79.6,0.9
+1008,Jimmie Robinson III,FCS,SWAC,N,Bethune-Cookman,N,Undrafted,11,153,556,2,3.6,50.5,0.2
+1009,Jimmy Lera,FCS,OVC,N,Eastern Ill.,N,Undrafted,12,64,369,4,5.8,30.8,0.3
+1010,Jimmy Owens,FCS,CAA,N,New Hampshire,N,Undrafted,12,102,638,8,6.3,53.2,0.7
+1011,Jo'El Kimpela,FCS,Patriot,N,Georgetown,N,Undrafted,21,291,1481,5,5.1,70.5,0.2
+1012,Jo'quavious Marks,FBS,SEC,Y,Mississippi St.,N,Undrafted,21,234,1155,13,4.9,55.0,0.6
+1013,Jo-El Shaw,FBS,MAC,N,Kent St.,N,Undrafted,10,138,657,7,4.8,65.7,0.7
+1014,Jobi Malary,FCS,Big Sky,N,Portland St.,N,Undrafted,10,103,676,12,6.6,67.6,1.2
+1015,Jocobi Owens,FBS,Mountain West,N,Air Force,N,Undrafted,37,551,3005,17,5.5,81.2,0.5
+1016,Jody Webb,FCS,MVFC,N,Youngstown St.,N,Undrafted,47,502,3259,30,6.5,69.3,0.6
+1017,Joe Alessi,FCS,MVFC,N,Youngstown St.,N,Undrafted,12,136,803,5,5.9,66.9,0.4
+1018,Joe Bergeron,FBS,Big 12,Y,Texas,N,Undrafted,13,73,362,4,5.0,27.8,0.3
+1019,Joe Ferguson,FCS,Pioneer,N,San Diego,N,Undrafted,11,124,905,6,7.3,82.3,0.5
+1020,Joe Fitzpatrick,FCS,CAA,N,Maine,N,Undrafted,25,238,1007,11,4.2,40.3,0.4
+1021,Joe Hill,FBS,Mountain West,N,Utah St.,N,Undrafted,13,118,507,4,4.3,39.0,0.3
+1022,Joe Logan,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,39,534,2673,30,5.0,68.5,0.8
+1023,Joe Mixon,FBS,Big 12,Y,Oklahoma,Y,4.0,25,300,2027,17,6.8,81.1,0.7
+1024,Joe Protheroe,FCS,Big Sky,N,Cal Poly,N,Undrafted,31,784,3923,32,5.0,126.5,1.0
+1025,Joe Williams,FBS,Pac-12,Y,Utah,Y,11.0,9,210,1407,10,6.7,156.3,1.1
+1026,Joe Yearby,FBS,ACC,Y,Miami (FL),N,Undrafted,38,393,2119,14,5.4,55.8,0.4
+1027,Joel Bouagnon,FBS,MAC,N,NIU,N,Undrafted,40,578,2825,31,4.9,70.6,0.8
+1028,Joey DeFloria,FCS,Patriot,N,Bucknell,N,Undrafted,18,374,1536,12,4.1,85.3,0.7
+1029,Joey DeMartino,FBS,Mountain West,N,Utah St.,N,Undrafted,14,221,1221,13,5.5,87.2,0.9
+1030,Joey Giorgi,FCS,Ivy League,N,Columbia,N,Undrafted,19,259,1252,8,4.8,65.9,0.4
+1031,Joey Iosefa,FBS,Mountain West,N,Hawaii,N,Undrafted,5,126,590,5,4.7,118.0,1.0
+1032,Joey Rhattigan,FCS,Ivy League,N,Princeton,N,Undrafted,19,223,1115,11,5.0,58.7,0.6
+1033,Joey Suchy,FCS,Pioneer,N,Butler,N,Undrafted,11,109,441,4,4.0,40.1,0.4
+1034,John Carrington III,FCS,Southland,N,Nicholls,N,Undrafted,7,44,271,3,6.2,38.7,0.4
+1035,John Crockett,FCS,MVFC,N,North Dakota St.,N,Undrafted,31,558,3271,32,5.9,105.5,1.0
+1036,John Emery Jr.,FBS,SEC,Y,LSU,N,Undrafted,9,75,378,3,5.0,42.0,0.3
+1037,John Hubert,FBS,Big 12,Y,Kansas St.,N,Undrafted,13,198,1048,10,5.3,80.6,0.8
+1038,John Kelly,FBS,SEC,Y,Tennessee,Y,15.0,23,287,1408,14,4.9,61.2,0.6
+1039,John Lee Eldridge III,FBS,Mountain West,N,Air Force,N,Undrafted,26,183,1365,10,7.5,52.5,0.4
+1040,John Lovett,FBS,Big 12,Y,Baylor,N,Undrafted,26,212,1228,11,5.8,47.2,0.4
+1041,John Nguyen,FCS,Big Sky,N,Montana,N,Undrafted,24,333,1534,4,4.6,63.9,0.2
+1042,John Santiago,FCS,FCS Independent,N,North Dakota,N,Undrafted,43,622,3717,29,6.0,86.4,0.7
+1043,John Spooney,FCS,Ivy League,N,Brown,N,Undrafted,9,150,1170,10,7.8,130.0,1.1
+1044,John Volker,FCS,Ivy League,N,Princeton,N,Undrafted,8,93,447,7,4.8,55.9,0.9
+1045,John Wilkins,FCS,Patriot,N,Colgate,N,Undrafted,25,222,877,12,4.0,35.1,0.5
+1046,Johnathan Gray,FBS,Big 12,Y,Texas,N,Undrafted,22,306,1417,11,4.6,64.4,0.5
+1047,Johnathan Hawkins,FCS,Big South,N,Campbell,N,Undrafted,11,125,547,6,4.4,49.7,0.5
+1048,Johnnie Hicks,FCS,Pioneer,N,Jacksonville,N,Undrafted,11,46,288,3,6.3,26.2,0.3
+1049,Johnny Ford,FBS,CUSA,N,Fla. Atlantic,N,Undrafted,22,246,1618,13,6.6,73.5,0.6
+1050,Johnny Jefferson,FBS,Big 12,Y,Baylor,N,Undrafted,22,236,1524,14,6.5,69.3,0.6
+1051,Johnny Pena,FCS,Ivy League,N,Brown,N,Undrafted,10,132,500,4,3.8,50.0,0.4
+1052,Johnny Richardson,FBS,Big 12,Y,UCF,N,Undrafted,26,191,1306,4,6.8,50.2,0.2
+1053,Johnston White,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,26,194,1128,20,5.8,43.4,0.8
+1054,Johnta' Hebert,FCS,SWAC,N,Prairie View,N,Undrafted,32,483,2916,24,6.0,91.1,0.8
+1055,Jojo Kemp,FBS,SEC,Y,Kentucky,N,Undrafted,24,198,1037,9,5.2,43.2,0.4
+1056,Jon Hilliman,FBS,ACC,Y,Boston College,N,Undrafted,26,377,1498,18,4.0,57.6,0.7
+1057,Jonah Coleman,FBS,Pac-12,Y,Arizona,N,Undrafted,13,128,871,5,6.8,67.0,0.4
+1058,Jonah Hodges,FCS,Pioneer,N,San Diego,N,Undrafted,24,457,2668,24,5.8,111.2,1.0
+1059,Jonathan Abrams,FCS,Patriot,N,Holy Cross,N,Undrafted,3,30,147,0,4.9,49.0,0.0
+1060,Jonathan DeBique,FCS,NEC,N,LIU,N,Undrafted,13,178,927,6,5.2,71.3,0.5
+1061,Jonathan Hilliman,FBS,ACC,Y,Boston College,N,Undrafted,12,184,542,6,2.9,45.2,0.5
+1062,Jonathan Lee,FBS,Mountain West,N,Air Force,N,Undrafted,10,66,429,3,6.5,42.9,0.3
+1063,Jonathan Taylor,FBS,Big Ten,Y,Wisconsin,Y,3.0,41,926,6174,50,6.7,150.6,1.2
+1064,Jonathan Wallace,FBS,CUSA,N,Fla. Atlantic,N,Undrafted,9,119,553,3,4.6,61.4,0.3
+1065,Jonathan Ward,FBS,MAC,N,Central Mich.,N,Undrafted,25,362,2125,25,5.9,85.0,1.0
+1066,Jonathan Williams,FBS,SEC,Y,Arkansas,Y,12.0,25,361,2090,16,5.8,83.6,0.6
+1067,Jonathon Brooks,FBS,Big 12,Y,Texas,Y,1.0,11,187,1139,10,6.1,103.5,0.9
+1068,Jonny Martin,FCS,SoCon,N,Wofford,N,Undrafted,8,82,399,7,4.9,49.9,0.9
+1069,Jonzell Norrils,FBS,MAC,N,Akron,N,Undrafted,10,118,573,3,4.9,57.3,0.3
+1070,Jordan Bentley,FCS,SWAC,N,Alabama A&M,N,Undrafted,42,609,3204,39,5.3,76.3,0.9
+1071,Jordan Brown,FCS,OVC,N,Tennessee Tech,N,Undrafted,7,37,150,1,4.1,21.4,0.1
+1072,Jordan Canada,FCS,Big Sky,N,Montana,N,Undrafted,27,427,2269,27,5.3,84.0,1.0
+1073,Jordan Canzeri,FBS,Big Ten,Y,Iowa,N,Undrafted,35,359,1959,14,5.5,56.0,0.4
+1074,Jordan Chunn,FBS,Sun Belt,N,Troy,N,Undrafted,47,672,3081,46,4.6,65.6,1.0
+1075,Jordan Cronkrite,FBS,AAC,N,South Fla.,N,Undrafted,22,320,1807,13,5.6,82.1,0.6
+1076,Jordan Ellis,FBS,ACC,Y,Virginia,N,Undrafted,26,430,1862,16,4.3,71.6,0.6
+1077,Jordan Fredericks,FBS,ACC,Y,Syracuse,N,Undrafted,12,107,607,4,5.7,50.6,0.3
+1078,Jordan Fuller,FCS,Patriot,N,Holy Cross,N,Undrafted,22,267,1582,31,5.9,71.9,1.4
+1079,Jordan Gant,FCS,OVC,N,Tennessee St.,N,Undrafted,11,144,553,10,3.8,50.3,0.9
+1080,Jordan Gowins,FCS,CAA,N,Stony Brook,N,Undrafted,34,396,1921,16,4.9,56.5,0.5
+1081,Jordan Hall,FBS,Big Ten,Y,Ohio St.,N,Undrafted,13,81,536,8,6.6,41.2,0.6
+1082,Jordan Houston,FBS,ACC,Y,NC State,N,Undrafted,24,237,1070,2,4.5,44.6,0.1
+1083,Jordan Howard,FBS,Big Ten,Y,Indiana,Y,10.0,32,647,3681,24,5.7,115.0,0.8
+1084,Jordan Huff,FBS,MAC,N,NIU,N,Undrafted,35,324,2096,17,6.5,59.9,0.5
+1085,Jordan Jackson,FCS,NEC,N,Saint Francis,N,Undrafted,10,107,536,4,5.0,53.6,0.4
+1086,Jordan James,FBS,Pac-12,Y,Oregon,N,Undrafted,14,107,759,11,7.1,54.2,0.8
+1087,Jordan Johnson,FCS,SWAC,N,Jackson St.,N,Undrafted,55,708,3458,31,4.9,62.9,0.6
+1088,Jordan Mason,FBS,ACC,Y,Georgia Tech,N,Undrafted,31,362,1910,16,5.3,61.6,0.5
+1089,Jordan Meachum,FCS,NEC,N,Sacred Heart,N,Undrafted,21,311,1801,14,5.8,85.8,0.7
+1090,Jordan Mims,FBS,Mountain West,N,Fresno St.,N,Undrafted,41,539,2709,30,5.0,66.1,0.7
+1091,Jordan Nubin,FBS,Big Ten,Y,Minnesota,N,Undrafted,13,127,559,3,4.4,43.0,0.2
+1092,Jordan Parker,FBS,CUSA,N,Middle Tenn.,N,Undrafted,23,274,1291,8,4.7,56.1,0.3
+1093,Jordan Reisner,FCS,Ivy League,N,Brown,N,Undrafted,9,56,296,4,5.3,32.9,0.4
+1094,Jordan Roberts,FCS,MVFC,N,South Dakota,N,Undrafted,12,126,544,3,4.3,45.3,0.2
+1095,Jordan Robinson,FCS,Big Sky,N,Sacramento St.,N,Undrafted,34,494,2666,22,5.4,78.4,0.6
+1096,Jordan Scarlett,FBS,SEC,Y,Florida,Y,14.0,26,310,1665,11,5.4,64.0,0.4
+1097,Jordan Smith,FCS,OVC,N,Eastern Ill.,N,Undrafted,6,55,278,2,5.1,46.3,0.3
+1098,Jordan Waters,FBS,ACC,Y,Duke,N,Undrafted,26,276,1385,20,5.0,53.3,0.8
+1099,Jordan Wilkins,FBS,SEC,Y,Ole Miss,Y,14.0,12,155,1011,9,6.5,84.2,0.8
+1100,Jordan Younge-Humphrey,FCS,Pioneer,N,Stetson,N,Undrafted,4,54,359,0,6.6,89.8,0.0
+1101,Jordin Lennon,FCS,MEAC,N,Norfolk St.,N,Undrafted,10,85,425,3,5.0,42.5,0.3
+1102,Jordon Brown,FBS,ACC,Y,North Carolina,N,Undrafted,12,138,613,4,4.4,51.1,0.3
+1103,Jordon James,FBS,Pac-12,Y,UCLA,N,Undrafted,9,101,534,5,5.3,59.3,0.6
+1104,Joseph Ajeigbe,FCS,Big Sky,N,Sacramento St.,N,Undrafted,11,110,452,5,4.1,41.1,0.5
+1105,Joseph Binda Jr.,FCS,Pioneer,N,San Diego,N,Undrafted,20,202,1132,16,5.6,56.6,0.8
+1106,Josh Adams,FBS,FBS Independent,N,Notre Dame,N,Undrafted,38,481,3198,20,6.6,84.2,0.5
+1107,Josh Booker,FCS,Big Sky,N,Weber St.,N,Undrafted,12,115,438,4,3.8,36.5,0.3
+1108,Josh Cleveland,FBS,MAC,N,Bowling Green,N,Undrafted,23,248,1442,6,5.8,62.7,0.3
+1109,Josh Davis,FCS,Big Sky,N,Weber St.,N,Undrafted,42,618,3520,25,5.7,83.8,0.6
+1110,Josh Ferguson,FBS,Big Ten,Y,Illinois,N,Undrafted,34,416,2222,18,5.3,65.4,0.5
+1111,Josh Harris,FBS,ACC,Y,Wake Forest,N,Undrafted,12,125,470,4,3.8,39.2,0.3
+1112,Josh Hicks,FBS,Big Ten,Y,Rutgers,N,Undrafted,12,130,674,4,5.2,56.2,0.3
+1113,Josh Hokit,FBS,Mountain West,N,Fresno St.,N,Undrafted,14,128,583,7,4.6,41.6,0.5
+1114,Josh Jacobs,FBS,SEC,Y,Alabama,Y,1.0,30,205,1207,15,5.9,40.2,0.5
+1115,Josh Johnson,FBS,Sun Belt,N,ULM,N,Undrafted,12,201,1298,11,6.5,108.2,0.9
+1116,Josh Mack,FCS,CAA,N,Maine,N,Undrafted,10,243,1335,9,5.5,133.5,0.9
+1117,Josh McCray,FBS,Big Ten,Y,Illinois,N,Undrafted,11,112,549,2,4.9,49.9,0.2
+1118,Josh McGowen,FCS,Southland,N,SFA,N,Undrafted,12,110,450,6,4.1,37.5,0.5
+1119,Josh Quezada,FBS,Mountain West,N,Fresno St.,N,Undrafted,26,289,1354,11,4.7,52.1,0.4
+1120,Josh Robinson,FBS,SEC,Y,Mississippi St.,Y,16.0,26,268,1662,14,6.2,63.9,0.5
+1121,Josh Rounds,FBS,AAC,N,Tulane,N,Undrafted,12,125,758,7,6.1,63.2,0.6
+1122,Josh Samuel,FCS,ASUN,N,Jacksonville St.,N,Undrafted,24,267,1487,14,5.6,62.0,0.6
+1123,Josh Snead,FBS,ACC,Y,Duke,N,Undrafted,14,107,651,2,6.1,46.5,0.1
+1124,Josh Williams,FBS,SEC,Y,LSU,N,Undrafted,11,97,532,6,5.5,48.4,0.5
+1125,Joshon Barbie,FCS,Southland,N,McNeese,N,Undrafted,5,65,421,3,6.5,84.2,0.6
+1126,Joshua Carter,FCS,ASUN,N,Eastern Ky.,N,Undrafted,11,120,714,4,6.0,64.9,0.4
+1127,Joshua Chase,FCS,MEAC,N,Morgan St.,N,Undrafted,18,256,1046,7,4.1,58.1,0.4
+1128,Joshua Kelley,FBS,Pac-12,Y,UCLA,Y,10.0,43,647,3442,31,5.3,80.0,0.7
+1129,Joshua Mack,FBS,FBS Independent,N,Liberty,N,Undrafted,33,412,2283,17,5.5,69.2,0.5
+1130,Joshua Pitsenberger,FCS,Ivy League,N,Yale,N,Undrafted,18,237,1115,15,4.7,61.9,0.8
+1131,Joshua Samuel,FBS,CUSA,N,Western Ky.,N,Undrafted,12,120,641,1,5.3,53.4,0.1
+1132,Joshua Stakely,FCS,Patriot,N,Georgetown,N,Undrafted,21,248,1118,11,4.5,53.2,0.5
+1133,Journey Brown,FBS,Big Ten,Y,Penn St.,N,Undrafted,13,129,890,12,6.9,68.5,0.9
+1134,Jovan Smith,FCS,Pioneer,N,Morehead St.,N,Undrafted,10,88,521,7,5.9,52.1,0.7
+1135,Jovantae Barnes,FBS,Big 12,Y,Oklahoma,N,Undrafted,11,116,519,5,4.5,47.2,0.5
+1136,Jovon Robinson,FBS,SEC,Y,Auburn,N,Undrafted,8,117,639,3,5.5,79.9,0.4
+1137,Jowan Davis,FBS,CUSA,N,Rice,N,Undrafted,13,245,956,6,3.9,73.5,0.5
+1138,Juanne Blount,FCS,Big South,N,Gardner-Webb,N,Undrafted,12,257,1040,9,4.0,86.7,0.8
+1139,Julian Hayes,FCS,FCS Independent,N,Monmouth,N,Undrafted,12,243,1107,7,4.6,92.2,0.6
+1140,Julian Laing,FCS,CAA,N,Delaware,N,Undrafted,10,63,363,3,5.8,36.3,0.3
+1141,Julien Gums,FCS,Southland,N,Nicholls,N,Undrafted,40,579,3116,34,5.4,77.9,0.8
+1142,Julius Chestnut,FCS,NEC,N,Sacred Heart,N,Undrafted,34,624,3605,30,5.8,106.0,0.9
+1143,Julius Davis,FCS,Big Sky,N,Montana St.,N,Undrafted,11,104,718,6,6.9,65.3,0.5
+1144,Julius Loughridge,FCS,Patriot,N,Fordham,N,Undrafted,23,338,2078,18,6.1,90.3,0.8
+1145,Julius Maracalin,FCS,Southland,N,Southeastern La.,N,Undrafted,20,249,1337,11,5.4,66.8,0.6
+1146,Junior Bergen,FCS,Big Sky,N,Montana,N,Undrafted,12,118,498,4,4.2,41.5,0.3
+1147,Justice Antrum,FCS,CAA,N,Rhode Island,N,Undrafted,9,127,590,6,4.6,65.6,0.7
+1148,Justice Ellison,FBS,ACC,Y,Wake Forest,N,Undrafted,35,397,1788,14,4.5,51.1,0.4
+1149,Justice Hill,FBS,Big 12,Y,Oklahoma St.,Y,9.0,36,632,3539,30,5.6,98.3,0.8
+1150,Justice Jackson,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,20,159,875,7,5.5,43.8,0.4
+1151,Justin Covington,FCS,CAA,N,Villanova,N,Undrafted,21,260,1774,15,6.8,84.5,0.7
+1152,Justin Crawford,FBS,Big 12,Y,West Virginia,N,Undrafted,25,353,2245,11,6.4,89.8,0.4
+1153,Justin Davis,FBS,Pac-12,Y,Southern California,N,Undrafted,43,461,2465,19,5.3,57.3,0.4
+1154,Justin Dinka,FCS,MVFC,N,Indiana St.,N,Undrafted,20,276,1411,10,5.1,70.6,0.5
+1155,Justin Goodwin,FBS,AAC,N,Rutgers,N,Undrafted,11,111,521,5,4.7,47.4,0.5
+1156,Justin Henderson,FBS,CUSA,N,Louisiana Tech,N,Undrafted,13,188,1062,15,5.6,81.7,1.2
+1157,Justin Jackson,FBS,Big Ten,Y,Northwestern,Y,19.0,51,1142,5440,41,4.8,106.7,0.8
+1158,Justin Kelly,FCS,SWAC,N,Grambling,N,Undrafted,35,452,2226,14,4.9,63.6,0.4
+1159,Justin Pratt,FCS,Southland,N,McNeese,N,Undrafted,32,371,1824,12,4.9,57.0,0.4
+1160,Justin Rankin,FBS,MAC,N,Kent St.,N,Undrafted,11,117,574,4,4.9,52.2,0.4
+1161,Justin Roberson,FCS,OVC,N,Austin Peay,N,Undrafted,12,144,484,1,3.4,40.3,0.1
+1162,Justin Semmes,FCS,CAA,N,Rhode Island,N,Undrafted,5,59,286,3,4.8,57.2,0.6
+1163,Justin Stockton,FBS,Big 12,Y,Texas Tech,N,Undrafted,11,132,797,4,6.0,72.5,0.4
+1164,Justin Strong,FCS,MVFC,N,Southern Ill.,N,Undrafted,23,164,892,4,5.4,38.8,0.2
+1165,Justin Taylor,FCS,MEAC,N,South Carolina St.,N,Undrafted,12,206,706,6,3.4,58.8,0.5
+1166,Justin Williams,FCS,Big Sky,N,UC Davis,N,Undrafted,11,131,607,8,4.6,55.2,0.7
+1167,Juwan Thompson,FBS,ACC,Y,Duke,N,Undrafted,14,64,348,1,5.4,24.9,0.1
+1168,Juwan Washington,FBS,Mountain West,N,San Diego St.,N,Undrafted,31,476,2258,19,4.7,72.8,0.6
+1169,Juwaun Price,FBS,FBS Independent,N,New Mexico St.,N,Undrafted,12,135,692,10,5.1,57.7,0.8
+1170,Juwon Farri,FCS,Big South,N,Monmouth,N,Undrafted,23,395,2246,26,5.7,97.7,1.1
+1171,Jymere Jordan-Toney,FCS,NEC,N,Saint Francis,N,Undrafted,19,278,1077,6,3.9,56.7,0.3
+1172,Jyran Mitchell,FCS,Pioneer,N,Butler,N,Undrafted,11,199,1268,12,6.4,115.3,1.1
+1173,Jyruss Edwards,FBS,Sun Belt,N,ULM,N,Undrafted,12,99,447,2,4.5,37.2,0.2
+1174,K'Rondis Larry,FCS,SoCon,N,Samford,N,Undrafted,23,165,910,6,5.5,39.6,0.3
+1175,Ka'Deem Carey,FBS,Pac-12,Y,Arizona,Y,9.0,12,349,1885,19,5.4,157.1,1.6
+1176,Kadarius Calloway,FBS,Sun Belt,N,Old Dominion,N,Undrafted,9,88,623,5,7.1,69.2,0.6
+1177,Kade Harrington,FCS,Southland,N,Lamar University,N,Undrafted,27,544,3468,36,6.4,128.4,1.3
+1178,Kadin Remsberg,FBS,Mountain West,N,Air Force,N,Undrafted,25,281,1633,11,5.8,65.3,0.4
+1179,Kaelon Black,FCS,CAA,N,James Madison,N,Undrafted,2,25,170,1,6.8,85.0,0.5
+1180,Kai Henry,FCS,MVFC,N,South Dakota,N,Undrafted,38,466,2127,24,4.6,56.0,0.6
+1181,Kairee Robinson,FBS,Mountain West,N,San Jose St.,N,Undrafted,24,327,1946,28,6.0,81.1,1.2
+1182,Kaleb Johnson,FBS,Big Ten,Y,Iowa,N,Undrafted,23,268,1242,9,4.6,54.0,0.4
+1183,Kalen Ballage,FBS,Pac-12,Y,Arizona St.,Y,12.0,35,408,1858,24,4.6,53.1,0.7
+1184,Kalif Phillips,FBS,CUSA,N,Charlotte,N,Undrafted,22,318,1623,16,5.1,73.8,0.7
+1185,Kamryn Pettway,FBS,SEC,Y,Auburn,N,Undrafted,10,209,1224,7,5.9,122.4,0.7
+1186,Kani Benoit,FBS,Pac-12,Y,Oregon,N,Undrafted,12,88,584,10,6.6,48.7,0.8
+1187,Kani Kane,FCS,CAA,N,Delaware,N,Undrafted,23,289,1189,17,4.1,51.7,0.7
+1188,Kapri Bibbs,FBS,Mountain West,N,Colorado St.,N,Undrafted,14,281,1741,31,6.2,124.4,2.2
+1189,Karan Higdon,FBS,Big Ten,Y,Michigan,N,Undrafted,24,388,2172,21,5.6,90.5,0.9
+1190,Kareem Hunt,FBS,MAC,N,Toledo,Y,6.0,44,782,4945,44,6.3,112.4,1.0
+1191,Kareem Williams,FCS,CAA,N,Delaware,N,Undrafted,21,251,1264,4,5.0,60.2,0.2
+1192,Karekin Brooks,FCS,Ivy League,N,Penn,N,Undrafted,29,495,2741,25,5.5,94.5,0.9
+1193,Karl Bostick,FCS,SoCon,N,Elon,N,Undrafted,11,110,421,4,3.8,38.3,0.4
+1194,Karl Ligon,FCS,SWAC,N,Southern U.,N,Undrafted,12,126,568,5,4.5,47.3,0.4
+1195,Karl Mofor,FCS,CAA,N,UAlbany,N,Undrafted,51,874,3864,35,4.4,75.8,0.7
+1196,Karlos Williams,FBS,ACC,Y,Florida St.,Y,14.0,26,241,1419,22,5.9,54.6,0.8
+1197,Kasey Carrier,FBS,Mountain West,N,New Mexico,N,Undrafted,10,189,1122,9,5.9,112.2,0.9
+1198,Kashon Baker,FCS,Big South,N,N.C. A&T,N,Undrafted,20,158,835,9,5.3,41.8,0.4
+1199,Kavon Samuels,FCS,Pioneer,N,Butler,N,Undrafted,5,97,389,1,4.0,77.8,0.2
+1200,Kavosiey Smoke,FBS,SEC,Y,Kentucky,N,Undrafted,13,101,616,6,6.1,47.4,0.5
+1201,Kay'Ron Adams,FBS,FBS Independent,N,Massachusetts,N,Undrafted,12,236,1157,12,4.9,96.4,1.0
+1202,Kaytron Allen,FBS,Big Ten,Y,Penn St.,N,Undrafted,26,339,1769,16,5.2,68.0,0.6
+1203,Kayvon Britten,FCS,SWAC,N,Ark.-Pine Bluff,N,Undrafted,11,200,1046,16,5.2,95.1,1.5
+1204,Ke'Aun Kinner,FBS,Big 12,Y,Kansas,N,Undrafted,24,274,1304,8,4.8,54.3,0.3
+1205,Ke'Mon Freeman,FBS,AAC,N,SMU,N,Undrafted,38,407,1711,20,4.2,45.0,0.5
+1206,Ke'Shawn Vaughn,FBS,SEC,Y,Vanderbilt,Y,7.0,35,512,2995,27,5.8,85.6,0.8
+1207,Kealand Dirks,FCS,SoCon,N,Furman,N,Undrafted,11,152,720,9,4.7,65.5,0.8
+1208,Keaontay Ingram,FBS,Pac-12,Y,Southern California,Y,19.0,36,442,2472,15,5.6,68.7,0.4
+1209,Keaton Mitchell,FBS,AAC,N,East Carolina,N,Undrafted,33,463,3027,25,6.5,91.7,0.8
+1210,Keefe White,FCS,SoCon,N,The Citadel,N,Undrafted,4,24,151,0,6.3,37.8,0.0
+1211,Keenan Reynolds,FBS,AAC,N,Navy,Y,14.0,37,815,3910,78,4.8,105.7,2.1
+1212,Keenan Simpson,FCS,Pioneer,N,Jacksonville,N,Undrafted,10,98,455,5,4.6,45.5,0.5
+1213,Keilon Elder,FCS,SWAC,N,Grambling,N,Undrafted,11,71,472,6,6.6,42.9,0.5
+1214,Keion Davis,FBS,CUSA,N,Marshall,N,Undrafted,13,179,812,6,4.5,62.5,0.5
+1215,Keith Ford,FBS,SEC,Y,Texas A&M,N,Undrafted,13,126,669,6,5.3,51.5,0.5
+1216,Keith Goss,FCS,Pioneer,N,Campbell,N,Undrafted,12,94,463,5,4.9,38.6,0.4
+1217,Keith Lawson,FCS,Southland,N,SFA,N,Undrafted,11,82,416,5,5.1,37.8,0.5
+1218,Keith Sherman,FCS,Patriot,N,Lehigh,N,Undrafted,11,176,1064,8,6.0,96.7,0.7
+1219,Keith Whitely,FBS,Mountain West,N,UNLV,N,Undrafted,25,270,1215,5,4.5,48.6,0.2
+1220,Kejon Owens,FBS,CUSA,N,FIU,N,Undrafted,10,80,453,5,5.7,45.3,0.5
+1221,Kell Walker,FBS,FBS Independent,N,Army West Point,N,Undrafted,12,86,629,6,7.3,52.4,0.5
+1222,Kelley Joiner Jr.,FBS,AAC,N,South Fla.,N,Undrafted,9,78,368,1,4.7,40.9,0.1
+1223,Kelsey Young,FBS,Mountain West,N,Boise St.,N,Undrafted,13,101,511,8,5.1,39.3,0.6
+1224,Kelton Moore,FBS,Mountain West,N,Nevada,N,Undrafted,12,164,855,4,5.2,71.2,0.3
+1225,Kelvin Bennett,FCS,Southland,N,McNeese,N,Undrafted,12,108,774,4,7.2,64.5,0.3
+1226,Kelvin Dean,FCS,SWAC,N,Florida A&M,N,Undrafted,13,73,376,3,5.2,28.9,0.2
+1227,Kelvin Taylor,FBS,SEC,Y,Florida,Y,15.0,36,486,2108,23,4.3,58.6,0.6
+1228,Kelvin York,FBS,Pac-12,Y,Utah,N,Undrafted,9,118,463,6,3.9,51.4,0.7
+1229,Ken Malcome,FCS,MVFC,N,Southern Ill.,N,Undrafted,12,99,277,5,2.8,23.1,0.4
+1230,Kendall Brock,FBS,Mountain West,N,Nevada,N,Undrafted,11,185,812,10,4.4,73.8,0.9
+1231,Kendall Bussey,FCS,Southland,N,Nicholls,N,Undrafted,13,127,563,4,4.4,43.3,0.3
+1232,Kendall Houston,FBS,Sun Belt,N,South Alabama,N,Undrafted,13,139,705,2,5.1,54.2,0.2
+1233,Kendall Milton,FBS,SEC,Y,Georgia,N,Undrafted,26,206,1382,22,6.7,53.2,0.8
+1234,Kendall Morris,FCS,OVC,N,Austin Peay,N,Undrafted,11,143,695,5,4.9,63.2,0.5
+1235,Kendall Pearcey,FCS,Patriot,N,Fordham,N,Undrafted,14,87,592,6,6.8,42.3,0.4
+1236,Kendell Anderson,FCS,CAA,N,William & Mary,N,Undrafted,35,523,2768,29,5.3,79.1,0.8
+1237,Kendre Miller,FBS,Big 12,Y,TCU,Y,4.0,33,361,2410,26,6.7,73.0,0.8
+1238,Kendrell FLOWERS,FCS,MEAC,N,South Carolina St.,N,Undrafted,4,40,194,1,4.8,48.5,0.2
+1239,Kendrell Flowers,FCS,MEAC,N,South Carolina St.,N,Undrafted,12,168,857,10,5.1,71.4,0.8
+1240,Kendric Rhymes,FCS,SWAC,N,Southern U.,N,Undrafted,11,121,660,9,5.5,60.0,0.8
+1241,Kendrick Foster,FBS,Big Ten,Y,Illinois,N,Undrafted,12,126,720,7,5.7,60.0,0.6
+1242,Kendrick Hardy,FBS,CUSA,N,Southern Miss.,N,Undrafted,10,93,419,2,4.5,41.9,0.2
+1243,Kene Nwangwu,FBS,Big 12,Y,Iowa St.,Y,6.0,12,61,339,4,5.6,28.2,0.3
+1244,Kenji Christian,FCS,CAA,N,N.C. A&T,N,Undrafted,11,133,716,6,5.4,65.1,0.5
+1245,Kenn James,FCS,Pioneer,N,San Diego,N,Undrafted,11,108,697,4,6.5,63.4,0.4
+1246,Kennedy Brooks,FBS,Big 12,Y,Oklahoma,N,Undrafted,38,472,3320,31,7.0,87.4,0.8
+1247,Kennedy McKoy,FBS,Big 12,Y,West Virginia,N,Undrafted,24,270,1398,15,5.2,58.2,0.6
+1248,Kenneith Lacy,FCS,Southland,N,Northwestern St.,N,Undrafted,11,95,435,4,4.6,39.5,0.4
+1249,Kenneth Dixon,FBS,CUSA,N,Louisiana Tech,Y,6.0,35,601,3286,45,5.5,93.9,1.3
+1250,Kenneth Farrow,FBS,AAC,N,Houston,N,Undrafted,36,474,2509,32,5.3,69.7,0.9
+1251,Kenneth Gainwell,FBS,AAC,N,Memphis,Y,9.0,14,231,1459,13,6.3,104.2,0.9
+1252,Kenneth Walker III,FBS,Big Ten,Y,Michigan St.,Y,2.0,33,480,2794,35,5.8,84.7,1.1
+1253,Kenny Harper,FBS,AAC,N,Temple,N,Undrafted,12,136,613,9,4.5,51.1,0.8
+1254,Kenny McIntosh,FBS,SEC,Y,Georgia,Y,17.0,15,150,829,10,5.5,55.3,0.7
+1255,Kenny Williams,FBS,Big 12,Y,Texas Tech,N,Undrafted,13,125,497,8,4.0,38.2,0.6
+1256,Kenny Young,FBS,MAC,N,Miami (OH),N,Undrafted,24,233,1338,8,5.7,55.8,0.3
+1257,Kentel Williams,FCS,OVC,N,Austin Peay,N,Undrafted,33,382,2400,20,6.3,72.7,0.6
+1258,Kenyan Drake,FBS,SEC,Y,Alabama,Y,3.0,12,92,694,8,7.5,57.8,0.7
+1259,Keon Williams,FCS,SoCon,N,Chattanooga,N,Undrafted,21,343,1724,23,5.0,82.1,1.1
+1260,Keonte Lucas,FCS,NEC,N,Central Conn. St.,N,Undrafted,11,96,529,4,5.5,48.1,0.4
+1261,Kerrith Whyte Jr,FBS,CUSA,N,Fla. Atlantic,Y,22.0,12,134,866,8,6.5,72.2,0.7
+1262,Kerryon Johnson,FBS,SEC,Y,Auburn,Y,6.0,24,467,2286,29,4.9,95.2,1.2
+1263,Keshaudas Spence,FCS,NEC,N,Sacred Heart,N,Undrafted,25,478,2449,17,5.1,98.0,0.7
+1264,Keshawn Hill,FCS,Southland,N,Sam Houston,N,Undrafted,29,276,1686,26,6.1,58.1,0.9
+1265,Keshawn Wicks,FBS,Sun Belt,N,Old Dominion,N,Undrafted,11,120,589,4,4.9,53.5,0.4
+1266,Keshawn Williams,FCS,SWAC,N,Ark.-Pine Bluff,N,Undrafted,9,125,703,7,5.6,78.1,0.8
+1267,Kevin Brown,FCS,Southland,N,UIW,N,Undrafted,31,353,2451,20,6.9,79.1,0.6
+1268,Kevin Brown Jr.,FCS,CAA,N,Rhode Island,N,Undrafted,3,49,256,4,5.2,85.3,1.3
+1269,Kevin Daniels,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,10,185,1146,7,6.2,114.6,0.7
+1270,Kevin Dominique,FCS,SWAC,N,Grambling,N,Undrafted,9,96,530,4,5.5,58.9,0.4
+1271,Kevin Grooms,FBS,CUSA,N,Marshall,N,Undrafted,10,91,503,6,5.5,50.3,0.6
+1272,Kevin Harris,FBS,SEC,Y,South Carolina,Y,17.0,22,337,1797,19,5.3,81.7,0.9
+1273,Kevin Johnson,FCS,MEAC,N,Norfolk St.,N,Undrafted,11,86,468,8,5.4,42.5,0.7
+1274,Kevin Marks,FBS,MAC,N,Buffalo,N,Undrafted,34,519,2621,28,5.1,77.1,0.8
+1275,Kevin Mensah,FBS,AAC,N,UConn,N,Undrafted,35,577,2619,19,4.5,74.8,0.5
+1276,Kevin Monangai,FCS,CAA,N,Villanova,N,Undrafted,25,352,1791,17,5.1,71.6,0.7
+1277,Kevin Parks,FBS,ACC,Y,Virginia,N,Undrafted,24,416,1776,15,4.3,74.0,0.6
+1278,Kevin Perkins,FBS,CUSA,N,Southern Miss.,N,Undrafted,13,103,547,3,5.3,42.1,0.2
+1279,Kevin Smith,FCS,Big Sky,N,Weber St.,N,Undrafted,28,281,1232,8,4.4,44.0,0.3
+1280,Kevon King,FCS,MEAC,N,Norfolk St.,N,Undrafted,9,90,429,5,4.8,47.7,0.6
+1281,Kevon Latulas,FCS,MVFC,N,Missouri St.,N,Undrafted,11,90,625,3,6.9,56.8,0.3
+1282,Kevorian Barnes,FBS,AAC,N,UTSA,N,Undrafted,25,282,1560,12,5.5,62.4,0.5
+1283,Keylan Brown,FCS,Pioneer,N,Davidson,N,Undrafted,11,128,439,4,3.4,39.9,0.4
+1284,Keyon Brooks,FBS,SEC,Y,Vanderbilt,N,Undrafted,6,120,494,2,4.1,82.3,0.3
+1285,Keyon Mozee,FBS,MAC,N,Miami (OH),N,Undrafted,13,122,556,4,4.6,42.8,0.3
+1286,Keyon Washington,FCS,Patriot,N,Colgate,N,Undrafted,9,156,783,7,5.0,87.0,0.8
+1287,Keyshawn Harper,FCS,SWAC,N,Jackson St.,N,Undrafted,11,114,691,4,6.1,62.8,0.4
+1288,Keyvone Lee,FBS,Big Ten,Y,Penn St.,N,Undrafted,22,197,968,6,4.9,44.0,0.3
+1289,Khairi Dickson,FCS,NEC,N,Saint Francis,N,Undrafted,21,493,2711,20,5.5,129.1,1.0
+1290,Khalan Griffin,FCS,Southland,N,Lamar University,N,Undrafted,22,288,1442,11,5.0,65.5,0.5
+1291,Khalan Laborn,FBS,Sun Belt,N,Marshall,N,Undrafted,13,302,1513,16,5.0,116.4,1.2
+1292,Khalfani Muhammad,FBS,Pac-12,Y,California,Y,23.0,34,313,1858,7,5.9,54.6,0.2
+1293,Khalid Abdullah,FCS,CAA,N,James Madison,N,Undrafted,47,673,3678,41,5.5,78.3,0.9
+1294,Khalid Thomas,FCS,SWAC,N,Alabama St.,N,Undrafted,33,418,2447,19,5.9,74.2,0.6
+1295,Khalil Herbert,FBS,ACC,Y,Virginia Tech,Y,15.0,22,274,1845,12,6.7,83.9,0.5
+1296,Khalil Lewis,FCS,Big South,N,Gardner-Webb,N,Undrafted,10,182,955,14,5.2,95.5,1.4
+1297,Khory Spruill,FCS,CAA,N,Delaware,N,Undrafted,8,85,350,1,4.1,43.8,0.1
+1298,Kierre Crossley,FCS,SWAC,N,Ark.-Pine Bluff,N,Undrafted,43,490,2457,17,5.0,57.1,0.4
+1299,Kijana Amous,FCS,Southland,N,SFA,N,Undrafted,11,139,639,7,4.6,58.1,0.6
+1300,Kimani Vidal,FBS,Sun Belt,N,Troy,Y,15.0,48,781,4010,33,5.1,83.5,0.7
+1301,King Doerue,FBS,Big Ten,Y,Purdue,N,Undrafted,12,135,533,2,3.9,44.4,0.2
+1302,King Frazier,FCS,MVFC,N,North Dakota St.,N,Undrafted,44,513,2653,26,5.2,60.3,0.6
+1303,Kirvonte Benson,FBS,ACC,Y,Georgia Tech,N,Undrafted,11,204,1053,6,5.2,95.7,0.5
+1304,Klartel Claridy,FCS,NEC,N,Duquesne,N,Undrafted,11,95,489,3,5.1,44.5,0.3
+1305,Kobe Dillion,FCS,SWAC,N,Southern U.,N,Undrafted,9,87,662,4,7.6,73.6,0.4
+1306,Kobe Johnson,FCS,MVFC,N,North Dakota St.,N,Undrafted,48,381,2563,18,6.7,53.4,0.4
+1307,Kobe Lewis,FBS,MAC,N,Central Mich.,N,Undrafted,20,287,1542,18,5.4,77.1,0.9
+1308,Kobe McCrary,FBS,Big Ten,Y,Minnesota,N,Undrafted,12,94,496,8,5.3,41.3,0.7
+1309,Kobe Pace,FBS,ACC,Y,Clemson,N,Undrafted,11,104,641,6,6.2,58.3,0.5
+1310,Kobe Young,FCS,CAA,N,Towson,N,Undrafted,11,72,455,3,6.3,41.4,0.3
+1311,Kody Sutton,FCS,Southland,N,Southeastern La.,N,Undrafted,37,349,1506,15,4.3,40.7,0.4
+1312,Korey Bridy,FCS,SoCon,N,VMI,N,Undrafted,25,367,1481,16,4.0,59.2,0.6
+1313,Kori Garcia,FCS,Big Sky,N,Cal Poly,N,Undrafted,35,424,2668,18,6.3,76.2,0.5
+1314,Kris Jackson,FCS,Big Sky,N,Weber St.,N,Undrafted,11,113,495,7,4.4,45.0,0.6
+1315,Kristaan Ivory,FCS,Big Sky,N,Cal Poly,N,Undrafted,12,172,1113,6,6.5,92.8,0.5
+1316,Kurt Odom,FCS,Pioneer,N,Campbell,N,Undrafted,12,101,537,3,5.3,44.8,0.2
+1317,Kurt Taylor Jr.,FCS,OVC,N,Tennessee Tech,N,Undrafted,7,68,264,1,3.9,37.7,0.1
+1318,Kwabena Asante,FCS,FCS Independent,N,Monmouth,N,Undrafted,12,180,1080,8,6.0,90.0,0.7
+1319,Ky Thomas,FBS,Big Ten,Y,Minnesota,N,Undrafted,9,166,824,6,5.0,91.6,0.7
+1320,Kye Robichaux,FBS,ACC,Y,Boston College,N,Undrafted,19,236,1276,11,5.4,67.2,0.6
+1321,Kylan Watkins,FBS,AAC,N,Memphis,N,Undrafted,11,81,433,1,5.3,39.4,0.1
+1322,Kyle Bramble,FCS,Ivy League,N,Dartmouth,N,Undrafted,19,181,992,7,5.5,52.2,0.4
+1323,Kyle Glover,FCS,Big South,N,Kennesaw St.,N,Undrafted,17,187,933,3,5.0,54.9,0.2
+1324,Kyle Harbridge,FCS,NEC,N,Saint Francis,N,Undrafted,11,270,1619,16,6.0,147.2,1.5
+1325,Kyle Hicks,FBS,Big 12,Y,TCU,N,Undrafted,25,342,1679,16,4.9,67.2,0.6
+1326,Kyle Lewis,FCS,Big Sky,N,Cal Poly,N,Undrafted,11,61,591,6,9.7,53.7,0.5
+1327,Kyle Monangai,FBS,Big Ten,Y,Rutgers,N,Undrafted,13,242,1262,8,5.2,97.1,0.6
+1328,Kyle Paris,FCS,MVFC,N,South Dakota St.,N,Undrafted,12,130,428,6,3.3,35.7,0.5
+1329,Kyle Parsons,FCS,SoCon,N,Wofford,N,Undrafted,11,105,485,3,4.6,44.1,0.3
+1330,Kyle Porter,FBS,AAC,N,Houston,N,Undrafted,18,235,1040,7,4.4,57.8,0.4
+1331,Kyle Wilcox,FCS,Ivy League,N,Penn,N,Undrafted,10,102,493,2,4.8,49.3,0.2
+1332,Kylin Hill,FBS,SEC,Y,Mississippi St.,Y,18.0,24,359,2084,14,5.8,86.8,0.6
+1333,Kylin James,FCS,ASUN,N,Central Ark.,N,Undrafted,22,144,1075,8,7.5,48.9,0.4
+1334,Kylum Favorite,FCS,SWAC,N,Southern U.,N,Undrafted,12,43,291,3,6.8,24.2,0.2
+1335,Kyran Irvin,FCS,Southland,N,Nicholls,N,Undrafted,10,147,764,8,5.2,76.4,0.8
+1336,Kyran Jackson,FCS,Southland,N,Sam Houston,N,Undrafted,11,169,809,8,4.8,73.5,0.7
+1337,Kyren Williams,FBS,FBS Independent,N,Notre Dame,Y,15.0,24,415,2127,27,5.1,88.6,1.1
+1338,Kyron Cumby,FCS,CAA,N,Delaware,N,Undrafted,22,158,1019,7,6.4,46.3,0.3
+1339,L.A. Ramsby,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,25,306,1394,19,4.6,55.8,0.8
+1340,L.J. Scott,FCS,OVC,N,Eastern Ky.,N,Undrafted,11,150,780,8,5.2,70.9,0.7
+1341,LD Brown,FBS,Big 12,Y,Oklahoma St.,N,Undrafted,9,82,437,2,5.3,48.6,0.2
+1342,LJ Johnson Jr.,FBS,AAC,N,SMU,N,Undrafted,11,108,576,4,5.3,52.4,0.4
+1343,LJ Scott,FBS,Big Ten,Y,Michigan St.,N,Undrafted,38,531,2591,25,4.9,68.2,0.7
+1344,La'Damian Webb,FBS,Sun Belt,N,South Alabama,N,Undrafted,30,465,2443,32,5.3,81.4,1.1
+1345,La'Darius Jefferson,FBS,MAC,N,Western Mich.,N,Undrafted,18,297,1460,15,4.9,81.1,0.8
+1346,La'Mical Perine,FBS,SEC,Y,Florida,Y,11.0,37,402,2064,21,5.1,55.8,0.6
+1347,LaDarius Dickens,FCS,Southland,N,Houston Christian,N,Undrafted,11,100,497,1,5.0,45.2,0.1
+1348,LaDarius Galloway,FCS,OVC,N,UT Martin,N,Undrafted,11,136,561,5,4.1,51.0,0.5
+1349,LaDarius Owens,FCS,SWAC,N,Texas Southern,N,Undrafted,34,439,2702,22,6.2,79.5,0.6
+1350,Lache Seastrunk,FBS,Big 12,Y,Baylor,Y,14.0,11,158,1177,11,7.4,107.0,1.0
+1351,Ladarius Galloway,FCS,OVC,N,UT Martin,N,Undrafted,11,172,859,4,5.0,78.1,0.4
+1352,Ladarius Perkins,FBS,SEC,Y,Mississippi St.,N,Undrafted,12,137,542,2,4.0,45.2,0.2
+1353,Ladarius Vanlier,FCS,OVC,N,Tennessee Tech,N,Undrafted,35,276,1613,12,5.8,46.1,0.3
+1354,Ladevin Fair,FCS,OVC,N,UT Martin,N,Undrafted,10,121,585,5,4.8,58.5,0.5
+1355,Lajuan Hunt,FBS,Mountain West,N,Utah St.,N,Undrafted,27,280,1368,12,4.9,50.7,0.4
+1356,Lamagea McDowell,FCS,CAA,N,Campbell,N,Undrafted,11,127,505,6,4.0,45.9,0.5
+1357,Lamarq Caldwell,FBS,CUSA,N,FIU,N,Undrafted,12,144,504,1,3.5,42.0,0.1
+1358,Lamont Brown III,FCS,MEAC,N,Morgan St.,N,Undrafted,23,253,1163,7,4.6,50.6,0.3
+1359,Lan Larison,FCS,Big Sky,N,UC Davis,N,Undrafted,24,299,1914,21,6.4,79.8,0.9
+1360,Lance Dunn,FCS,MVFC,N,North Dakota St.,N,Undrafted,48,514,3028,33,5.9,63.1,0.7
+1361,Lane Sumner,FCS,Big Sky,N,Montana St.,N,Undrafted,5,72,433,0,6.0,86.6,0.0
+1362,Laqua Mayes,FCS,Big South,N,Presbyterian,N,Undrafted,11,71,320,3,4.5,29.1,0.3
+1363,Larry Dixon,FBS,FBS Independent,N,Army West Point,N,Undrafted,22,301,1807,15,6.0,82.1,0.7
+1364,Larry McCammon,FBS,AAC,N,Fla. Atlantic,N,Undrafted,23,342,1682,12,4.9,73.1,0.5
+1365,Larry Rose,FBS,Sun Belt,N,New Mexico St.,N,Undrafted,10,186,1102,9,5.9,110.2,0.9
+1366,Larry Rose III,FCS,Independent,N,New Mexico St.,N,Undrafted,33,586,3455,28,5.9,104.7,0.8
+1367,Larry Rountree,FBS,SEC,Y,Missouri,Y,12.0,48,746,3720,40,5.0,77.5,0.8
+1368,Latrele Palmer,FCS,CAA,N,James Madison,N,Undrafted,21,234,1125,5,4.8,53.6,0.2
+1369,Latrell Collier,FCS,MEAC,N,N.C. Central,N,Undrafted,35,410,2069,23,5.0,59.1,0.7
+1370,Lavon Chaney,FCS,Big South,N,Monmouth,N,Undrafted,32,506,2451,24,4.8,76.6,0.8
+1371,Lavon Coleman,FBS,Pac-12,Y,Washington,N,Undrafted,25,252,1417,8,5.6,56.7,0.3
+1372,Lawrance Toafili,FBS,ACC,Y,Florida St.,N,Undrafted,21,106,819,6,7.7,39.0,0.3
+1373,Lawrence Jones,FCS,Pioneer,N,Morehead St.,N,Undrafted,11,84,415,3,4.9,37.7,0.3
+1374,Lazedrick Thompson,FBS,AAC,N,Tulane,N,Undrafted,11,109,533,4,4.9,48.5,0.4
+1375,Le'Veon Moss,FBS,SEC,Y,Texas A&M,N,Undrafted,9,96,484,5,5.0,53.8,0.6
+1376,LeQuint Allen,FBS,ACC,Y,Syracuse,N,Undrafted,13,245,1064,9,4.3,81.8,0.7
+1377,Leddie Brown,FBS,Big 12,Y,West Virginia,N,Undrafted,22,422,2075,22,4.9,94.3,1.0
+1378,Lemonte Booker,FCS,MVFC,N,Indiana St.,N,Undrafted,19,288,1382,8,4.8,72.7,0.4
+1379,Lenard Tillery,FCS,SWAC,N,Southern U.,N,Undrafted,46,837,4805,45,5.7,104.5,1.0
+1380,Lennies McFerren,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,11,126,607,3,4.8,55.2,0.3
+1381,Lennox McAfee,FCS,SoCon,N,Wofford,N,Undrafted,25,219,1601,14,7.3,64.0,0.6
+1382,Leon Allen,FBS,CUSA,N,Western Ky.,N,Undrafted,24,344,1899,18,5.5,79.1,0.8
+1383,Leonard Fournette,FBS,SEC,Y,LSU,Y,1.0,32,616,3830,40,6.2,119.7,1.2
+1384,Lepi Lataimua,FCS,Big Sky,N,Cal Poly,N,Undrafted,3,39,144,0,3.7,48.0,0.0
+1385,Leshon Williams,FBS,Big Ten,Y,Iowa,N,Undrafted,14,170,821,1,4.8,58.6,0.1
+1386,Leshun Jr.,FBS,Big Ten,Y,Iowa,N,Undrafted,25,358,1704,18,4.8,68.2,0.7
+1387,Levante Bellamy,FBS,MAC,N,Western Mich.,N,Undrafted,26,471,2700,29,5.7,103.8,1.1
+1388,Levi Te'o,FCS,Big Sky,N,Southern Utah,N,Undrafted,12,71,477,4,6.7,39.8,0.3
+1389,Levi Teo,FCS,Big Sky,N,Southern Utah,N,Undrafted,13,107,326,2,3.0,25.1,0.2
+1390,Lew Nichols,FBS,MAC,N,Central Mich.,Y,16.0,28,595,2971,26,5.0,106.1,0.9
+1391,Lewis Washington,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,12,44,375,1,8.5,31.2,0.1
+1392,Lexington Joseph,FBS,CUSA,N,FIU,N,Undrafted,12,108,536,5,5.0,44.7,0.4
+1393,Lexington Thomas,FBS,Mountain West,N,UNLV,N,Undrafted,46,631,3551,40,5.6,77.2,0.9
+1394,Lincoln Pare,FBS,Sun Belt,N,Texas St.,N,Undrafted,21,244,1222,6,5.0,58.2,0.3
+1395,Logan Billings,FCS,SoCon,N,The Citadel,N,Undrafted,8,133,511,6,3.8,63.9,0.8
+1396,Logan Diggs,FBS,SEC,Y,LSU,N,Undrafted,22,284,1475,11,5.2,67.0,0.5
+1397,Logan Holbrook,FCS,Pioneer,N,Morehead St.,N,Undrafted,9,100,433,5,4.3,48.1,0.6
+1398,Logan Jones,FCS,Big Sky,N,Montana St.,N,Undrafted,14,147,915,8,6.2,65.4,0.6
+1399,Logan Wright,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,25,249,1395,12,5.6,55.8,0.5
+1400,Lopini Katoa,FBS,FBS Independent,N,BYU,N,Undrafted,11,84,444,5,5.3,40.4,0.5
+1401,Loren Easly,FCS,Southland,N,SFA,N,Undrafted,20,213,1256,11,5.9,62.8,0.6
+1402,Lorenzo Bryant Jr.,FCS,CAA,N,Rhode Island,N,Undrafted,8,116,493,4,4.2,61.6,0.5
+1403,Lorenzo Harrison,FBS,Big Ten,Y,Maryland,N,Undrafted,21,225,1255,8,5.6,59.8,0.4
+1404,Lorenzo Lingard,FBS,MAC,N,Akron,N,Undrafted,12,143,641,4,4.5,53.4,0.3
+1405,Lorenzo Long,FCS,SoCon,N,Wofford,N,Undrafted,36,635,3323,41,5.2,92.3,1.1
+1406,Lorenzo Taliaferro,FCS,Big South,N,Coastal Carolina,Y,12.0,15,276,1729,27,6.3,115.3,1.8
+1407,Lorenzo Ward,FCS,SoCon,N,The Citadel,N,Undrafted,11,179,722,7,4.0,65.6,0.6
+1408,Lovell Armstead,FCS,NEC,N,Saint Francis,N,Undrafted,12,115,507,3,4.4,42.2,0.2
+1409,Luke Hagy,FCS,Ivy League,N,Cornell,N,Undrafted,28,405,1807,9,4.5,64.5,0.3
+1410,Luke Skokna,FCS,MVFC,N,North Dakota,N,Undrafted,7,68,329,4,4.8,47.0,0.6
+1411,Lyle McCombs,FBS,AAC,N,UConn,N,Undrafted,12,159,670,5,4.2,55.8,0.4
+1412,Lyn-J Dixon,FBS,ACC,Y,Clemson,N,Undrafted,28,166,1182,11,7.1,42.2,0.4
+1413,Lyndemian Brooks,FCS,SWAC,N,Prairie View,N,Undrafted,10,92,468,5,5.1,46.8,0.5
+1414,Mack Brown,FBS,SEC,Y,Florida,N,Undrafted,12,148,543,4,3.7,45.2,0.3
+1415,Madre London,FBS,Big Ten,Y,Michigan St.,N,Undrafted,11,119,500,3,4.2,45.5,0.3
+1416,Malachi Imoh,FCS,CAA,N,William & Mary,N,Undrafted,31,294,2109,17,7.2,68.0,0.5
+1417,Malakai Rango,FCS,Big Sky,N,Idaho St.,N,Undrafted,15,187,859,6,4.6,57.3,0.4
+1418,Malcolm Agnew,FCS,MVFC,N,Southern Ill.,N,Undrafted,11,180,888,6,4.9,80.7,0.5
+1419,Malcolm Brown,FBS,Big 12,Y,Texas,N,Undrafted,26,397,1612,15,4.1,62.0,0.6
+1420,Malcolm Crockett,FCS,SWAC,N,Southern U.,N,Undrafted,11,104,479,5,4.6,43.5,0.5
+1421,Malcolm Cyrus,FCS,SWAC,N,Alabama St.,N,Undrafted,22,367,2254,15,6.1,102.5,0.7
+1422,Malcolm Davidson,FBS,CUSA,N,Fla. Atlantic,N,Undrafted,10,102,711,9,7.0,71.1,0.9
+1423,Malcolm Perry,FBS,AAC,N,Navy,Y,17.0,38,605,4286,39,7.1,112.8,1.0
+1424,Malcolm Summers,FCS,CAA,N,Elon,N,Undrafted,22,339,1859,9,5.5,84.5,0.4
+1425,Maleek Irons,FBS,MAC,N,Ohio,N,Undrafted,11,126,831,8,6.6,75.5,0.7
+1426,Malik Brown,FCS,Big Sky,N,Southern Utah,N,Undrafted,23,347,1856,15,5.3,80.7,0.7
+1427,Malik Davis,FBS,SEC,Y,Florida,N,Undrafted,7,79,526,2,6.7,75.1,0.3
+1428,Malik Grant,FCS,NEC,N,Sacred Heart,N,Undrafted,34,638,3144,25,4.9,92.5,0.7
+1429,Malik Sherrod,FBS,Mountain West,N,Fresno St.,N,Undrafted,12,172,966,9,5.6,80.5,0.8
+1430,Malik Thomas,FCS,NEC,N,Central Conn. St.,N,Undrafted,11,85,469,2,5.5,42.6,0.2
+1431,Malik Twyman,FCS,Patriot,N,Colgate,N,Undrafted,11,103,461,6,4.5,41.9,0.5
+1432,Malik Walker,FCS,Big Sky,N,Portland St.,N,Undrafted,11,176,879,11,5.0,79.9,1.0
+1433,Malik Williams,FBS,ACC,Y,Louisville,N,Undrafted,11,67,531,4,7.9,48.3,0.4
+1434,Manusamoa Luuga,FCS,Big Sky,N,UC Davis,N,Undrafted,22,379,1690,17,4.5,76.8,0.8
+1435,MarShawn Lloyd,FBS,Pac-12,Y,Southern California,Y,4.0,20,227,1393,18,6.1,69.6,0.9
+1436,Marcel Murray,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,24,324,1680,14,5.2,70.0,0.6
+1437,Marcellus Calhoun,FCS,Pioneer,N,Marist,N,Undrafted,33,432,1771,23,4.1,53.7,0.7
+1438,Marcorus Garrett,FCS,Ivy League,N,Columbia,N,Undrafted,6,93,463,4,5.0,77.2,0.7
+1439,Marcus Anderson,FCS,SoCon,N,Furman,N,Undrafted,11,72,314,2,4.4,28.5,0.2
+1440,Marcus Bagley,FCS,NEC,N,Saint Francis,N,Undrafted,32,396,1944,10,4.9,60.8,0.3
+1441,Marcus Carroll,FBS,Sun Belt,N,Georgia St.,N,Undrafted,24,401,1972,19,4.9,82.2,0.8
+1442,Marcus Coker,FCS,CAA,N,Stony Brook,N,Undrafted,11,127,514,4,4.0,46.7,0.4
+1443,Marcus Cooper,FCS,Southland,N,UIW,N,Undrafted,35,375,2662,23,7.1,76.1,0.7
+1444,Marcus Cox,FBS,Sun Belt,N,App State,N,Undrafted,21,401,2438,18,6.1,116.1,0.9
+1445,Marcus Fulcher,FCS,Big Sky,N,Sacramento St.,N,Undrafted,22,195,1055,16,5.4,48.0,0.7
+1446,Marcus Hampton,FCS,MEAC,N,Hampton,N,Undrafted,11,72,456,4,6.3,41.5,0.4
+1447,Marcus Holliday,FCS,OVC,N,Murray St.,N,Undrafted,11,80,450,3,5.6,40.9,0.3
+1448,Marcus Jones,FBS,MAC,N,NIU,N,Undrafted,14,95,527,4,5.5,37.6,0.3
+1449,Marcus Knight,FCS,OVC,N,Tennessee Tech,N,Undrafted,23,345,1539,29,4.5,66.9,1.3
+1450,Marcus Marshall,FCS,CAA,N,James Madison,N,Undrafted,46,403,2574,25,6.4,56.0,0.5
+1451,Marcus Mason,FBS,Pac-12,Y,Washington St.,N,Undrafted,13,87,429,2,4.9,33.0,0.2
+1452,Marcus Murphy,FBS,SEC,Y,Missouri,Y,17.0,28,269,1525,13,5.7,54.5,0.5
+1453,Marcus Outlow,FBS,Sun Belt,N,Coastal Carolina,N,Undrafted,10,133,661,8,5.0,66.1,0.8
+1454,Marcus Shaw,FBS,AAC,N,South Fla.,N,Undrafted,10,156,765,3,4.9,76.5,0.3
+1455,Marcus Washington,FCS,Southland,N,Nicholls,N,Undrafted,7,96,413,7,4.3,59.0,1.0
+1456,Marcus Williams,FBS,Sun Belt,N,App State,N,Undrafted,12,122,561,4,4.6,46.8,0.3
+1457,Marcus Williams Jr.,FBS,CUSA,N,Louisiana Tech,N,Undrafted,34,375,1942,16,5.2,57.1,0.5
+1458,Marcus Wiltz,FCS,Southland,N,McNeese,N,Undrafted,13,213,1287,11,6.0,99.0,0.8
+1459,Marcus Yarns,FCS,CAA,N,Delaware,N,Undrafted,26,209,1420,17,6.8,54.6,0.7
+1460,Mari Adams,FCS,Pioneer,N,Davidson,N,Undrafted,11,164,1019,15,6.2,92.6,1.4
+1461,Mario Anderson,FBS,SEC,Y,South Carolina,N,Undrafted,12,143,707,3,4.9,58.9,0.2
+1462,Mario Brown,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,27,191,1067,8,5.6,39.5,0.3
+1463,Marion Grice,FBS,Pac-12,Y,Arizona St.,Y,15.0,11,191,996,14,5.2,90.5,1.3
+1464,Marion Lukes,FBS,MAC,N,Central Mich.,N,Undrafted,12,144,737,5,5.1,61.4,0.4
+1465,Mark Allen,FCS,NEC,N,Duquesne,N,Undrafted,10,138,689,4,5.0,68.9,0.4
+1466,Mark Robinson,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,13,117,546,7,4.7,42.0,0.5
+1467,Mark Walton,FBS,ACC,Y,Miami (FL),Y,10.0,13,209,1117,14,5.3,85.9,1.1
+1468,Mark Weisman,FBS,Big Ten,Y,Iowa,N,Undrafted,26,440,1787,24,4.1,68.7,0.9
+1469,Markel Smith,FCS,MVFC,N,Illinois St.,N,Undrafted,21,204,1143,8,5.6,54.4,0.4
+1470,Markell Jones,FBS,Big Ten,Y,Purdue,N,Undrafted,46,542,2594,20,4.8,56.4,0.4
+1471,Marlin Lane,FBS,SEC,Y,Tennessee,N,Undrafted,11,101,534,4,5.3,48.5,0.4
+1472,Marlon Mack,FBS,AAC,N,South Fla.,Y,15.0,36,586,3609,32,6.2,100.2,0.9
+1473,Marquell Cartwright,FCS,MEAC,N,N.C. A&T,N,Undrafted,34,550,2610,28,4.7,76.8,0.8
+1474,Marques DeShields,FCS,CAA,N,Rhode Island,N,Undrafted,22,350,1954,16,5.6,88.8,0.7
+1475,Marquez Cooper,FBS,MAC,N,Ball St.,N,Undrafted,38,753,3574,28,4.7,94.1,0.7
+1476,Marquice Paige,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,10,78,482,4,6.2,48.2,0.4
+1477,Marquis Crosby,FBS,CUSA,N,Louisiana Tech,N,Undrafted,12,183,918,9,5.0,76.5,0.8
+1478,Marquis Gillis,FCS,MEAC,N,Delaware St.,N,Undrafted,22,254,1280,10,5.0,58.2,0.5
+1479,Marquis Green,FCS,SoCon,N,Chattanooga,N,Undrafted,12,69,282,1,4.1,23.5,0.1
+1480,Marquis Terry,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,24,446,2305,21,5.2,96.0,0.9
+1481,Marquis Young,FBS,FBS Independent,N,Massachusetts,N,Undrafted,47,686,3618,29,5.3,77.0,0.6
+1482,Marshaun Coprich,FCS,MVFC,N,Illinois St.,N,Undrafted,39,911,5125,59,5.6,131.4,1.5
+1483,Martell Pettaway,FBS,Big 12,Y,West Virginia,N,Undrafted,12,98,623,6,6.4,51.9,0.5
+1484,Martez Carter,FCS,SWAC,N,Grambling,N,Undrafted,24,285,1760,21,6.2,73.3,0.9
+1485,Marteze Waller,FBS,Mountain West,N,Fresno St.,N,Undrafted,39,577,2934,23,5.1,75.2,0.6
+1486,Martin Ruiz,FCS,MVFC,N,Youngstown St.,N,Undrafted,49,854,4306,41,5.0,87.9,0.8
+1487,Marvin Kinsey Jr.,FBS,Mountain West,N,Colorado St.,N,Undrafted,19,214,1249,13,5.8,65.7,0.7
+1488,Mason Blakemore,FCS,MVFC,N,Illinois St.,N,Undrafted,10,150,980,14,6.5,98.0,1.4
+1489,Mason Sheron,FCS,Pioneer,N,Davidson,N,Undrafted,11,139,949,13,6.8,86.3,1.2
+1490,Master Teague,FBS,Big Ten,Y,Ohio St.,N,Undrafted,20,239,1303,12,5.5,65.2,0.6
+1491,Mataeo Durant,FBS,ACC,Y,Duke,N,Undrafted,23,375,2058,17,5.5,89.5,0.7
+1492,Matt Breida,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,25,371,2254,20,6.1,90.2,0.8
+1493,Matt Colburn II,FBS,ACC,Y,Wake Forest,N,Undrafted,37,476,2289,14,4.8,61.9,0.4
+1494,Matt DelMauro,FCS,Patriot,N,Bucknell,N,Undrafted,31,379,1730,11,4.6,55.8,0.4
+1495,Matt Gudzak,FCS,CAA,N,Villanova,N,Undrafted,9,88,513,3,5.8,57.0,0.3
+1496,Matt Jones,FBS,SEC,Y,Florida,Y,8.0,16,245,1156,8,4.7,72.2,0.5
+1497,Matt LaRoche,FCS,ASUN,N,Jacksonville St.,N,Undrafted,11,123,627,5,5.1,57.0,0.5
+1498,Matt Taft,FCS,Pioneer,N,Stetson,N,Undrafted,10,91,471,3,5.2,47.1,0.3
+1499,Matthew Dayes,FBS,ACC,Y,NC State,Y,26.0,34,487,2604,30,5.3,76.6,0.9
+1500,Matthias McKinnon,FCS,NEC,N,Wagner,N,Undrafted,22,256,1116,10,4.4,50.7,0.5
+1501,Mattias Clark,FCS,SWAC,N,Ark.-Pine Bluff,N,Undrafted,5,61,173,2,2.8,34.6,0.4
+1502,Maurice Washington,FCS,SWAC,N,Grambling,N,Undrafted,11,61,589,7,9.7,53.5,0.6
+1503,Max Borghi,FBS,Pac-12,Y,Washington St.,N,Undrafted,25,287,1697,23,5.9,67.9,0.9
+1504,Max DeLorenzo,FBS,AAC,N,UConn,N,Undrafted,12,99,349,5,3.5,29.1,0.4
+1505,Max Norris,FCS,MVFC,N,Western Ill.,N,Undrafted,11,117,656,5,5.6,59.6,0.5
+1506,Mckenzie Shai,FCS,MEAC,N,Hampton,N,Undrafted,11,112,489,3,4.4,44.5,0.3
+1507,Mekhi Sargent,FBS,Big Ten,Y,Iowa,N,Undrafted,34,354,1740,20,4.9,51.2,0.6
+1508,Melvin Gordon,FBS,Big Ten,Y,Wisconsin,Y,2.0,27,549,4196,41,7.6,155.4,1.5
+1509,Micah Bernard,FBS,Pac-12,Y,Utah,N,Undrafted,28,193,1056,6,5.5,37.7,0.2
+1510,Michael Benefield,FCS,FCS Independent,N,Kennesaw St.,N,Undrafted,9,87,546,6,6.3,60.7,0.7
+1511,Michael Carter,FBS,ACC,Y,North Carolina,Y,5.0,44,514,3403,22,6.6,77.3,0.5
+1512,Michael D. Jones,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,12,128,730,5,5.7,60.8,0.4
+1513,Michael Fredrick,FCS,MVFC,N,South Dakota,N,Undrafted,24,305,1327,9,4.4,55.3,0.4
+1514,Michael Gordon,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,36,436,2911,32,6.7,80.9,0.9
+1515,Michael Henry,FCS,Southland,N,Nicholls,N,Undrafted,22,392,1773,13,4.5,80.6,0.6
+1516,Michael Jones,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,19,191,1028,10,5.4,54.1,0.5
+1517,Michael Matthews,FCS,OVC,N,Jacksonville St.,N,Undrafted,12,127,585,5,4.6,48.8,0.4
+1518,Michael Neel,FCS,Pioneer,N,Dayton,N,Undrafted,9,138,593,4,4.3,65.9,0.4
+1519,Michael Perry,FCS,NEC,N,Bryant,N,Undrafted,12,130,594,2,4.6,49.5,0.2
+1520,Michael Warren II,FBS,AAC,N,Cincinnati,N,Undrafted,26,505,2594,33,5.1,99.8,1.3
+1521,Michael Wiley,FBS,Pac-12,Y,Arizona,N,Undrafted,11,113,771,8,6.8,70.1,0.7
+1522,Mikael Cooper-Falls,FCS,MVFC,N,Missouri St.,N,Undrafted,12,142,604,3,4.3,50.3,0.2
+1523,Mikai Stanley,FCS,SoCon,N,Western Caro.,N,Undrafted,9,45,221,2,4.9,24.6,0.2
+1524,Mikal Abdual-Saboor,FCS,CAA,N,William & Mary,N,Undrafted,32,588,2866,26,4.9,89.6,0.8
+1525,Mike Boone,FBS,AAC,N,Cincinnati,N,Undrafted,11,104,749,9,7.2,68.1,0.8
+1526,Mike Davis,FBS,SEC,Y,South Carolina,Y,11.0,25,402,2165,20,5.4,86.6,0.8
+1527,Mike Epstein,FBS,Big Ten,Y,Illinois,N,Undrafted,7,69,367,4,5.3,52.4,0.6
+1528,Mike Holloway,FCS,Big South,N,Charleston So.,N,Undrafted,43,341,2623,26,7.7,61.0,0.6
+1529,Mike Trumpy,FBS,Big Ten,Y,Northwestern,N,Undrafted,11,98,370,2,3.8,33.6,0.2
+1530,Mike Warren,FBS,Big 12,Y,Iowa St.,N,Undrafted,23,361,1898,8,5.3,82.5,0.3
+1531,Mike Washington,FBS,MAC,N,Buffalo,N,Undrafted,13,150,625,7,4.2,48.1,0.5
+1532,Mike Waters,FCS,MEAC,N,Delaware St.,N,Undrafted,11,169,820,5,4.9,74.5,0.5
+1533,Mike Weber,FBS,Big Ten,Y,Ohio St.,Y,21.0,38,455,2676,24,5.9,70.4,0.6
+1534,Mikey Daniel,FCS,MVFC,N,South Dakota St.,N,Undrafted,39,353,1647,28,4.7,42.2,0.7
+1535,Miles Jones,FCS,OVC,N,Jacksonville St.,N,Undrafted,40,372,1775,18,4.8,44.4,0.4
+1536,Miles Reed,FCS,ASUN,N,SFA,N,Undrafted,44,584,2607,14,4.5,59.2,0.3
+1537,Miles Sanders,FBS,Big Ten,Y,Penn St.,Y,2.0,13,220,1274,9,5.8,98.0,0.7
+1538,Miles Smith,FCS,Ivy League,N,Dartmouth,N,Undrafted,8,99,516,3,5.2,64.5,0.4
+1539,Milo Hall,FCS,Big Sky,N,Northern Colo.,N,Undrafted,23,421,1647,17,3.9,71.6,0.7
+1540,Miyan Williams,FBS,Big Ten,Y,Ohio St.,N,Undrafted,21,199,1333,17,6.7,63.5,0.8
+1541,Moe Neal,FBS,ACC,Y,Syracuse,N,Undrafted,25,325,1715,12,5.3,68.6,0.5
+1542,Mohamed Ibrahim,FBS,Big Ten,Y,Minnesota,N,Undrafted,40,837,4505,51,5.4,112.6,1.3
+1543,Monte Watkins,FBS,CUSA,N,New Mexico St.,N,Undrafted,14,59,572,2,9.7,40.9,0.1
+1544,Montel Goods,FCS,Pioneer,N,Campbell,N,Undrafted,8,88,431,6,4.9,53.9,0.8
+1545,Monteo Garrett,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,12,93,515,5,5.5,42.9,0.4
+1546,Montrell Johnson Jr.,FBS,SEC,Y,Florida,N,Undrafted,39,468,2442,27,5.2,62.6,0.7
+1547,Morgan Ellison,FCS,Southland,N,Southeastern La.,N,Undrafted,15,188,967,8,5.1,64.5,0.5
+1548,Myles Bailey,FBS,MAC,N,Central Mich.,N,Undrafted,10,101,476,3,4.7,47.6,0.3
+1549,Myles Gaskin,FBS,Pac-12,Y,Washington,Y,23.0,52,945,5323,57,5.6,102.4,1.1
+1550,Myles Wanza,FCS,MVFC,N,Western Ill.,N,Undrafted,29,333,1641,10,4.9,56.6,0.3
+1551,Myles Willis,FBS,ACC,Y,Boston College,N,Undrafted,11,60,346,2,5.8,31.5,0.2
+1552,NaQuari Rogers,FCS,CAA,N,Campbell,N,Undrafted,8,99,478,6,4.8,59.8,0.8
+1553,Naieem Kearney,FCS,Patriot,N,Georgetown,N,Undrafted,11,130,601,5,4.6,54.6,0.5
+1554,Naim Jones,FCS,CAA,N,Rhode Island,N,Undrafted,17,205,929,7,4.5,54.6,0.4
+1555,Najee Harris,FBS,SEC,Y,Alabama,Y,1.0,41,577,3473,43,6.0,84.7,1.0
+1556,Nakendrick Clark,FCS,SoCon,N,Mercer,N,Undrafted,8,100,382,2,3.8,47.8,0.2
+1557,Nakia Watson,FBS,Pac-12,Y,Washington St.,N,Undrafted,11,144,769,9,5.3,69.9,0.8
+1558,Napoleon Maxwell,FBS,CUSA,N,FIU,N,Undrafted,26,256,1359,16,5.3,52.3,0.6
+1559,Narii Gaither,FCS,OVC,N,Gardner-Webb,N,Undrafted,36,540,3059,19,5.7,85.0,0.5
+1560,Narkel Leflore,FCS,OVC,N,UT Martin,N,Undrafted,11,70,382,4,5.5,34.7,0.4
+1561,Nasir Smith,FCS,NEC,N,Central Conn. St.,N,Undrafted,22,356,1726,15,4.8,78.5,0.7
+1562,Nate Carter,FBS,Big Ten,Y,Michigan St.,N,Undrafted,24,310,1376,6,4.4,57.3,0.2
+1563,Nate Chavious,FCS,NEC,N,Sacred Heart,N,Undrafted,28,349,1800,17,5.2,64.3,0.6
+1564,Nate Evans,FCS,CAA,N,William & Mary,N,Undrafted,10,119,476,3,4.0,47.6,0.3
+1565,Nate Jones,FBS,Mountain West,N,New Mexico,N,Undrafted,11,118,544,2,4.6,49.5,0.2
+1566,Nate Noel,FBS,Sun Belt,N,App State,N,Undrafted,44,541,3074,18,5.7,69.9,0.4
+1567,Nate Tago,FCS,Big Sky,N,Portland St.,N,Undrafted,21,244,1195,16,4.9,56.9,0.8
+1568,Nate Thomas,FCS,MVFC,N,South Dakota,N,Undrafted,20,178,1115,10,6.3,55.8,0.5
+1569,Nathan Jeffery,FBS,CUSA,N,UTEP,N,Undrafted,23,247,1063,10,4.3,46.2,0.4
+1570,Nathan Storch,FCS,SoCon,N,The Citadel,N,Undrafted,8,143,536,1,3.7,67.0,0.1
+1571,Nathan Walker,FCS,SoCon,N,Wofford,N,Undrafted,30,203,1226,11,6.0,40.9,0.4
+1572,Nay'Quan Wright,FBS,AAC,N,South Fla.,N,Undrafted,13,180,797,8,4.4,61.3,0.6
+1573,Nelson Smith,FBS,AAC,N,Navy,N,Undrafted,23,244,1216,15,5.0,52.9,0.7
+1574,Nic Smith,FBS,CUSA,N,North Texas,N,Undrafted,14,138,684,6,5.0,48.9,0.4
+1575,Nicholas Singleton,FBS,Big Ten,Y,Penn St.,N,Undrafted,26,327,1813,20,5.5,69.7,0.8
+1576,Nick Brossette,FBS,SEC,Y,LSU,N,Undrafted,13,240,1039,14,4.3,79.9,1.1
+1577,Nick Campanella,FCS,Patriot,N,Georgetown,N,Undrafted,11,131,565,6,4.3,51.4,0.5
+1578,Nick Chubb,FBS,SEC,Y,Georgia,Y,4.0,47,758,4769,44,6.3,101.5,0.9
+1579,Nick Hill,FBS,Big Ten,Y,Michigan St.,N,Undrafted,25,174,966,10,5.6,38.6,0.4
+1580,Nick Holley,FBS,MAC,N,Kent St.,N,Undrafted,11,195,920,10,4.7,83.6,0.9
+1581,Nick LaSane,FCS,Big Sky,N,Montana St.,N,Undrafted,7,93,592,3,6.4,84.6,0.4
+1582,Nick Ostmo,FCS,Big Sky,N,Montana,N,Undrafted,27,264,1398,15,5.3,51.8,0.6
+1583,Nick Romano,FCS,Big Sky,N,Idaho,N,Undrafted,31,257,1187,7,4.6,38.3,0.2
+1584,Nick Wilson,FBS,Pac-12,Y,Arizona,N,Undrafted,33,498,2718,30,5.5,82.4,0.9
+1585,Nico Evans,FBS,Mountain West,N,Wyoming,N,Undrafted,10,203,1325,8,6.5,132.5,0.8
+1586,Nico Steriti,FCS,CAA,N,New Hampshire,N,Undrafted,27,333,1582,22,4.8,58.6,0.8
+1587,Nigel Beckford,FCS,CAA,N,Maine,N,Undrafted,20,241,997,9,4.1,49.8,0.4
+1588,Nigel Jones,FCS,CAA,N,Maine,N,Undrafted,12,131,596,8,4.5,49.7,0.7
+1589,Nigel White,FCS,MVFC,N,Illinois St.,N,Undrafted,4,40,230,0,5.8,57.5,0.0
+1590,Nikko Watson,FCS,MVFC,N,Western Ill.,N,Undrafted,21,401,1699,19,4.2,80.9,0.9
+1591,Niko Duffey,FCS,SWAC,N,Alcorn,N,Undrafted,23,318,1663,10,5.2,72.3,0.4
+1592,Nkem Njoku,FCS,SoCon,N,The Citadel,N,Undrafted,7,35,151,1,4.3,21.6,0.1
+1593,Noah Copeland,FBS,FBS Independent,N,Navy,N,Undrafted,22,198,1291,7,6.5,58.7,0.3
+1594,Noah Shuler,FCS,Big South,N,Charleston So.,N,Undrafted,11,115,583,8,5.1,53.0,0.7
+1595,Noah Smith,FCS,WAC,N,Sam Houston,N,Undrafted,12,89,567,6,6.4,47.2,0.5
+1596,Noah Whittington,FBS,Pac-12,Y,Oregon,N,Undrafted,25,240,1396,7,5.8,55.8,0.3
+1597,Nyheim Hines,FBS,ACC,Y,NC State,Y,9.0,13,197,1112,12,5.6,85.5,0.9
+1598,O'Shaan Allison,FBS,MAC,N,Ohio,N,Undrafted,12,138,869,6,6.3,72.4,0.5
+1599,Ollie Gordon,FBS,Big 12,Y,Oklahoma St.,N,Undrafted,14,285,1732,21,6.1,123.7,1.5
+1600,Omar Allen,FCS,SWAC,N,Ark.-Pine Bluff,N,Undrafted,5,42,150,0,3.6,30.0,0.0
+1601,Omar Osbourne,FCS,CAA,N,UAlbany,N,Undrafted,24,531,2417,19,4.6,100.7,0.8
+1602,Omar Williams,FCS,OVC,N,Austin Peay,N,Undrafted,12,157,641,0,4.1,53.4,0.0
+1603,Omarion Hampton,FBS,ACC,Y,North Carolina,N,Undrafted,13,253,1504,15,5.9,115.7,1.2
+1604,Orlando Thomas,FCS,Pioneer,N,Jacksonville,N,Undrafted,11,46,381,5,8.3,34.6,0.5
+1605,Orleans Darkwa,FBS,CUSA,N,Tulane,N,Undrafted,13,188,863,12,4.6,66.4,0.9
+1606,Oscar Adaway III,FBS,AAC,N,North Texas,N,Undrafted,28,340,1893,14,5.6,67.6,0.5
+1607,Ose Imeokparia,FCS,NEC,N,Sacred Heart,N,Undrafted,22,304,1376,6,4.5,62.5,0.3
+1608,Osharmar Abercrombie,FCS,Big South,N,Coastal Carolina,N,Undrafted,12,75,502,7,6.7,41.8,0.6
+1609,Otis Anderson,FBS,AAC,N,UCF,N,Undrafted,9,125,687,4,5.5,76.3,0.4
+1610,Otis Gerron,FCS,OVC,N,Austin Peay,N,Undrafted,11,112,596,2,5.3,54.2,0.2
+1611,Otis Weah,FCS,MVFC,N,North Dakota,N,Undrafted,16,261,1548,18,5.9,96.8,1.1
+1612,Otis Wright,FCS,NEC,N,Wagner,N,Undrafted,21,279,1211,9,4.3,57.7,0.4
+1613,Owen Wright,FCS,Big South,N,Monmouth,N,Undrafted,23,229,954,7,4.2,41.5,0.3
+1614,P.J. Fulmore,FCS,NEC,N,Duquesne,N,Undrafted,10,79,429,0,5.4,42.9,0.0
+1615,P.J. Simmons,FCS,SWAC,N,Alcorn,N,Undrafted,24,225,1422,11,6.3,59.2,0.5
+1616,Pat Bowen,FCS,NEC,N,LIU,N,Undrafted,10,139,597,5,4.3,59.7,0.5
+1617,Pat Jackson,FCS,OVC,N,Jacksonville St.,N,Undrafted,12,93,369,3,4.0,30.8,0.2
+1618,Patrick Carr,FBS,AAC,N,Houston,N,Undrafted,13,152,868,5,5.7,66.8,0.4
+1619,Patrick Garwo,FBS,ACC,Y,Boston College,N,Undrafted,12,205,1045,7,5.1,87.1,0.6
+1620,Patrick Laird,FBS,Pac-12,Y,California,N,Undrafted,24,414,2088,13,5.0,87.0,0.5
+1621,Patrick Taylor,FBS,AAC,N,Memphis,N,Undrafted,39,458,2534,31,5.5,65.0,0.8
+1622,Paul Canevari,FCS,NEC,N,Bryant,N,Undrafted,16,246,1357,9,5.5,84.8,0.6
+1623,Paul Harris,FBS,Mountain West,N,Hawaii,N,Undrafted,26,278,1700,8,6.1,65.4,0.3
+1624,Paul James,FBS,Big Ten,Y,Rutgers,N,Undrafted,20,255,1425,14,5.6,71.2,0.7
+1625,Paul Lasike,FBS,FBS Independent,N,BYU,N,Undrafted,13,59,350,1,5.9,26.9,0.1
+1626,Paul Perkins,FBS,Pac-12,Y,UCLA,Y,9.0,39,622,3491,29,5.6,89.5,0.7
+1627,Paul Stanton Jr.,FCS,Ivy League,N,Harvard,N,Undrafted,28,456,2735,35,6.0,97.7,1.2
+1628,Payton Ploch,FCS,Southland,N,Lamar University,N,Undrafted,12,69,344,3,5.0,28.7,0.2
+1629,Payton Usher,FCS,Pioneer,N,Mercer,N,Undrafted,9,114,776,2,6.8,86.2,0.2
+1630,Peny Boone,FBS,MAC,N,Toledo,N,Undrafted,13,194,1400,15,7.2,107.7,1.2
+1631,Percy Agyei-Obese,FCS,CAA,N,James Madison,N,Undrafted,23,404,1933,27,4.8,84.0,1.2
+1632,Pernell Rattray,FCS,Pioneer,N,Jacksonville,N,Undrafted,10,64,443,2,6.9,44.3,0.2
+1633,Pete Guerriero,FCS,Big South,N,Monmouth,N,Undrafted,34,610,3974,35,6.5,116.9,1.0
+1634,Peter Oliver,FCS,Patriot,N,Holy Cross,N,Undrafted,28,355,2040,13,5.7,72.9,0.5
+1635,Peterson Kerlegrand,FCS,MVFC,N,Indiana St.,N,Undrafted,11,185,830,5,4.5,75.5,0.5
+1636,Peyton Barber,FBS,SEC,Y,Auburn,N,Undrafted,13,238,1017,13,4.3,78.2,1.0
+1637,Peyton Logan,FCS,OVC,N,UT Martin,N,Undrafted,29,349,2245,12,6.4,77.4,0.4
+1638,Peytton Pickett,FCS,SWAC,N,Jackson St.,N,Undrafted,23,198,970,11,4.9,42.2,0.5
+1639,Pha'leak Brown,FCS,MVFC,N,Illinois St.,N,Undrafted,4,57,271,1,4.8,67.8,0.2
+1640,Phil Mafah,FBS,ACC,Y,Clemson,N,Undrafted,27,277,1480,17,5.3,54.8,0.6
+1641,Phillip Lindsay,FBS,Pac-12,Y,Colorado,N,Undrafted,39,685,3379,36,4.9,86.6,0.9
+1642,Phoenix Johnson,FCS,MVFC,N,Missouri St.,N,Undrafted,12,143,575,2,4.0,47.9,0.2
+1643,Pierre Strong,FCS,MVFC,N,South Dakota St.,Y,10.0,48,631,4514,40,7.2,94.0,0.8
+1644,Plez Lawrence,FCS,MVFC,N,Indiana St.,N,Undrafted,11,104,502,3,4.8,45.6,0.3
+1645,Pokey Harris,FCS,OVC,N,Murray St.,N,Undrafted,12,106,627,3,5.9,52.2,0.2
+1646,Pooka Williams,FBS,Big 12,Y,Kansas,N,Undrafted,22,364,2186,10,6.0,99.4,0.5
+1647,Preston Daniels,FCS,ASUN,N,Kennesaw St.,N,Undrafted,9,84,423,4,5.0,47.0,0.4
+1648,Prince-Tyson Gulley,FBS,ACC,Y,Syracuse,N,Undrafted,23,211,1070,5,5.1,46.5,0.2
+1649,Q Jones,FCS,Ivy League,N,Dartmouth,N,Undrafted,20,200,982,5,4.9,49.1,0.2
+1650,Qadree Ollison,FBS,ACC,Y,Pittsburgh,Y,13.0,27,406,2334,22,5.7,86.4,0.8
+1651,QuaSean Holmes,FCS,NEC,N,Saint Francis,N,Undrafted,10,60,479,5,8.0,47.9,0.5
+1652,Quali Conley,FBS,Mountain West,N,San Jose St.,N,Undrafted,13,131,842,9,6.4,64.8,0.7
+1653,Quardraiz Wadley,FBS,CUSA,N,UTEP,N,Undrafted,12,123,627,7,5.1,52.2,0.6
+1654,Quay Holmes,FCS,SoCon,N,ETSU,N,Undrafted,43,798,4233,45,5.3,98.4,1.0
+1655,Que’Shaun Byrd,FCS,SWAC,N,Bethune-Cookman,N,Undrafted,22,260,1392,13,5.4,63.3,0.6
+1656,Quincy Forte,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,14,179,1208,11,6.7,86.3,0.8
+1657,Quinshon Judkins,FBS,SEC,Y,Ole Miss,N,Undrafted,26,545,2725,31,5.0,104.8,1.2
+1658,Quinton Baker,FBS,CUSA,N,Western Ky.,N,Undrafted,14,99,542,4,5.5,38.7,0.3
+1659,Quinton Cooley,FBS,CUSA,N,Liberty,N,Undrafted,14,221,1401,16,6.3,100.1,1.1
+1660,Quinton Singleton,FBS,FBS Independent,N,Navy,N,Undrafted,13,65,361,2,5.6,27.8,0.2
+1661,RJ Harvey,FBS,Big 12,Y,UCF,N,Undrafted,26,344,2212,21,6.4,85.1,0.8
+1662,Ra'Quanne Dickens,FCS,Southland,N,UIW,N,Undrafted,21,270,1524,17,5.6,72.6,0.8
+1663,Rachaad White,FBS,Pac-12,Y,Arizona St.,Y,4.0,15,224,1426,20,6.4,95.1,1.3
+1664,Rafiq Douglas,FCS,NEC,N,Duquesne,N,Undrafted,11,186,977,11,5.3,88.8,1.0
+1665,Raheem Blackshear,FBS,ACC,Y,Virginia Tech,N,Undrafted,25,276,1351,9,4.9,54.0,0.4
+1666,Raheem Mostert,FBS,Big Ten,Y,Purdue,N,Undrafted,12,93,529,3,5.7,44.1,0.2
+1667,Raheim Sanders,FBS,SEC,Y,Arkansas,N,Undrafted,26,336,2021,15,6.0,77.7,0.6
+1668,Rahjai Harris,FBS,AAC,N,East Carolina,N,Undrafted,32,422,1692,13,4.0,52.9,0.4
+1669,Rahsul Faison,FBS,Mountain West,N,Utah St.,N,Undrafted,13,118,736,5,6.2,56.6,0.4
+1670,Raiden Hunter,FCS,Big Sky,N,Idaho St.,N,Undrafted,8,93,451,1,4.8,56.4,0.1
+1671,Rajion Neal,FBS,SEC,Y,Tennessee,N,Undrafted,12,215,1124,12,5.2,93.7,1.0
+1672,Rakeem Boyd,FBS,SEC,Y,Arkansas,N,Undrafted,24,307,1867,10,6.1,77.8,0.4
+1673,Rakeem Sims,FCS,SWAC,N,Jackson St.,N,Undrafted,10,100,474,5,4.7,47.4,0.5
+1674,Ralph David Abernathy IV,FBS,AAC,N,Cincinnati,N,Undrafted,13,132,518,5,3.9,39.8,0.4
+1675,Ralph Webb,FBS,SEC,Y,Vanderbilt,N,Undrafted,49,931,4173,32,4.5,85.2,0.7
+1676,Rameses Owens,FCS,NEC,N,Robert Morris,N,Undrafted,9,125,456,4,3.6,50.7,0.4
+1677,Ramon Jefferson,FCS,WAC,N,Sam Houston,N,Undrafted,34,481,2944,28,6.1,86.6,0.8
+1678,Ramone Simpson,FCS,MEAC,N,N.C. Central,N,Undrafted,12,129,632,5,4.9,52.7,0.4
+1679,Rashaad Cooper,FCS,Ivy League,N,Dartmouth,N,Undrafted,10,100,657,6,6.6,65.7,0.6
+1680,Rashaad Penny,FBS,Mountain West,N,San Diego St.,Y,2.0,27,425,3266,34,7.7,121.0,1.3
+1681,Rashad Amos,FBS,MAC,N,Miami (OH),N,Undrafted,14,210,1075,13,5.1,76.8,0.9
+1682,Rashad Raymond,FCS,SoCon,N,VMI,N,Undrafted,30,250,1094,3,4.4,36.5,0.1
+1683,Rasheed Harrell,FCS,Southland,N,Southeastern La.,N,Undrafted,26,240,1053,12,4.4,40.5,0.5
+1684,Rasheen Ali,FBS,Sun Belt,N,Marshall,Y,12.0,25,462,2536,38,5.5,101.4,1.5
+1685,Rawleigh Williams,FBS,SEC,Y,Arkansas,N,Undrafted,13,245,1360,12,5.6,104.6,0.9
+1686,Ray Davis,FBS,SEC,Y,Kentucky,Y,8.0,25,431,2171,19,5.0,86.8,0.8
+1687,Ray Lawry,FBS,CUSA,N,Old Dominion,N,Undrafted,31,526,3133,29,6.0,101.1,0.9
+1688,Ray Smith,FCS,SoCon,N,Wofford,N,Undrafted,10,67,601,3,9.0,60.1,0.3
+1689,Raymond Calais,FBS,Sun Belt,N,Louisiana,Y,16.0,28,198,1640,13,8.3,58.6,0.5
+1690,Raymond Sanders,FBS,SEC,Y,Kentucky,N,Undrafted,11,107,464,3,4.3,42.2,0.3
+1691,Raysean Martin,FCS,Big Sky,N,Southern Utah,N,Undrafted,13,112,444,6,4.0,34.2,0.5
+1692,Re'Mahn Davis,FBS,AAC,N,Temple,N,Undrafted,12,193,936,8,4.8,78.0,0.7
+1693,Rees Macshara,FCS,Pioneer,N,Morehead St.,N,Undrafted,22,269,1185,6,4.4,53.9,0.3
+1694,Reese White,FBS,Sun Belt,N,Coastal Carolina,N,Undrafted,31,259,1537,18,5.9,49.6,0.6
+1695,Reggie Corbin,FBS,Big Ten,Y,Illinois,N,Undrafted,36,357,2283,18,6.4,63.4,0.5
+1696,Reggie Gallaspy,FBS,ACC,Y,NC State,N,Undrafted,26,344,1597,25,4.6,61.4,1.0
+1697,Reggie Love III,FBS,Big Ten,Y,Illinois,N,Undrafted,8,116,567,4,4.9,70.9,0.5
+1698,Reggie Pegram,FBS,CUSA,N,North Texas,N,Undrafted,20,239,867,11,3.6,43.4,0.6
+1699,Reggie Whatley,FBS,CUSA,N,Middle Tenn.,N,Undrafted,24,214,1424,10,6.7,59.3,0.4
+1700,Reggie Williams,FCS,SoCon,N,The Citadel,N,Undrafted,11,102,694,4,6.8,63.1,0.4
+1701,Reggie Woods,FCS,Patriot,N,Holy Cross,N,Undrafted,11,58,286,0,4.9,26.0,0.0
+1702,Reginald Gandy,FCS,MVFC,N,South Dakota St.,N,Undrafted,13,59,297,2,5.0,22.8,0.2
+1703,Remi Watson,FBS,CUSA,N,Marshall,N,Undrafted,14,100,546,6,5.5,39.0,0.4
+1704,Remound Wright,FBS,Pac-12,Y,Stanford,N,Undrafted,12,135,601,11,4.5,50.1,0.9
+1705,Remus Bulmer,FCS,SoCon,N,The Citadel,N,Undrafted,39,340,2119,17,6.2,54.3,0.4
+1706,Rhamondre Stevenson,FBS,Big 12,Y,Oklahoma,Y,7.0,19,165,1180,13,7.2,62.1,0.7
+1707,Ricardo McCray,FCS,NEC,N,Bryant,N,Undrafted,25,418,2461,21,5.9,98.4,0.8
+1708,Rich Sodeke,FCS,Patriot,N,Lehigh,N,Undrafted,11,159,766,6,4.8,69.6,0.5
+1709,Richard McQuarley,FBS,Mountain West,N,New Mexico,N,Undrafted,13,143,656,18,4.6,50.5,1.4
+1710,Richard Reese,FBS,Big 12,Y,Baylor,N,Undrafted,13,198,972,14,4.9,74.8,1.1
+1711,Richardre Bagley,FCS,SoCon,N,Chattanooga,N,Undrafted,13,107,593,5,5.5,45.6,0.4
+1712,Rickey Spruill,FCS,NEC,N,Wagner,N,Undrafted,21,228,1181,8,5.2,56.2,0.4
+1713,Rickey Stevens,FCS,CAA,N,Maine,N,Undrafted,11,128,757,6,5.9,68.8,0.5
+1714,Ricky Person,FBS,ACC,Y,NC State,N,Undrafted,24,282,1279,9,4.5,53.3,0.4
+1715,Rico Dowdle,FBS,SEC,Y,South Carolina,N,Undrafted,21,256,1418,10,5.5,67.5,0.5
+1716,Rico Watson,FCS,Pioneer,N,Butler,N,Undrafted,11,50,304,5,6.1,27.6,0.5
+1717,Ridgeway Frank,FCS,Southland,N,Sam Houston,N,Undrafted,15,82,439,5,5.4,29.3,0.3
+1718,Ro Elliott,FCS,MVFC,N,Southern Ill.,N,Undrafted,35,390,2034,21,5.2,58.1,0.6
+1719,Rob Harden,FCS,Pioneer,N,Morehead St.,N,Undrafted,11,100,409,1,4.1,37.2,0.1
+1720,Rob Hollomon,FCS,NEC,N,Central Conn. St.,N,Undrafted,23,512,2568,25,5.0,111.7,1.1
+1721,Rob Kelley,FBS,CUSA,N,Tulane,N,Undrafted,13,98,425,3,4.3,32.7,0.2
+1722,Robbie Delgado,FCS,CAA,N,Rhode Island,N,Undrafted,12,158,483,3,3.1,40.2,0.2
+1723,Robert Godhigh,FBS,ACC,Y,Georgia Tech,N,Undrafted,13,79,744,7,9.4,57.2,0.5
+1724,Robert Henry,FBS,AAC,N,UTSA,N,Undrafted,13,127,588,11,4.6,45.2,0.8
+1725,Robert Holland,FCS,Big Sky,N,Northern Colo.,N,Undrafted,11,140,606,2,4.3,55.1,0.2
+1726,Robert Johnson,FCS,SWAC,N,Jackson St.,N,Undrafted,9,94,409,2,4.4,45.4,0.2
+1727,Robert Lowe,FBS,Sun Belt,N,Texas St.,N,Undrafted,34,524,2951,28,5.6,86.8,0.8
+1728,Robert Marshall,FBS,Mountain West,N,Utah St.,N,Undrafted,14,94,415,1,4.4,29.6,0.1
+1729,Robert Martin,FBS,Big Ten,Y,Rutgers,N,Undrafted,22,262,1388,8,5.3,63.1,0.4
+1730,Robert Washington,FCS,Pioneer,N,Valparaiso,N,Undrafted,28,446,2184,24,4.9,78.0,0.9
+1731,Roc Thomas,FCS,OVC,N,Jacksonville St.,N,Undrafted,21,305,1847,20,6.1,88.0,1.0
+1732,Rocko Griffin,FBS,AAC,N,UTSA,N,Undrafted,23,236,1000,10,4.2,43.5,0.4
+1733,Rocky Reid,FCS,Big South,N,Campbell,N,Undrafted,11,153,614,5,4.0,55.8,0.5
+1734,Rod Moore,FBS,AAC,N,Cincinnati,N,Undrafted,13,143,618,5,4.3,47.5,0.4
+1735,Rod Talley,FCS,Big South,N,Gardner-Webb,N,Undrafted,8,40,276,3,6.9,34.5,0.4
+1736,Roderick McDowell,FBS,ACC,Y,Clemson,N,Undrafted,13,189,1025,5,5.4,78.8,0.4
+1737,Rodney Anderson,FBS,Big 12,Y,Oklahoma,Y,19.0,14,188,1161,13,6.2,82.9,0.9
+1738,Rodney Castille,FCS,OVC,N,Murray St.,N,Undrafted,7,57,143,1,2.5,20.4,0.1
+1739,Rodney Hammond Jr.,FBS,ACC,Y,Pittsburgh,N,Undrafted,24,220,1051,9,4.8,43.8,0.4
+1740,Rodney Smith,FBS,Big Ten,Y,Minnesota,N,Undrafted,50,854,3968,29,4.6,79.4,0.6
+1741,Rodrigues Clark,FBS,AAC,N,Memphis,N,Undrafted,10,136,561,2,4.1,56.1,0.2
+1742,Roland Dempster,FCS,CAA,N,Stony Brook,N,Undrafted,8,93,408,3,4.4,51.0,0.4
+1743,Roland Genesy,FCS,MVFC,N,Indiana St.,N,Undrafted,22,264,1346,10,5.1,61.2,0.5
+1744,Rolandan Finch,FCS,MEAC,N,Norfolk St.,N,Undrafted,12,235,1113,4,4.7,92.8,0.3
+1745,Roman Clay,FCS,OVC,N,Murray St.,N,Undrafted,11,190,935,11,4.9,85.0,1.0
+1746,Roman Hemby,FBS,Big Ten,Y,Maryland,N,Undrafted,26,330,1669,14,5.1,64.2,0.5
+1747,Romeo Holden,FCS,Big South,N,Monmouth,N,Undrafted,4,29,180,1,6.2,45.0,0.2
+1748,Ron Cook,FBS,MAC,N,Buffalo,N,Undrafted,22,287,1209,10,4.2,55.0,0.5
+1749,Ron Wiggins,FCS,ASUN,N,Jacksonville St.,N,Undrafted,10,60,461,4,7.7,46.1,0.4
+1750,Ronald Awatt,FBS,CUSA,N,UTEP,N,Undrafted,25,321,1578,8,4.9,63.1,0.3
+1751,Ronald Green,FCS,Southland,N,Northwestern St.,N,Undrafted,11,86,574,5,6.7,52.2,0.5
+1752,Ronald Jones,FBS,Pac-12,Y,Southern California,N,Undrafted,26,438,2632,31,6.0,101.2,1.2
+1753,Ronald Jones II,FBS,Pac-12,Y,Southern California,Y,5.0,14,153,987,8,6.5,70.5,0.6
+1754,Ronnie Harris,FCS,Big South,N,Charleston So.,N,Undrafted,11,72,405,2,5.6,36.8,0.2
+1755,Ronnie Rivers,FBS,Mountain West,N,Fresno St.,N,Undrafted,40,570,2937,35,5.2,73.4,0.9
+1756,Roschon Johnson,FBS,Big 12,Y,Texas,Y,8.0,34,269,1541,16,5.7,45.3,0.5
+1757,Roshaun Johnson,FCS,Big Sky,N,Idaho,N,Undrafted,29,254,1068,25,4.2,36.8,0.9
+1758,Ross Scheuerman,FCS,Patriot,N,Lafayette,N,Undrafted,23,454,2304,26,5.1,100.2,1.1
+1759,Rovaughn Banks Jr.,FCS,WAC,N,Abilene Christian,N,Undrafted,10,112,473,5,4.2,47.3,0.5
+1760,Roy Finch,FBS,Big 12,Y,Oklahoma,N,Undrafted,13,59,347,0,5.9,26.7,0.0
+1761,Royce Freeman,FBS,Pac-12,Y,Oregon,Y,8.0,51,947,5621,60,5.9,110.2,1.2
+1762,Roydell Williams,FBS,SEC,Y,Alabama,N,Undrafted,14,111,560,5,5.0,40.0,0.4
+1763,Rushawn Baker,FCS,Patriot,N,Bucknell,N,Undrafted,20,272,1124,14,4.1,56.2,0.7
+1764,Rushel Shell,FBS,Big 12,Y,West Virginia,N,Undrafted,25,337,1496,15,4.4,59.8,0.6
+1765,Russell Hansbrough,FBS,SEC,Y,Missouri,N,Undrafted,28,319,1769,14,5.5,63.2,0.5
+1766,Ryan Black,FCS,NEC,N,Bryant,N,Undrafted,8,102,396,5,3.9,49.5,0.6
+1767,Ryan Boykin,FBS,MAC,N,Ohio,N,Undrafted,11,103,399,7,3.9,36.3,0.6
+1768,Ryan Brumfield,FBS,MAC,N,Eastern Mich.,N,Undrafted,12,98,509,5,5.2,42.4,0.4
+1769,Ryan Butler,FCS,Ivy League,N,Princeton,N,Undrafted,10,128,501,11,3.9,50.1,1.1
+1770,Ryan Fulse,FCS,NEC,N,Wagner,N,Undrafted,22,532,3016,24,5.7,137.1,1.1
+1771,Ryan Heaston,FCS,MVFC,N,Missouri St.,N,Undrafted,18,191,850,4,4.5,47.2,0.2
+1772,Ryan Ho,FCS,NEC,N,Duquesne,N,Undrafted,23,228,856,9,3.8,37.2,0.4
+1773,Ryan Ingram,FCS,SoCon,N,Wofford,N,Undrafted,10,156,837,6,5.4,83.7,0.6
+1774,Ryan Jackson,FBS,AAC,N,Houston,N,Undrafted,26,251,1271,11,5.1,48.9,0.4
+1775,Ryan Lovelace,FCS,SoCon,N,Wofford,N,Undrafted,5,56,267,2,4.8,53.4,0.4
+1776,Ryan Mann,FCS,Pioneer,N,Valparaiso,N,Undrafted,10,106,487,3,4.6,48.7,0.3
+1777,Ryan Morrow,FCS,SWAC,N,Alabama A&M,N,Undrafted,11,95,436,6,4.6,39.6,0.5
+1778,Ryan Nall,FBS,Pac-12,Y,Oregon St.,N,Undrafted,21,312,1761,21,5.6,83.9,1.0
+1779,Ryan Quigley,FCS,Ivy League,N,Princeton,N,Undrafted,10,87,481,6,5.5,48.1,0.6
+1780,Ryan Ross,FCS,Southland,N,McNeese,N,Undrafted,22,279,1492,14,5.3,67.8,0.6
+1781,Ryan Thermil,FCS,NEC,N,Robert Morris,N,Undrafted,10,61,279,2,4.6,27.9,0.2
+1782,Ryan Young,FCS,Ivy League,N,Columbia,N,Undrafted,28,337,1384,8,4.1,49.4,0.3
+1783,Ryder Stone,FCS,Ivy League,N,Dartmouth,N,Undrafted,10,145,675,4,4.7,67.5,0.4
+1784,Ryquell Armstead,FBS,AAC,N,Temple,Y,12.0,36,522,2621,32,5.0,72.8,0.9
+1785,SaRodorick Thompson,FBS,Big 12,Y,Texas Tech,N,Undrafted,46,515,2559,37,5.0,55.6,0.8
+1786,Sabree Curtis Jr.,FCS,OVC,N,Tennessee St.,N,Undrafted,11,91,439,0,4.8,39.9,0.0
+1787,Salvon Ahmed,FBS,Pac-12,Y,Washington,N,Undrafted,26,292,1628,18,5.6,62.6,0.7
+1788,Sam Franklin,FCS,OVC,N,UT Martin,N,Undrafted,22,309,2065,19,6.7,93.9,0.9
+1789,Sam McPherson,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,25,284,1987,15,7.0,79.5,0.6
+1790,Sam Ojuri,FCS,MVFC,N,North Dakota St.,N,Undrafted,15,214,1398,10,6.5,93.2,0.7
+1791,Sam Schrader,FCS,Pioneer,N,Butler,N,Undrafted,21,178,1098,19,6.2,52.3,0.9
+1792,Samaje Perine,FBS,Big 12,Y,Oklahoma,Y,9.0,36,685,4122,49,6.0,114.5,1.4
+1793,Samson Evans,FBS,MAC,N,Eastern Mich.,N,Undrafted,24,391,1801,27,4.6,75.0,1.1
+1794,Sandon McCoy,FBS,FBS Independent,N,Army West Point,N,Undrafted,13,134,576,10,4.3,44.3,0.8
+1795,Santee Marshall,FCS,SWAC,N,Jackson St.,N,Undrafted,13,106,449,3,4.2,34.5,0.2
+1796,Santo Dunn,FCS,SWAC,N,Alabama St.,N,Undrafted,11,74,443,1,6.0,40.3,0.1
+1797,Saquon Barkley,FBS,Big Ten,Y,Penn St.,Y,1.0,38,671,3843,43,5.7,101.1,1.1
+1798,Savon Smith,FCS,CAA,N,Richmond,N,Undrafted,40,404,1949,14,4.8,48.7,0.4
+1799,Saylor Lavallii,FBS,MAC,N,Central Mich.,N,Undrafted,12,182,807,5,4.4,67.2,0.4
+1800,Scooter Adams,FCS,Southland,N,Northwestern St.,N,Undrafted,6,85,681,7,8.0,113.5,1.2
+1801,Scottie Phillips,FBS,SEC,Y,Ole Miss,N,Undrafted,21,278,1470,17,5.3,70.0,0.8
+1802,Sean Bell,FCS,NEC,N,Sacred Heart,N,Undrafted,25,210,1029,5,4.9,41.2,0.2
+1803,Sean Dollars,FBS,Mountain West,N,Nevada,N,Undrafted,11,151,527,6,3.5,47.9,0.5
+1804,Sean Prophit,FCS,Pioneer,N,Dayton,N,Undrafted,7,78,573,3,7.3,81.9,0.4
+1805,Sean Tucker,FBS,ACC,Y,Syracuse,N,Undrafted,33,589,3182,27,5.4,96.4,0.8
+1806,Sean Tyler,FBS,MAC,N,Western Mich.,N,Undrafted,25,387,2167,16,5.6,86.7,0.6
+1807,Seba Nekhet,FCS,CAA,N,Stony Brook,N,Undrafted,13,123,660,2,5.4,50.8,0.2
+1808,Selwyn Simpson,FCS,Patriot,N,Lafayette,N,Undrafted,10,92,450,5,4.9,45.0,0.5
+1809,Semar Smith,FCS,Ivy League,N,Harvard,N,Undrafted,9,113,487,7,4.3,54.1,0.8
+1810,Senorise Perry,FBS,AAC,N,Louisville,N,Undrafted,13,141,677,6,4.8,52.1,0.5
+1811,Seth Fisher,FCS,CAA,N,Richmond,N,Undrafted,25,260,1203,15,4.6,48.1,0.6
+1812,Seth McGowan,FBS,Big 12,Y,Oklahoma,N,Undrafted,8,58,370,3,6.4,46.2,0.4
+1813,Seth Rowland,FCS,OVC,N,Tennessee St.,N,Undrafted,10,95,423,2,4.5,42.3,0.2
+1814,Seth Wilson,FCS,MVFC,N,North Dakota St.,N,Undrafted,8,72,420,1,5.8,52.5,0.1
+1815,Sewo Olonilua,FBS,Big 12,Y,TCU,N,Undrafted,25,269,1172,10,4.4,46.9,0.4
+1816,Shadrach Thornton,FBS,ACC,Y,NC State,N,Undrafted,24,329,1675,13,5.1,69.8,0.5
+1817,Shadrick Byrd,FBS,CUSA,N,Charlotte,N,Undrafted,24,281,1203,7,4.3,50.1,0.3
+1818,Shai McKenzie,FCS,Big South,N,Hampton,N,Undrafted,12,216,1214,8,5.6,101.2,0.7
+1819,Shakif Seymour,FBS,MAC,N,Toledo,N,Undrafted,39,391,2008,22,5.1,51.5,0.6
+1820,Shakir Bell,FCS,MVFC,N,Indiana St.,N,Undrafted,5,78,420,1,5.4,84.0,0.2
+1821,Shamari Brooks,FBS,AAC,N,Tulsa,N,Undrafted,45,793,3729,30,4.7,82.9,0.7
+1822,Shane McLaughlin,FCS,Ivy League,N,Harvard,N,Undrafted,9,155,830,6,5.4,92.2,0.7
+1823,Shane Simpson,FCS,CAA,N,Towson,N,Undrafted,23,292,1495,9,5.1,65.0,0.4
+1824,Shane Tucker,FBS,CUSA,N,Middle Tenn.,N,Undrafted,12,97,486,8,5.0,40.5,0.7
+1825,Shannon Brooks,FBS,Big Ten,Y,Minnesota,N,Undrafted,22,257,1359,12,5.3,61.8,0.5
+1826,Shaq Vann,FBS,MAC,N,Eastern Mich.,N,Undrafted,42,497,2411,21,4.9,57.4,0.5
+1827,Shaquil Terry,FCS,Big South,N,Kennesaw St.,N,Undrafted,27,141,1382,8,9.8,51.2,0.3
+1828,Shaquille Murray-Lawrence,FBS,Mountain West,N,UNLV,N,Undrafted,12,47,418,2,8.9,34.8,0.2
+1829,Shaquille Powell,FBS,ACC,Y,Duke,N,Undrafted,39,321,1504,7,4.7,38.6,0.2
+1830,Shaquille Richard,FCS,Big Sky,N,Portland St.,N,Undrafted,23,178,1032,5,5.8,44.9,0.2
+1831,Shaun Shivers,FBS,Big Ten,Y,Indiana,N,Undrafted,12,143,592,6,4.1,49.3,0.5
+1832,Shaun Wick,FBS,Mountain West,N,Wyoming,N,Undrafted,21,292,1732,15,5.9,82.5,0.7
+1833,Shaun Wilson,FBS,ACC,Y,Duke,N,Undrafted,38,391,2039,15,5.2,53.7,0.4
+1834,Shawn Johnson,FCS,Big Sky,N,Montana St.,N,Undrafted,12,104,609,6,5.9,50.8,0.5
+1835,Shayne Davern,FBS,Mountain West,N,Air Force,N,Undrafted,11,111,513,8,4.6,46.6,0.7
+1836,Shedro Louis,FBS,FBS Independent,N,Liberty,N,Undrafted,22,183,958,11,5.2,43.5,0.5
+1837,Shepard Little,FCS,OVC,N,Eastern Ill.,N,Undrafted,35,434,2783,24,6.4,79.5,0.7
+1838,Sherman Badie,FBS,AAC,N,Tulane,N,Undrafted,12,121,688,3,5.7,57.3,0.2
+1839,Shermari Jones,FBS,Sun Belt,N,Coastal Carolina,N,Undrafted,23,243,1438,16,5.9,62.5,0.7
+1840,Shock Linwood,FBS,Big 12,Y,Baylor,N,Undrafted,48,713,4213,36,5.9,87.8,0.8
+1841,Shomari Lawrence,FBS,CUSA,N,FIU,N,Undrafted,23,232,1163,7,5.0,50.6,0.3
+1842,Shontrelle Johnson,FBS,Big 12,Y,Iowa St.,N,Undrafted,12,90,358,3,4.0,29.8,0.2
+1843,ShunDerrick Powell,FCS,ASUN,N,Central Ark.,N,Undrafted,22,357,2524,24,7.1,114.7,1.1
+1844,Sieh Bangura,FBS,MAC,N,Ohio,N,Undrafted,24,400,1889,20,4.7,78.7,0.8
+1845,Silas Redd,FBS,Pac-12,Y,Southern California,N,Undrafted,6,81,376,1,4.6,62.7,0.2
+1846,Silas Spearman,FBS,CUSA,N,FIU,N,Undrafted,10,132,368,4,2.8,36.8,0.4
+1847,Sincere McCormick,FBS,CUSA,N,UTSA,N,Undrafted,37,724,3929,34,5.4,106.2,0.9
+1848,Sirgeo Hoffman,FCS,Big Sky,N,Portland St.,N,Undrafted,10,143,769,8,5.4,76.9,0.8
+1849,Sirgregory Thornton,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,13,63,354,4,5.6,27.2,0.3
+1850,Snoop Conner,FBS,SEC,Y,Ole Miss,Y,13.0,35,304,1580,26,5.2,45.1,0.7
+1851,Sone Ntoh,FCS,CAA,N,Monmouth,N,Undrafted,11,56,411,14,7.3,37.4,1.3
+1852,Sony Michel,FBS,SEC,Y,Georgia,Y,3.0,39,527,3228,28,6.1,82.8,0.7
+1853,Spencer Alston,FCS,Ivy League,N,Yale,N,Undrafted,10,96,446,8,4.6,44.6,0.8
+1854,Spencer Brown,FBS,CUSA,N,UAB,N,Undrafted,46,858,4011,41,4.7,87.2,0.9
+1855,Spencer Kulcsar,FCS,Ivy League,N,Penn,N,Undrafted,9,110,433,3,3.9,48.1,0.3
+1856,Squally Canada,FBS,FBS Independent,N,BYU,N,Undrafted,11,120,710,6,5.9,64.5,0.5
+1857,Sta'Fon McCray,FCS,SWAC,N,Prairie View,N,Undrafted,10,113,723,7,6.4,72.3,0.7
+1858,Stacey Bedell,FCS,CAA,N,Stony Brook,N,Undrafted,35,512,2603,27,5.1,74.4,0.8
+1859,Stacy Sneed,FBS,AAC,N,Houston,N,Undrafted,12,76,501,5,6.6,41.8,0.4
+1860,Stadford Anderson,FCS,SWAC,N,Alcorn,N,Undrafted,8,126,583,4,4.6,72.9,0.5
+1861,Stanley Williams,FBS,SEC,Y,Kentucky,N,Undrafted,33,366,2511,18,6.9,76.1,0.5
+1862,Star Thomas,FBS,CUSA,N,New Mexico St.,N,Undrafted,28,219,1171,9,5.3,41.8,0.3
+1863,Stedman Mayberry,FBS,Sun Belt,N,Texas St.,N,Undrafted,12,157,593,5,3.8,49.4,0.4
+1864,Stephen Bush,FCS,OVC,N,Tennessee Tech,N,Undrafted,12,62,306,7,4.9,25.5,0.6
+1865,Stephen Carr,FBS,Big Ten,Y,Indiana,N,Undrafted,9,155,600,6,3.9,66.7,0.7
+1866,Stephen Houston,FBS,Big Ten,Y,Indiana,N,Undrafted,12,112,753,5,6.7,62.8,0.4
+1867,Stephon Huderson,FCS,Southland,N,McNeese,N,Undrafted,19,230,1192,7,5.2,62.7,0.4
+1868,Steve McShane,FCS,MVFC,N,Western Ill.,N,Undrafted,33,437,2143,22,4.9,64.9,0.7
+1869,Steven Lakalaka,FBS,Mountain West,N,Hawaii,N,Undrafted,22,272,1114,6,4.1,50.6,0.3
+1870,Steven Long,FCS,Big Sky,N,Portland St.,N,Undrafted,11,88,605,2,6.9,55.0,0.2
+1871,Steven Peoples,FBS,ACC,Y,Virginia Tech,N,Undrafted,13,158,786,6,5.0,60.5,0.5
+1872,Stevie Scott,FBS,Big Ten,Y,Indiana,N,Undrafted,12,228,1137,10,5.0,94.8,0.8
+1873,Stevie Scott III,FBS,Big Ten,Y,Indiana,N,Undrafted,19,334,1406,20,4.2,74.0,1.1
+1874,Steward Butler,FBS,CUSA,N,Marshall,N,Undrafted,24,194,1563,15,8.1,65.1,0.6
+1875,Stockton Owen,FCS,Ivy League,N,Brown,N,Undrafted,10,114,375,7,3.3,37.5,0.7
+1876,Storm Johnson,FBS,AAC,N,UCF,Y,17.0,13,213,1139,14,5.3,87.6,1.1
+1877,Storm Woods,FBS,Pac-12,Y,Oregon St.,N,Undrafted,32,347,1734,12,5.0,54.2,0.4
+1878,Sy'Veon Wilkerson,FCS,MEAC,N,Delaware St.,N,Undrafted,15,269,1109,9,4.1,73.9,0.6
+1879,Sy'veon Wilkerson,FCS,SWAC,N,Jackson St.,N,Undrafted,13,227,1152,9,5.1,88.6,0.7
+1880,Synjyn Days,FBS,ACC,Y,Georgia Tech,N,Undrafted,14,157,924,9,5.9,66.0,0.6
+1881,T.J. Anderson,FCS,CAA,N,Rhode Island,N,Undrafted,10,114,403,3,3.5,40.3,0.3
+1882,T.J. Harden,FBS,Pac-12,Y,UCLA,N,Undrafted,13,156,827,8,5.3,63.6,0.6
+1883,T.J. James,FCS,Pioneer,N,Drake,N,Undrafted,10,108,464,1,4.3,46.4,0.1
+1884,T.J. Logan,FBS,ACC,Y,North Carolina,Y,18.0,35,332,1765,14,5.3,50.4,0.4
+1885,T.J. Pledger,FBS,Pac-12,Y,Utah,N,Undrafted,23,199,1145,11,5.8,49.8,0.5
+1886,T.J. Yeldon,FBS,SEC,Y,Alabama,Y,3.0,25,401,2214,25,5.5,88.6,1.0
+1887,TD Ayo-Durojaiye,FCS,CAA,N,Villanova,N,Undrafted,23,216,1120,10,5.2,48.7,0.4
+1888,TJ Jones,FCS,SoCon,N,Western Caro.,N,Undrafted,21,211,1012,13,4.8,48.2,0.6
+1889,TJ Ruff,FCS,OVC,N,Charleston So.,N,Undrafted,11,158,691,7,4.4,62.8,0.6
+1890,TK Marshall,FCS,MVFC,N,North Dakota St.,N,Undrafted,15,78,384,6,4.9,25.6,0.4
+1891,Ta'Zhawn Henry,FBS,AAC,N,Houston,N,Undrafted,13,111,513,7,4.6,39.5,0.5
+1892,TaMerik Williams,FCS,MVFC,N,North Dakota St.,N,Undrafted,43,346,2240,28,6.5,52.1,0.7
+1893,Taeyler Porter,FCS,SWAC,N,Ark.-Pine Bluff,N,Undrafted,21,418,2152,21,5.1,102.5,1.0
+1894,Tahj Brooks,FBS,Big 12,Y,Texas Tech,N,Undrafted,35,524,2797,24,5.3,79.9,0.7
+1895,Taiwan Deal,FBS,Big Ten,Y,Wisconsin,N,Undrafted,22,199,1048,12,5.3,47.6,0.5
+1896,Taj Butts,FCS,NEC,N,Duquesne,N,Undrafted,11,109,569,3,5.2,51.7,0.3
+1897,Taj Griffin,FBS,Pac-12,Y,Oregon,N,Undrafted,12,77,570,3,7.4,47.5,0.2
+1898,Tamarick Pierce,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,21,156,1012,12,6.5,48.2,0.6
+1899,Tank Bigsby,FBS,SEC,Y,Auburn,Y,7.0,35,541,2906,25,5.4,83.0,0.7
+1900,Taquan Mizzell,FBS,ACC,Y,Virginia,N,Undrafted,24,350,1611,9,4.6,67.1,0.4
+1901,Tarean Folston,FBS,FBS Independent,N,Notre Dame,N,Undrafted,25,263,1359,9,5.2,54.4,0.4
+1902,Targhee Lambson,FCS,ASUN,N,Southern Utah,N,Undrafted,11,104,483,6,4.6,43.9,0.5
+1903,Tarik Cohen,FCS,MEAC,N,N.C. A&T,Y,10.0,46,868,5619,56,6.5,122.2,1.2
+1904,Taron Jones,FCS,Southland,N,Southeastern La.,N,Undrafted,20,124,513,8,4.1,25.6,0.4
+1905,Taven Birdow,FBS,Mountain West,N,Air Force,N,Undrafted,13,180,839,7,4.7,64.5,0.5
+1906,Tavien Feaster,FBS,SEC,Y,South Carolina,N,Undrafted,24,231,1341,12,5.8,55.9,0.5
+1907,Tavion Thomas,FBS,Pac-12,Y,Utah,N,Undrafted,23,346,1795,28,5.2,78.0,1.2
+1908,Tawee Walker,FBS,Big 12,Y,Oklahoma,N,Undrafted,12,102,513,7,5.0,42.8,0.6
+1909,Taylor Duncan,FCS,OVC,N,Eastern Ill.,N,Undrafted,24,333,1529,15,4.6,63.7,0.6
+1910,Tayon Fleet-Davis,FBS,Big Ten,Y,Maryland,N,Undrafted,13,128,721,8,5.6,55.5,0.6
+1911,Te'kendrick Roberson,FCS,OVC,N,Tennessee St.,N,Undrafted,21,276,1277,7,4.6,60.8,0.3
+1912,Tee Mitchell,FCS,SoCon,N,Mercer,N,Undrafted,31,452,2257,19,5.0,72.8,0.6
+1913,Tehran Thomas,FCS,Big Sky,N,UC Davis,N,Undrafted,12,102,686,6,6.7,57.2,0.5
+1914,Telvin Hooks,FCS,OVC,N,Tennessee St.,N,Undrafted,23,255,1112,9,4.4,48.3,0.4
+1915,Teon Dollard,FBS,MAC,N,Akron,N,Undrafted,6,112,666,6,5.9,111.0,1.0
+1916,Terence Stephens Jr.,FCS,NEC,N,Robert Morris,N,Undrafted,22,291,1301,9,4.5,59.1,0.4
+1917,Terence Williams,FBS,Big 12,Y,Baylor,N,Undrafted,21,273,1604,14,5.9,76.4,0.7
+1918,Terion Stewart,FBS,MAC,N,Bowling Green,N,Undrafted,9,125,762,8,6.1,84.7,0.9
+1919,Teriyon Gipson,FBS,Mountain West,N,New Mexico,N,Undrafted,34,442,2928,27,6.6,86.1,0.8
+1920,Terrance Peters,FCS,Southland,N,Houston Christian,N,Undrafted,30,360,1570,7,4.4,52.3,0.2
+1921,Terrance West,FCS,CAA,N,Towson,Y,6.0,16,413,2519,41,6.1,157.4,2.6
+1922,Terrell Jennings,FCS,SWAC,N,Florida A&M,N,Undrafted,25,225,1190,15,5.3,47.6,0.6
+1923,Terrell Newby,FBS,Big Ten,Y,Nebraska,N,Undrafted,26,337,1644,13,4.9,63.2,0.5
+1924,Terrence Franks,FBS,Sun Belt,N,Texas St.,N,Undrafted,12,107,712,8,6.7,59.3,0.7
+1925,Terrence Magee,FBS,SEC,Y,LSU,N,Undrafted,26,198,1197,11,6.0,46.0,0.4
+1926,Terrence Smith,FCS,Pioneer,N,San Diego,N,Undrafted,21,204,1052,10,5.2,50.1,0.5
+1927,Terrence Wilson,FCS,Big South,N,Charleston So.,N,Undrafted,10,87,540,6,6.2,54.0,0.6
+1928,Terrion Avery,FBS,Sun Belt,N,South Alabama,N,Undrafted,12,138,508,1,3.7,42.3,0.1
+1929,Terris Jones-Grigsby,FBS,Pac-12,Y,Arizona,N,Undrafted,12,121,567,3,4.7,47.2,0.2
+1930,Terron Ward,FBS,Pac-12,Y,Oregon St.,N,Undrafted,23,246,1217,15,4.9,52.9,0.7
+1931,Terry Baggett,FBS,FBS Independent,N,Army West Point,N,Undrafted,12,141,1113,8,7.9,92.8,0.7
+1932,Terry Swanson,FBS,MAC,N,Toledo,N,Undrafted,49,614,3601,31,5.9,73.5,0.6
+1933,Tevin Coleman,FBS,Big Ten,Y,Indiana,Y,5.0,21,401,2994,27,7.5,142.6,1.3
+1934,Tevin King,FBS,CUSA,N,Louisiana Tech,N,Undrafted,9,93,539,1,5.8,59.9,0.1
+1935,Tevin McCaster,FCS,MVFC,N,Youngstown St.,N,Undrafted,38,619,2939,36,4.7,77.3,0.9
+1936,Thomas Bertrand-Hudon,FCS,MEAC,N,Delaware St.,N,Undrafted,14,160,708,5,4.4,50.6,0.4
+1937,Thomas Jefferson,FCS,CAA,N,Delaware,N,Undrafted,22,318,1590,13,5.0,72.3,0.6
+1938,Thomas Owens,FCS,OVC,N,Eastern Ky.,N,Undrafted,11,61,368,3,6.0,33.5,0.3
+1939,Thomas Stokes Jr.,FCS,SWAC,N,Mississippi Val.,N,Undrafted,11,137,442,1,3.2,40.2,0.1
+1940,Thomas Tyner,FBS,Pac-12,Y,Oregon,N,Undrafted,12,115,711,9,6.2,59.2,0.8
+1941,Tim Broughton,FCS,OVC,N,Tennessee St.,N,Undrafted,14,237,1146,6,4.8,81.9,0.4
+1942,Tim Cornett,FBS,Mountain West,N,UNLV,N,Undrafted,13,264,1284,15,4.9,98.8,1.2
+1943,Tim Flanders,FCS,Southland,N,Sam Houston,N,Undrafted,14,241,1430,14,5.9,102.1,1.0
+1944,Tim Jordan,FBS,SEC,Y,Tennessee,N,Undrafted,12,132,522,3,4.0,43.5,0.2
+1945,Tim McVey,FBS,Mountain West,N,Air Force,N,Undrafted,25,211,1449,17,6.9,58.0,0.7
+1946,Tim Phillips,FCS,OVC,N,Austin Peay,N,Undrafted,8,100,497,2,5.0,62.1,0.2
+1947,Timothy Carter,FCS,Southland,N,UIW,N,Undrafted,7,57,377,2,6.6,53.9,0.3
+1948,Timothy Jackson,FBS,Mountain West,N,Air Force,N,Undrafted,10,122,745,6,6.1,74.5,0.6
+1949,Tion Green,FBS,AAC,N,Cincinnati,N,Undrafted,36,401,1884,17,4.7,52.3,0.5
+1950,Titus McCoy,FCS,MVFC,N,Indiana St.,N,Undrafted,11,120,565,6,4.7,51.4,0.5
+1951,Titus Swen,FBS,Mountain West,N,Wyoming,N,Undrafted,25,339,1824,15,5.4,73.0,0.6
+1952,Tiyon Evans,FBS,ACC,Y,Louisville,N,Undrafted,15,164,1050,12,6.4,70.0,0.8
+1953,Toa Taua,FBS,Mountain West,N,Nevada,N,Undrafted,59,854,3985,33,4.7,67.5,0.6
+1954,Tobias Little,FCS,MVFC,N,Missouri St.,N,Undrafted,18,201,858,10,4.3,47.7,0.6
+1955,Tobias Lofton,FCS,Southland,N,Nicholls,N,Undrafted,23,186,1054,7,5.7,45.8,0.3
+1956,Todd Gurley,FBS,SEC,Y,Georgia,Y,1.0,10,165,989,10,6.0,98.9,1.0
+1957,Todd Macon,FCS,Big South,N,Liberty,N,Undrafted,10,130,620,7,4.8,62.0,0.7
+1958,Todd Sibley,FCS,CAA,N,UAlbany,N,Undrafted,10,153,987,10,6.5,98.7,1.0
+1959,Tommy Gooden,FCS,SWAC,N,Jackson St.,N,Undrafted,11,166,875,6,5.3,79.5,0.5
+1960,Tonny Lindsey,FBS,Mountain West,N,Utah St.,N,Undrafted,12,148,763,6,5.2,63.6,0.5
+1961,Tony Brooks-James,FBS,Pac-12,Y,Oregon,N,Undrafted,24,194,1269,11,6.5,52.9,0.5
+1962,Tony Jones Jr.,FBS,FBS Independent,N,Notre Dame,N,Undrafted,12,144,857,6,6.0,71.4,0.5
+1963,Tony Mathis Jr.,FBS,Big 12,Y,West Virginia,N,Undrafted,10,135,562,5,4.2,56.2,0.5
+1964,Tony Pollard,FBS,AAC,N,Memphis,Y,11.0,14,78,552,6,7.1,39.4,0.4
+1965,Toren Young,FBS,Big Ten,Y,Iowa,N,Undrafted,13,136,637,5,4.7,49.0,0.4
+1966,Torrance Burgess Jr.,FBS,CUSA,N,UTEP,N,Undrafted,11,124,620,2,5.0,56.4,0.2
+1967,Torrance Marable,FCS,Big South,N,Presbyterian,N,Undrafted,11,181,1038,4,5.7,94.4,0.4
+1968,Tra Barnett,FBS,Sun Belt,N,Georgia St.,N,Undrafted,24,357,2004,19,5.6,83.5,0.8
+1969,Tra Carson,FBS,SEC,Y,Texas A&M,N,Undrafted,25,366,1746,12,4.8,69.8,0.5
+1970,Tra Minter,FBS,Sun Belt,N,South Alabama,N,Undrafted,24,376,1858,11,4.9,77.4,0.5
+1971,Tracey Coppedge,FCS,CAA,N,Elon,N,Undrafted,24,272,1094,3,4.0,45.6,0.1
+1972,Tracy James,FCS,Southland,N,Abilene Christian,N,Undrafted,34,464,2219,22,4.8,65.3,0.6
+1973,Trae Heeter,FCS,Pioneer,N,Butler,N,Undrafted,13,257,1370,13,5.3,105.4,1.0
+1974,Trae Riek,FCS,Big Sky,N,Northern Colo.,N,Undrafted,27,397,2012,16,5.1,74.5,0.6
+1975,Trai Sharp,FCS,CAA,N,James Madison,N,Undrafted,43,391,1926,13,4.9,44.8,0.3
+1976,Tramel Terry,FCS,OVC,N,Jacksonville St.,N,Undrafted,12,97,430,4,4.4,35.8,0.3
+1977,Travis Dye,FBS,Pac-12,Y,Southern California,N,Undrafted,58,666,3995,30,6.0,68.9,0.5
+1978,Travis Etienne,FBS,ACC,Y,Clemson,Y,2.0,55,686,4952,70,7.2,90.0,1.3
+1979,Travis Greene,FBS,MAC,N,Bowling Green,N,Undrafted,40,682,3842,38,5.6,96.0,1.0
+1980,Travis Homer,FBS,ACC,Y,Miami (FL),Y,18.0,26,327,1951,12,6.0,75.0,0.5
+1981,Travis Small,FCS,Big South,N,Coastal Carolina,N,Undrafted,14,68,350,4,5.1,25.0,0.3
+1982,Travis Theis,FCS,MVFC,N,South Dakota,N,Undrafted,39,533,2435,21,4.6,62.4,0.5
+1983,Travon McMillian,FBS,Pac-12,Y,Colorado,N,Undrafted,39,546,2722,21,5.0,69.8,0.5
+1984,Travon Van,FCS,Big Sky,N,Montana,N,Undrafted,25,189,1001,13,5.3,40.0,0.5
+1985,Trayion Durham,FBS,MAC,N,Kent St.,N,Undrafted,12,182,766,6,4.2,63.8,0.5
+1986,Trayveon Williams,FBS,SEC,Y,Texas A&M,Y,15.0,38,578,3412,32,5.9,89.8,0.8
+1987,Tre Harbison,FBS,CUSA,N,Charlotte,N,Undrafted,31,516,2392,17,4.6,77.2,0.5
+1988,Tre King,FBS,Big 12,Y,Texas Tech,N,Undrafted,13,131,623,5,4.8,47.9,0.4
+1989,Tre Madden,FBS,Pac-12,Y,Southern California,N,Undrafted,11,138,703,3,5.1,63.9,0.3
+1990,Tre Mason,FBS,SEC,Y,Auburn,Y,5.0,14,317,1816,23,5.7,129.7,1.6
+1991,Tre Peterson,FCS,Ivy League,N,Yale,N,Undrafted,10,112,724,6,6.5,72.4,0.6
+1992,Tre Siggers,FBS,AAC,N,SMU,N,Undrafted,29,384,2038,16,5.3,70.3,0.6
+1993,Tre Solomon,FCS,Ivy League,N,Penn,N,Undrafted,28,369,1860,19,5.0,66.4,0.7
+1994,Tre Watson,FBS,Big 12,Y,Texas,N,Undrafted,37,417,1999,10,4.8,54.0,0.3
+1995,TreVeyon Henderson,FBS,Big Ten,Y,Ohio St.,N,Undrafted,31,446,2745,32,6.2,88.5,1.0
+1996,Trelon Smith,FBS,SEC,Y,Arkansas,N,Undrafted,23,253,1308,10,5.2,56.9,0.4
+1997,Tremane McCullough,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,11,170,1028,5,6.0,93.5,0.5
+1998,Trent Garland,FCS,OVC,N,UT Martin,N,Undrafted,22,231,1160,11,5.0,52.7,0.5
+1999,Trenton Turrentine,FBS,FBS Independent,N,Army West Point,N,Undrafted,11,56,376,1,6.7,34.2,0.1
+2000,Treshaun Ward,FBS,Big 12,Y,Kansas St.,N,Undrafted,33,300,1786,16,6.0,54.1,0.5
+2001,Treshawn Garrett,FCS,Big Sky,N,Weber St.,N,Undrafted,36,380,1791,16,4.7,49.8,0.4
+2002,Trestan Ebner,FBS,Big 12,Y,Baylor,Y,20.0,14,148,799,2,5.4,57.1,0.1
+2003,Trevon Bryant,FCS,CAA,N,New Hampshire,N,Undrafted,11,82,496,5,6.0,45.1,0.5
+2004,Trevon Walters,FCS,SWAC,N,Alabama A&M,N,Undrafted,21,236,1077,10,4.6,51.3,0.5
+2005,Trevor Allen,FCS,MVFC,N,UNI,N,Undrafted,39,404,1666,13,4.1,42.7,0.3
+2006,Trevor Bouma,FCS,MVFC,N,South Dakota,N,Undrafted,29,426,1906,13,4.5,65.7,0.4
+2007,Trevor Etienne,FBS,SEC,Y,Florida,N,Undrafted,24,249,1472,14,5.9,61.3,0.6
+2008,Trey Benson,FBS,ACC,Y,Florida St.,Y,2.0,26,310,1896,23,6.1,72.9,0.9
+2009,Trey Edmunds,FBS,ACC,Y,Virginia Tech,N,Undrafted,12,166,675,10,4.1,56.2,0.8
+2010,Trey Flowers,FCS,Ivy League,N,Penn,N,Undrafted,17,214,888,13,4.1,52.2,0.8
+2011,Trey Foster,FCS,SoCon,N,ETSU,N,Undrafted,8,81,453,4,5.6,56.6,0.5
+2012,Trey Potts,FBS,Big Ten,Y,Minnesota,N,Undrafted,5,112,552,6,4.9,110.4,1.2
+2013,Trey Ragas,FBS,Sun Belt,N,Louisiana,N,Undrafted,49,596,3572,38,6.0,72.9,0.8
+2014,Trey Sermon,FBS,Big Ten,Y,Ohio St.,Y,4.0,36,401,2561,22,6.4,71.1,0.6
+2015,Trey Smith,FBS,Mountain West,N,Wyoming,N,Undrafted,6,88,488,5,5.5,81.3,0.8
+2016,Trey Sneed,FCS,Patriot,N,Fordham,N,Undrafted,26,368,1868,14,5.1,71.8,0.5
+2017,Trey Watts,FBS,CUSA,N,Tulsa,N,Undrafted,12,268,1329,11,5.0,110.8,0.9
+2018,Trey Williams,FBS,SEC,Y,Texas A&M,N,Undrafted,23,139,967,13,7.0,42.0,0.6
+2019,Trey Wilson III,FCS,Patriot,N,Fordham,N,Undrafted,11,103,566,3,5.5,51.5,0.3
+2020,Treyvon Green,FBS,Big Ten,Y,Northwestern,N,Undrafted,11,137,736,8,5.4,66.9,0.7
+2021,Treyvon Hughes,FBS,CUSA,N,UTEP,N,Undrafted,12,167,682,12,4.1,56.8,1.0
+2022,Tromaine Dennis,FCS,Big Sky,N,Northern Colo.,N,Undrafted,11,199,842,6,4.2,76.5,0.5
+2023,Troy Andersen,FCS,Big Sky,N,Montana St.,N,Undrafted,11,90,515,5,5.7,46.8,0.5
+2024,Troymaine Pope,FCS,OVC,N,Jacksonville St.,N,Undrafted,41,486,3130,33,6.4,76.3,0.8
+2025,Tucker Gregg,FBS,Sun Belt,N,Georgia St.,N,Undrafted,35,454,2126,27,4.7,60.7,0.8
+2026,Tucker Yinger,FCS,Pioneer,N,Dayton,N,Undrafted,40,597,3757,18,6.3,93.9,0.4
+2027,Tuna Altahir,FCS,Big Sky,N,Eastern Wash.,N,Undrafted,22,229,954,9,4.2,43.4,0.4
+2028,Tupac Isme,FCS,MEAC,N,Bethune-Cookman,N,Undrafted,11,84,424,3,5.0,38.5,0.3
+2029,Ty Brooks,FCS,MVFC,N,North Dakota St.,N,Undrafted,39,313,2405,17,7.7,61.7,0.4
+2030,Ty Chandler,FBS,ACC,Y,North Carolina,Y,16.0,47,532,2833,24,5.3,60.3,0.5
+2031,Ty Flanagan,FCS,Big Sky,N,Idaho St.,N,Undrafted,30,430,2373,24,5.5,79.1,0.8
+2032,Ty Isaac,FBS,Big Ten,Y,Michigan,N,Undrafted,9,88,548,2,6.2,60.9,0.2
+2033,Ty Johnson,FBS,Big Ten,Y,Maryland,Y,16.0,34,313,2385,14,7.6,70.1,0.4
+2034,Ty Jordan,FBS,Pac-12,Y,Utah,N,Undrafted,5,83,597,6,7.2,119.4,1.2
+2035,Ty Son Lawton,FCS,CAA,N,Stony Brook,N,Undrafted,24,424,2004,20,4.7,83.5,0.8
+2036,Tye Edwards,FCS,MVFC,N,UNI,N,Undrafted,9,109,535,5,4.9,59.4,0.6
+2037,Tye Evans,FBS,MAC,N,Ball St.,N,Undrafted,8,80,360,2,4.5,45.0,0.2
+2038,Tyjae Spears,FBS,AAC,N,Tulane,Y,5.0,26,358,2444,28,6.8,94.0,1.1
+2039,Tylan Hines,FBS,Mountain West,N,Hawaii,N,Undrafted,13,83,634,2,7.6,48.8,0.2
+2040,Tyler Allgeier,FBS,FBS Independent,N,BYU,Y,12.0,24,426,2736,36,6.4,114.0,1.5
+2041,Tyler Badie,FBS,SEC,Y,Missouri,Y,18.0,12,268,1604,14,6.0,133.7,1.2
+2042,Tyler Ervin,FBS,Mountain West,N,San Jose St.,Y,5.0,25,452,2489,17,5.5,99.6,0.7
+2043,Tyler Gaffney,FBS,Pac-12,Y,Stanford,Y,16.0,14,330,1709,21,5.2,122.1,1.5
+2044,Tyler Goodson,FBS,Big Ten,Y,Iowa,N,Undrafted,34,533,2551,18,4.8,75.0,0.5
+2045,Tyler Hoosman,FCS,MVFC,N,North Dakota,N,Undrafted,18,265,1397,18,5.3,77.6,1.0
+2046,Tyler King,FBS,CUSA,N,Marshall,N,Undrafted,19,266,1475,11,5.5,77.6,0.6
+2047,Tyler Lavine,FBS,AAC,N,SMU,N,Undrafted,13,142,642,10,4.5,49.4,0.8
+2048,Tyler Nevens,FBS,Mountain West,N,San Jose St.,N,Undrafted,39,532,2505,17,4.7,64.2,0.4
+2049,Tyler Purdy,FCS,Patriot,N,Holy Cross,N,Undrafted,22,138,831,5,6.0,37.8,0.2
+2050,Tyler Renew,FCS,SoCon,N,The Citadel,N,Undrafted,37,582,2696,14,4.6,72.9,0.4
+2051,Tyler Varga,FCS,Ivy League,N,Yale,N,Undrafted,10,233,1423,22,6.1,142.3,2.2
+2052,Tyray Devezin,FCS,SoCon,N,Mercer,N,Undrafted,25,426,2129,20,5.0,85.2,0.8
+2053,Tyre Bracken,FCS,SWAC,N,Southern U.,N,Undrafted,10,70,435,3,6.2,43.5,0.3
+2054,Tyre Shelton,FBS,CUSA,N,Louisiana Tech,N,Undrafted,22,205,1138,7,5.6,51.7,0.3
+2055,Tyreek Hill,FBS,Big 12,Y,Oklahoma St.,N,Undrafted,12,102,534,1,5.2,44.5,0.1
+2056,Tyreis Thomas,FBS,Sun Belt,N,South Alabama,N,Undrafted,11,113,552,2,4.9,50.2,0.2
+2057,Tyrell Price,FCS,SoCon,N,Chattanooga,N,Undrafted,26,376,1776,22,4.7,68.3,0.8
+2058,Tyrell Robinson,FBS,FBS Independent,N,Army West Point,N,Undrafted,25,132,1033,3,7.8,41.3,0.1
+2059,Tyrese White,FCS,WAC,N,Abilene Christian,N,Undrafted,17,132,710,5,5.4,41.8,0.3
+2060,Tyriek Hopkins,FCS,Patriot,N,Fordham,N,Undrafted,11,106,476,4,4.5,43.3,0.4
+2061,Tyrion Davis-Price,FBS,SEC,Y,LSU,Y,5.0,21,315,1449,9,4.6,69.0,0.4
+2062,Tyrone Owens,FBS,Mountain West,N,New Mexico,N,Undrafted,36,462,2554,17,5.5,70.9,0.5
+2063,Tyrone Tracy,FBS,Big Ten,Y,Purdue,Y,13.0,11,113,716,8,6.3,65.1,0.7
+2064,Tyshon King,FCS,MVFC,N,Youngstown St.,N,Undrafted,13,187,1011,9,5.4,77.8,0.7
+2065,Tyson Alexander,FCS,SWAC,N,Jackson St.,N,Undrafted,5,62,377,1,6.1,75.4,0.2
+2066,Tyvis Smith,FCS,MVFC,N,UNI,N,Undrafted,25,322,1676,10,5.2,67.0,0.4
+2067,Tyvon Edmonds Jr.,FCS,NEC,N,Merrimack,N,Undrafted,11,279,1247,10,4.5,113.4,0.9
+2068,Ulonzo Gilliam,FCS,Big Sky,N,UC Davis,N,Undrafted,51,887,4617,44,5.2,90.5,0.9
+2069,Ulysses Bentley IV,FBS,SEC,Y,Ole Miss,N,Undrafted,34,361,2063,19,5.7,60.7,0.6
+2070,Ulysses Bryant,FCS,Pioneer,N,Jacksonville,N,Undrafted,42,549,3061,22,5.6,72.9,0.5
+2071,Uriah West,FCS,ASUN,N,Jacksonville St.,N,Undrafted,19,194,1060,10,5.5,55.8,0.5
+2072,Van Edwards,FBS,MAC,N,Akron,N,Undrafted,11,147,558,3,3.8,50.7,0.3
+2073,Vance McShane,FCS,MVFC,N,UNI,N,Undrafted,11,128,711,3,5.6,64.6,0.3
+2074,Vavae Malepeai,FBS,Pac-12,Y,Southern California,N,Undrafted,20,219,1005,12,4.6,50.2,0.6
+2075,Vernon Scott,FCS,MVFC,N,Missouri St.,N,Undrafted,9,58,296,3,5.1,32.9,0.3
+2076,Vic Enwere,FBS,Pac-12,Y,California,N,Undrafted,13,106,505,8,4.8,38.8,0.6
+2077,Victor Rosa,FBS,FBS Independent,N,UConn,N,Undrafted,23,252,1186,14,4.7,51.6,0.6
+2078,Vincent Davis,FBS,Mountain West,N,UNLV,N,Undrafted,39,430,1985,17,4.6,50.9,0.4
+2079,Vinny Miller,FCS,SoCon,N,The Citadel,N,Undrafted,36,202,1359,5,6.7,37.8,0.1
+2080,Vintavious Cooper,FBS,CUSA,N,East Carolina,N,Undrafted,13,230,1193,13,5.2,91.8,1.0
+2081,Wale Onakoya,FCS,Pioneer,N,Marist,N,Undrafted,10,73,356,3,4.9,35.6,0.3
+2082,Walter Fletcher,FBS,MAC,N,Ball St.,N,Undrafted,12,132,726,5,5.5,60.5,0.4
+2083,Warren Wand,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,49,595,3095,22,5.2,63.2,0.4
+2084,Wayne Gallman,FBS,ACC,Y,Clemson,Y,14.0,42,676,3429,34,5.1,81.6,0.8
+2085,Wayne Taulapapa,FBS,Pac-12,Y,Washington,N,Undrafted,23,228,1282,16,5.6,55.7,0.7
+2086,Wendell Smallwood,FBS,Big 12,Y,West Virginia,Y,11.0,26,386,2241,11,5.8,86.2,0.4
+2087,Wenkers Wright,FCS,MVFC,N,Illinois St.,N,Undrafted,10,161,625,2,3.9,62.5,0.2
+2088,Wes Hills,FCS,CAA,N,Delaware,N,Undrafted,19,260,1680,13,6.5,88.4,0.7
+2089,Wesley Dugger,FCS,Pioneer,N,Davidson,N,Undrafted,32,617,3424,46,5.5,107.0,1.4
+2090,Wesley Fields,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,37,474,2543,21,5.4,68.7,0.6
+2091,Wesley Graves,FCS,CAA,N,N.C. A&T,N,Undrafted,10,86,397,1,4.6,39.7,0.1
+2092,Wesley Kennedy III,FBS,Sun Belt,N,Ga. Southern,N,Undrafted,17,185,1271,17,6.9,74.8,1.0
+2093,Will Gay,FCS,SoCon,N,Wofford,N,Undrafted,25,155,1000,4,6.5,40.0,0.2
+2094,Will Knight,FCS,CAA,N,Delaware,N,Undrafted,12,125,919,7,7.4,76.6,0.6
+2095,Will Matthews,FBS,MAC,N,Kent St.,N,Undrafted,8,123,570,3,4.6,71.2,0.4
+2096,Will Shipley,FBS,ACC,Y,Clemson,Y,7.0,36,526,2747,31,5.2,76.3,0.9
+2097,Will Young,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,11,163,838,6,5.1,76.2,0.5
+2098,William Parker,FCS,MEAC,N,Howard,N,Undrafted,20,236,1130,9,4.8,56.5,0.4
+2099,William Robinson,FCS,FCS Independent,N,Hampton,N,Undrafted,10,113,799,7,7.1,79.9,0.7
+2100,William Stanback,FBS,AAC,N,UCF,N,Undrafted,23,294,1140,16,3.9,49.6,0.7
+2101,Willie Matthews,FCS,Southland,N,Central Ark.,N,Undrafted,22,310,1304,17,4.2,59.3,0.8
+2102,Xavier Finney,FCS,Big Sky,N,Idaho St.,N,Undrafted,35,658,3254,23,4.9,93.0,0.7
+2103,Xavier Harris,FCS,Big Sky,N,Montana,N,Undrafted,12,174,814,5,4.7,67.8,0.4
+2104,Xavier Johnson,FBS,Sun Belt,N,South Alabama,N,Undrafted,24,296,1787,17,6.0,74.5,0.7
+2105,Xavier Jones,FBS,AAC,N,SMU,N,Undrafted,25,396,1910,33,4.8,76.4,1.3
+2106,Xavier Roberson,FCS,Southland,N,Southeastern La.,N,Undrafted,14,117,538,6,4.6,38.4,0.4
+2107,Xavier White,FBS,Big 12,Y,Texas Tech,N,Undrafted,8,62,436,2,7.0,54.5,0.2
+2108,Xavier Williams,FBS,MAC,N,Kent St.,N,Undrafted,13,125,812,3,6.5,62.5,0.2
+2109,Xazavian Valladay,FBS,Pac-12,Y,Arizona St.,N,Undrafted,42,770,4077,32,5.3,97.1,0.8
+2110,Xzavion Evans,FCS,MEAC,N,Norfolk St.,N,Undrafted,10,97,477,1,4.9,47.7,0.1
+2111,Yahkee Johnson,FCS,MEAC,N,Hampton,N,Undrafted,22,291,1546,12,5.3,70.3,0.5
+2112,Yeedee Thaenrat,FCS,CAA,N,Towson,N,Undrafted,34,410,1854,22,4.5,54.5,0.6
+2113,Zach Bauman,FCS,Big Sky,N,Northern Ariz.,N,Undrafted,12,270,1456,9,5.4,121.3,0.8
+2114,Zach Charbonnet,FBS,Pac-12,Y,UCLA,Y,3.0,35,547,3222,38,5.9,92.1,1.1
+2115,Zach Davis,FCS,Patriot,N,Fordham,N,Undrafted,12,200,1013,7,5.1,84.4,0.6
+2116,Zach Evans,FBS,SEC,Y,Ole Miss,Y,14.0,27,290,1999,18,6.9,74.0,0.7
+2117,Zach Hrbacek,FCS,WAC,N,Sam Houston,N,Undrafted,9,86,495,3,5.8,55.0,0.3
+2118,Zach Laskey,FBS,ACC,Y,Georgia Tech,N,Undrafted,25,255,1336,16,5.2,53.4,0.6
+2119,Zach Smith,FCS,Big Sky,N,Weber St.,N,Undrafted,23,200,1026,4,5.1,44.6,0.2
+2120,Zach Zenner,FCS,MVFC,N,South Dakota St.,N,Undrafted,28,688,4034,45,5.9,144.1,1.6
+2121,Zach Zwinak,FBS,Big Ten,Y,Penn St.,N,Undrafted,12,210,989,12,4.7,82.4,1.0
+2122,Zachary Palmer-Smith,FCS,NEC,N,Wagner,N,Undrafted,11,135,699,3,5.2,63.5,0.3
+2123,Zack Bair,FCS,Ivy League,N,Dartmouth,N,Undrafted,9,88,476,2,5.4,52.9,0.2
+2124,Zack Langer,FBS,AAC,N,Tulsa,N,Undrafted,21,397,1578,22,4.0,75.1,1.0
+2125,Zack Moss,FBS,Pac-12,Y,Utah,Y,8.0,35,628,3685,36,5.9,105.3,1.0
+2126,Zahir Abdus-Salaam,FBS,MAC,N,Western Mich.,N,Undrafted,12,123,470,5,3.8,39.2,0.4
+2127,Zaire Williams,FBS,AAC,N,Temple,N,Undrafted,11,101,533,3,5.3,48.5,0.3
+2128,Zak Wallace,FBS,Sun Belt,N,Arkansas St.,N,Undrafted,36,443,2393,37,5.4,66.5,1.0
+2129,Zamir White,FBS,SEC,Y,Georgia,Y,8.0,25,304,1635,22,5.4,65.4,0.9
+2130,Zander Horvath,FBS,Big Ten,Y,Purdue,Y,23.0,6,89,442,2,5.0,73.7,0.3
+2131,Zane Dudek,FCS,Ivy League,N,Yale,N,Undrafted,20,293,1887,23,6.4,94.4,1.2
+2132,Zaquandre White,FBS,SEC,Y,South Carolina,N,Undrafted,12,88,583,2,6.6,48.6,0.2
+2133,Zaythan Hill,FCS,Patriot,N,Lehigh,N,Undrafted,11,99,393,5,4.0,35.7,0.5
+2134,Zion Custis,FCS,OVC,N,Southeast Mo. St.,N,Undrafted,19,192,868,9,4.5,45.7,0.5
+2135,Zoe Bryant,FCS,CAA,N,Rhode Island,N,Undrafted,9,114,456,3,4.0,50.7,0.3
+2136,Zola Davis,FCS,Big South,N,Presbyterian,N,Undrafted,10,118,440,2,3.7,44.0,0.2
+2137,Zonovan Knight,FBS,ACC,Y,NC State,N,Undrafted,36,419,2286,18,5.5,63.5,0.5
+2138,Zuberi Mobley,FBS,CUSA,N,Fla. Atlantic,N,Undrafted,12,101,534,3,5.3,44.5,0.2
+2139,Zurlon Tipton,FBS,MAC,N,Central Mich.,N,Undrafted,6,74,398,8,5.4,66.3,1.3
